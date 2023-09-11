@@ -1,0 +1,3 @@
+# Bookmarks
+
+Bookmarks collection manager
