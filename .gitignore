@@ -20,3 +20,12 @@
 
 npm-debug.log*
 
+# TMP
+db
+public
+src
+utilities
+.env
+.env.local
+.env.development.local
+changelog.txt
