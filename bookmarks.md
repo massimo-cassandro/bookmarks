@@ -60,7 +60,7 @@
 * 🟡 svgjs <https://svgjs.dev/docs/3.1/> #svg #javascript #animazioni
 * 🟡 Snap.svg <http://snapsvg.io/> #svg #javascript #animazioni
 * 🟡 Greensock <https://greensock.com/> #svg #javascript #animazioni
-* 🟡 SVG Anima <https://svganima.com/app/> #svg #javascript #animazioni
+* SVG Anima <https://svganima.com/app/> #svg #javascript #animazioni
 
 
 ## Colori
