@@ -83,7 +83,6 @@
 * Make text fit its parent size using JavaScript <https://dev.to/jankapunkt/make-text-fit-it-s-parent-size-using-javascript-m40> #string manipulation
 
 
-
 ## Web vitals / perfomance / testing
 * GoogleChrome/lighthouse: Automated auditing, performance metrics, and best practices for the web. <https://github.com/GoogleChrome/lighthouse>  #google #web perfomance
 * PageSpeed Insights <https://developers.google.com/speed/pagespeed/insights/> #google #testing #tools #web development #web perfomance
@@ -92,6 +91,7 @@
 * <https://www.browserstack.com/> #testing
 * Webhint documentation <https://webhint.io/docs/user-guide/configuring-webhint/summary/> #linters
 * The original Website Carbon calculator <https://www.websitecarbon.com/> #web perfomance
+
 
 ## Accessibilità
 * ARIA Patterns | APG | WAI | W3C <https://www.w3.org/WAI/ARIA/apg/patterns/> #accessibilità #aria (html) 
@@ -122,6 +122,7 @@
 * Persepolis Reimagined <https://persepolis.getty.edu/> #arte
 * Art Project, powered by Google <http://www.googleartproject.com/> #arte
 * archives.design. A digital archive of graphic design related items that are available on the Internet Archives <https://archives.design> #design #idee
+* Refero — design references for your next project <https://refero.design/> #design #idee
 
 ## React / web components / styled components / css modules
 * 🟡 Open Props: sub-atomic styles <https://open-props.style/> #css #librerie #react
@@ -198,6 +199,7 @@
 * Modern fluid typography editor <https://modern-fluid-typography.vercel.app/> #tipografia
 * Modern Fluid Typography Using CSS Clamp <https://www.smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/> #tipografia
 * RFS <https://github.com/twbs/rfs> #css #sass #tipografia
+* 8 micro tips for remarkably better typography <https://uxdesign.cc/8-micro-tips-for-remarkably-better-typography-986c8c4f6d85> #tipografia #design
 
 
 ## Twig / Symfony
