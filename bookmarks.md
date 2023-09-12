@@ -43,10 +43,22 @@
 * 🟡 Bézier curves <https://blog.richardekwonye.com/bezier-curves> #bezier
 
 
-## Immagini / SVG
+## Immagini
 * 🟡 Squoosh <https://squoosh.app/> #immagini #tools 
-* 🟡 SVGOMG - SVGO's Missing GUI <https://jakearchibald.github.io/svgomg/> #svg #tools 
 * Lint Images <javascript:(function(){!function()%7Bvar%20e%3Ddocument.createElement(%22script%22)%3Be.id%3D%22respimagelint-script%22%2Ce.type%3D%22text%2Fjavascript%22%2Ce.src%3D%22https%3A%2F%2Fausi.github.io%2Frespimagelint%2Fcollector.js%3F%22%2BDate.now()%2Cdocument.body.appendChild(e)%7D()%3B})()> #immagini #linters
+
+## SVG
+* 🟡 SVGOMG - SVGO's Missing GUI <https://jakearchibald.github.io/svgomg/> #svg #tools 
+* SvgPathEditor <https://yqnn.github.io/svg-path-editor/> #svg #tools
+* Clippy — CSS clip-path maker <https://bennettfeely.com/clippy/> #svg #tools
+* SVG Path Visualizer <https://svg-path-visualizer.netlify.app> #svg #tools
+* SVG Stuff <https://sean.brunnock.com/SVG/> #svg
+* Snap.svg - Home <http://snapsvg.io/> #svg #javascript
+* SVG.js v3.0 | Home <https://svgjs.dev/docs/3.0/> #svg #javascript
+* vivus.js - svg animation <https://maxwellito.github.io/vivus/> #svg #javascript
+* Using Javascript with SVG <https://www.petercollingridge.co.uk/tutorials/svg/interactive/javascript/> #svg #javascript
+* 🟡 svgjs <https://svgjs.dev/docs/3.1/> #svg #javascript #animazioni
+* 🟡 Snap.svg <http://snapsvg.io/> #svg #javascript #animazioni
 
 
 ## Colori
@@ -354,19 +366,6 @@
 * Plus Codes <https://maps.google.com/pluscodes/> #google #mappe
 * Chartist - Simple responsive charts <https://gionkunz.github.io/chartist-js/> #charts 
 * Frappe Charts: Simple and Modern SVG Charts <https://frappe.io/charts> #charts 
-
-
-## SVG
-* SvgPathEditor <https://yqnn.github.io/svg-path-editor/> #svg #tools
-* Clippy — CSS clip-path maker <https://bennettfeely.com/clippy/> #svg #tools
-* SVG Path Visualizer <https://svg-path-visualizer.netlify.app> #svg #tools
-* SVG Stuff <https://sean.brunnock.com/SVG/> #svg
-* Snap.svg - Home <http://snapsvg.io/> #svg #javascript
-* SVG.js v3.0 | Home <https://svgjs.dev/docs/3.0/> #svg #javascript
-* vivus.js - svg animation <https://maxwellito.github.io/vivus/> #svg #javascript
-* Using Javascript with SVG <https://www.petercollingridge.co.uk/tutorials/svg/interactive/javascript/> #svg #javascript
-* 🟡 svgjs <https://svgjs.dev/docs/3.1/> #svg #javascript #animazioni
-* 🟡 Snap.svg <http://snapsvg.io/> #svg #javascript #animazioni
 
 
 ## Dashboard
