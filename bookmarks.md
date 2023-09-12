@@ -61,6 +61,7 @@
 * 🟡 Snap.svg <http://snapsvg.io/> #svg #javascript #animazioni
 * 🟡 Greensock <https://greensock.com/> #svg #javascript #animazioni
 * SVG Anima <https://svganima.com/app/> #svg #javascript #animazioni
+* SVGator <https://www.svgator.com/> #svg #javascript #animazioni
 
 
 ## Colori
