@@ -365,6 +365,8 @@
 * SVG.js v3.0 | Home <https://svgjs.dev/docs/3.0/> #svg #javascript
 * vivus.js - svg animation <https://maxwellito.github.io/vivus/> #svg #javascript
 * Using Javascript with SVG <https://www.petercollingridge.co.uk/tutorials/svg/interactive/javascript/> #svg #javascript
+* 🟡 svgjs <https://svgjs.dev/docs/3.1/> #svg #javascript #animazioni
+* 🟡 Snap.svg <http://snapsvg.io/> #svg #javascript #animazioni
 
 
 ## Dashboard
