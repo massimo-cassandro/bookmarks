@@ -59,6 +59,7 @@
 * Using Javascript with SVG <https://www.petercollingridge.co.uk/tutorials/svg/interactive/javascript/> #svg #javascript
 * 🟡 svgjs <https://svgjs.dev/docs/3.1/> #svg #javascript #animazioni
 * 🟡 Snap.svg <http://snapsvg.io/> #svg #javascript #animazioni
+* 🟡 Greensock <https://greensock.com/> #svg #javascript #animazioni
 
 
 ## Colori
