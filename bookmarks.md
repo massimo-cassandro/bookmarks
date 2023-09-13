@@ -305,7 +305,8 @@
 * Cell Object | SheetJS Community Edition <https://docs.sheetjs.com/docs/csf/cell> #reference #javascript #excel
 * Overview | SheetJS Community Edition <https://docs.sheetjs.com/docs/> #reference #javascript #excel
 * collect.js <https://collect.js.org/> #javascript #librerie  #reference
-* Scroll Shadows With JavaScript | CSS-Tricks - CSS-Tricks <https://css-tricks.com/scroll-shadows-with-javascript/> #css #javascript 
+* Scroll Shadows With JavaScript | CSS-Tricks - CSS-Tricks <https://css-tricks.com/scroll-shadows-with-javascript/> #css #javascript
+* Platform.js <https://github.com/bestiejs/platform.js#readme> #javascript #librerie #browsers
 
 
 
