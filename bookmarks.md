@@ -143,7 +143,7 @@
 * 🟡 Open Props: sub-atomic styles <https://open-props.style/> #css #librerie #react
 * React – Una libreria JavaScript per creare interfacce utente <https://it.reactjs.org/> #react
 * Create React App with Multiple Entry Points - Digital Inspiration <https://www.labnol.org/code/react-multiple-entry-points-210512> #react
-* 🟡 Headless UI - Unstyled, fully accessible UI components <https://headlessui.com/> #react #headless
+* 🟡 Headless UI - Unstyled, fully accessible UI components <https://headlessui.com/> #react #headless component
 * 💅 Styled Components Mixins | ⚡maddev <https://maddev.netlify.app/development/styled_components_mixins/> #styled components #react
 * Publish React components as an npm package | by JB | Level Up Coding <https://levelup.gitconnected.com/publish-react-components-as-an-npm-package-7a671a2fb7f> #react #npm 
 * Create React App <https://create-react-app.dev/> #react
