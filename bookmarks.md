@@ -291,6 +291,7 @@
 * 🟡 GRID: A simple visual cheatsheet for CSS Grid Layout <https://grid.malven.co/> #css
 * 🟡 FLEX: A simple visual cheatsheet for flexbox <https://flexbox.malven.co/> #css
 * CSS Calc <http://nico-izo.github.io/calc.html> #css #tools
+* Tip: Perfect nested border radius in CSS <https://www.30secondsofcode.org/css/s/nested-border-radius/> #css #border (css)
 
 
 ## Javascript
