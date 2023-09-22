@@ -46,6 +46,7 @@
 ## Immagini
 * 🟡 Squoosh <https://squoosh.app/> #immagini #tools 
 * RespImageLint - Linter for Responsive Images <https://ausi.github.io/respimagelint/> #immagini #linters
+* Responsive Image Breakpoints Generator <https://responsivebreakpoints.com/> #tools #immagini #responsive design #responsive images
 
 ## SVG
 * 🟡 SVGOMG - SVGO's Missing GUI <https://jakearchibald.github.io/svgomg/> #svg #tools 
