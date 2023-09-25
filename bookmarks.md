@@ -141,6 +141,7 @@
 * Refero — design references for your next project <https://refero.design/> #design #idee
 
 ## React / web components / styled components / css modules
+* 🟡 Design and performance patterns <https://www.patterns.dev/posts> #react #javascript
 * 🟡 Open Props: sub-atomic styles <https://open-props.style/> #css #librerie #react
 * React – Una libreria JavaScript per creare interfacce utente <https://it.reactjs.org/> #react
 * Create React App with Multiple Entry Points - Digital Inspiration <https://www.labnol.org/code/react-multiple-entry-points-210512> #react
