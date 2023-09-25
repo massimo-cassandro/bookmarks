@@ -5,7 +5,7 @@
 * 🟡 DevTools Tips <https://devtoolstips.org/> #browsers #web development
 * 🟡 snippet generator <https://snippet-generator.app/> #ide #tools #vscode 
 * 🟡 Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript <https://regex101.com/> #regexp 
-* 🟡 Patterns <https://web.dev/patterns/> #web components #react
+* 🟡 Patterns <https://web.dev/patterns/> #web components
 * 🟡 Faker <https://massimo-cassandro.github.io/area-test/2019-01-faker/index.html> #fakers #m
 * 🟡 JSitor - JavaScript, HTML, CSS, online editor <https://jsitor.com/> #playground
 * 🟡 MDN Playground <https://developer.mozilla.org/en-US/play> #playground
