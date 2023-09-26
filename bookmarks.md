@@ -23,7 +23,7 @@
 * JSON To SQL Converter <http://convertjson.com/json-to-sql.htm> #converter #json #sql #tools 
 * Support Details [Get Your Browser Version, System Information & More] <https://supportdetails.net/> #tools 
 * ✿ dabblet.com <http://dabblet.com/> #tools #css
-* debug horiz scroll bar <javascript:(function(d){var w=d.documentElement.offsetWidth,t=d.createTreeWalker(d.body,NodeFilter.SHOW_ELEMENT),b;while(t.nextNode()){b=t.currentNode.getBoundingClientRect();if(b.right>w||b.left<0){t.currentNode.style.setProperty('outline','1px dotted red','important');console.log(t.currentNode);}};}(document));> #tools #css
+* debug horiz scroll bar (https://gist.github.com/cuth/c1ddf2b1ce2fb07e512a) <javascript:(function(d){var w=d.documentElement.offsetWidth,t=d.createTreeWalker(d.body,NodeFilter.SHOW_ELEMENT),b;while(t.nextNode()){b=t.currentNode.getBoundingClientRect();if(b.right>w||b.left<0){t.currentNode.style.setProperty('outline','1px dotted red','important');console.log(t.currentNode);}};}(document));> #tools #css
 * JSON generator <https://next.json-generator.com/> #tools #json
 * https://jsoneditoronline.org/ <https://jsoneditoronline.org/> #tools #json
 * View Source <https://neatnik.net/view-source/> #mobile #tools 
