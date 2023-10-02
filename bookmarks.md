@@ -35,6 +35,7 @@
 * Grid lover (vertcal Rythm) <https://gridlover.net/try>  #tools #css
 * 🟡 CSS Background Pattern Generator <https://10015.io/tools/css-background-pattern-generator> #tools #css #patterns
 * 🟡 Collections <https://phuoc.ng/collections/> #css #javascript #dom
+* Cookie Consent Kit Banner - Webtools documentation - EC Extranet Wiki <https://webgate.ec.europa.eu/fpfis/wikis/display/webtools/Cookie+Consent+Kit+Banner> #cookie
 
 
 
