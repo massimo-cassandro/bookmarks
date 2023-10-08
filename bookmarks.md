@@ -36,6 +36,7 @@
 * 🟡 CSS Background Pattern Generator <https://10015.io/tools/css-background-pattern-generator> #tools #css #patterns
 * 🟡 Collections <https://phuoc.ng/collections/> #css #javascript #dom
 * Cookie Consent Kit Banner - Webtools documentation - EC Extranet Wiki <https://webgate.ec.europa.eu/fpfis/wikis/display/webtools/Cookie+Consent+Kit+Banner> #cookie
+* 🟡 JSON Generator <https://www.jsongenerator.io/> #json #tools
 
 
 
@@ -44,6 +45,7 @@
 * 🟡 Easing functions cheat sheet <https://easings.net/> #animazioni #tools #bezier
 * 🟡 Cubic Bezier <https://cubic-bezier.com/> #animazioni #tools #bezier
 * 🟡 Bézier curves <https://blog.richardekwonye.com/bezier-curves> #bezier
+* 🟡 Epic Easing. Easing made easy <https://epiceasing.com/> #animazioni #tools #bezier
 
 
 ## Immagini
