@@ -179,7 +179,7 @@
 * React Bootstrap. The most popular front-end framework, rebuilt for React <https://react-bootstrap.github.io/> #react
 * Share variables between JavaScript and CSS <https://www.falldowngoboone.com/blog/share-variables-between-javascript-and-css/> #webpack #css modules #react
 * React Add Dynamic Class Name to Body When Navigating Tutorial <https://www.positronx.io/react-add-dynamic-class-name-to-body-when-navigating-tutorial/> #react
-* Core UI <https://coreui.io/react/docs/getting-started/introduction/> #react #vue #angular
+* Core UI <https://coreui.io/react/docs/getting-started/introduction/> #react #vue #angular #bootstrap
 
 
 ## NodeJS
