@@ -381,7 +381,8 @@
 * Google Charts — Google Developers <https://developers.google.com/chart/> #api #google #charts
 * Plus Codes <https://maps.google.com/pluscodes/> #google #mappe
 * Chartist - Simple responsive charts <https://gionkunz.github.io/chartist-js/> #charts 
-* Frappe Charts: Simple and Modern SVG Charts <https://frappe.io/charts> #charts 
+* Frappe Charts: Simple and Modern SVG Charts <https://frappe.io/charts> #charts
+* Semiotic is a data visualization framework for React. <https://semiotic.nteract.io/> #react #charts
 
 
 ## Dashboard
