@@ -389,3 +389,11 @@
 * Dashboard Design Patterns <https://dashboarddesignpatterns.github.io/> #ux #design
 * How to Design a Dashboard <https://dataschool.com/how-to-design-a-dashboard/> #dashboard
 * Financial Times Visual Vocabulary <https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary> #dashboard #charts
+* Packagecloud <https://packagecloud.io/> #npm
+* Your private npm registry <https://fury.co/l/private-npm> #npm
+* Verdaccio. A lightweight Node.js private proxy registry <https://verdaccio.org/> #npm
+
+## npm
+* Azure DevOps NPM Registry <https://randulakoralage82.medium.com/azure-devops-npm-registry-68db3aeb5a66> #npm #azure #devOps
+* Private npm registry with Azure Artifacts and Azure DevOps <https://medium.com/weekly-webtips/enterprise-npm-registry-with-azure-artifacts-and-azure-devops-51afc91534ab> #npm #azure #devOps
+* 
