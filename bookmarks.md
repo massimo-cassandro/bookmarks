@@ -181,7 +181,7 @@
 * React Add Dynamic Class Name to Body When Navigating Tutorial <https://www.positronx.io/react-add-dynamic-class-name-to-body-when-navigating-tutorial/> #react
 * Core UI <https://coreui.io/react/docs/getting-started/introduction/> #react #vue #angular #bootstrap
 * React Bootstrap <https://react-bootstrap.netlify.app/> #react #bootstrap
-
+* React Router 6 Deferred Fetch <https://www.infoxicator.com/react-router-6-deferred-fetch> #react #react-router
 
 ## NodeJS
 * Introduction to Node.js <https://nodejs.dev/learn>
@@ -396,4 +396,3 @@
 ## npm
 * Azure DevOps NPM Registry <https://randulakoralage82.medium.com/azure-devops-npm-registry-68db3aeb5a66> #npm #azure #devOps
 * Private npm registry with Azure Artifacts and Azure DevOps <https://medium.com/weekly-webtips/enterprise-npm-registry-with-azure-artifacts-and-azure-devops-51afc91534ab> #npm #azure #devOps
-* 
