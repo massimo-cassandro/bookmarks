@@ -37,6 +37,7 @@
 * 🟡 Collections <https://phuoc.ng/collections/> #css #javascript #dom
 * Cookie Consent Kit Banner - Webtools documentation - EC Extranet Wiki <https://webgate.ec.europa.eu/fpfis/wikis/display/webtools/Cookie+Consent+Kit+Banner> #cookie
 * 🟡 JSON Generator <https://www.jsongenerator.io/> #json #tools
+* Social Share URLs <https://github.com/bradvin/social-share-urls> #social #reference
 
 
 
