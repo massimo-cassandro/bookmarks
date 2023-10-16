@@ -96,6 +96,8 @@
 * Name that Color - Chirag Mehta : chir.ag <https://chir.ag/projects/name-that-color/#9A0B9A> #colori #tools
 * Re: Pleasing Color Palettes <https://css-tricks.com/re-pleasing-color-palettes/> #colori
 * PleaseJS <https://github.com/Fooidge/PleaseJS> #colori
+* APCA Contrast Calculator <https://www.myndex.com/APCA/> #colori #accessibilità
+* Accessible Palette: Create color systems with consistent lightness and contrast <https://accessiblepalette.com/> #colori #accessibilità #palette
 
 ## Testo / Unicode
 * Text Cleaner: Text Formatter, Text Formatting Online <https://textcleaner.net/> #string manipulation #tools 
