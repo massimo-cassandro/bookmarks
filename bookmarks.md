@@ -98,6 +98,7 @@
 * PleaseJS <https://github.com/Fooidge/PleaseJS> #colori
 * APCA Contrast Calculator <https://www.myndex.com/APCA/> #colori #accessibilità
 * Accessible Palette: Create color systems with consistent lightness and contrast <https://accessiblepalette.com/> #colori #accessibilità #palette
+* CSS relative color syntax <https://developer.chrome.com/blog/css-relative-color-syntax/> #colori #css
 
 ## Testo / Unicode
 * Text Cleaner: Text Formatter, Text Formatting Online <https://textcleaner.net/> #string manipulation #tools 
@@ -105,6 +106,7 @@
 * List of Unicode Characters of Category “Space Separator” <https://www.compart.com/en/unicode/category/Zs> #fonts 
 * Unicode - Compart <https://www.compart.com/en/unicode/> #fonts
 * Make text fit its parent size using JavaScript <https://dev.to/jankapunkt/make-text-fit-it-s-parent-size-using-javascript-m40> #string manipulation
+* How to create a color ramp used in design systems <https://uxdesign.cc/how-to-create-a-color-ramp-used-in-design-systems-2edd5b93854c> #colori #design system
 
 
 ## Web vitals / perfomance / testing
@@ -231,6 +233,7 @@
 * Modern Fluid Typography Using CSS Clamp <https://www.smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/> #tipografia
 * RFS <https://github.com/twbs/rfs> #css #sass #tipografia
 * 8 micro tips for remarkably better typography <https://uxdesign.cc/8-micro-tips-for-remarkably-better-typography-986c8c4f6d85> #tipografia #design
+* Font pairing made simple <https://fontjoy.com/> #fonts #design #font pairing
 
 
 ## Twig / Symfony
@@ -306,6 +309,7 @@
 * 🟡 FLEX: A simple visual cheatsheet for flexbox <https://flexbox.malven.co/> #css
 * CSS Calc <http://nico-izo.github.io/calc.html> #css #tools
 * Tip: Perfect nested border radius in CSS <https://www.30secondsofcode.org/css/s/nested-border-radius/> #css #border (css)
+* Transitions <https://m3.material.io/styles/motion/transitions/applying-transitions> #css #animazione #ui #design #material design
 
 
 ## Javascript
