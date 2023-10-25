@@ -38,6 +38,8 @@
 * Cookie Consent Kit Banner - Webtools documentation - EC Extranet Wiki <https://webgate.ec.europa.eu/fpfis/wikis/display/webtools/Cookie+Consent+Kit+Banner> #cookie
 * 🟡 JSON Generator <https://www.jsongenerator.io/> #json #tools
 * Social Share URLs <https://github.com/bradvin/social-share-urls> #social #reference
+* Fluid Grid Calculator <https://utopia.fyi/grid/calculator/> #grid (css) #tools
+* Fluid Space Calculator <https://utopia.fyi/space/calculator> #css #ui #tools
 
 
 
@@ -99,6 +101,7 @@
 * APCA Contrast Calculator <https://www.myndex.com/APCA/> #colori #accessibilità
 * Accessible Palette: Create color systems with consistent lightness and contrast <https://accessiblepalette.com/> #colori #accessibilità #palette
 * CSS relative color syntax <https://developer.chrome.com/blog/css-relative-color-syntax/> #colori #css
+* OKLCH Color Picker & Converter <https://oklch.com> #colori #tools
 
 ## Testo / Unicode
 * Text Cleaner: Text Formatter, Text Formatting Online <https://textcleaner.net/> #string manipulation #tools 
@@ -234,6 +237,9 @@
 * RFS <https://github.com/twbs/rfs> #css #sass #tipografia
 * 8 micro tips for remarkably better typography <https://uxdesign.cc/8-micro-tips-for-remarkably-better-typography-986c8c4f6d85> #tipografia #design
 * Font pairing made simple <https://fontjoy.com/> #fonts #design #font pairing
+* Fluid type scale calculator <https://utopia.fyi/type/calculator> #tipografia #tools
+* Clamp Calculator <https://utopia.fyi/clamp/calculator> #tipografia #tools
+
 
 
 ## Twig / Symfony
