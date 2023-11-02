@@ -350,6 +350,7 @@
 ## Spinners
 * Speedy CSS Tip! Animated Loader <https://web.dev/speedy-css-tip-animated-loader/> #spinners
 * 🟡 CSS Loaders <https://css-loaders.com/> #spinners
+* 🟡 LDRS <https://uiball.com/ldrs/> #spinners
 
 ## Git
 * GitFlow <https://devdev.it/guida-gitflow/> #gitflow #git
