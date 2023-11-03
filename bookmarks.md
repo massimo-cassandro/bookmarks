@@ -226,7 +226,8 @@
 * Rubik <https://fonts.google.com/specimen/Rubik> #fonts interessanti 
 * Microma <https://fonts.google.com/specimen/Michroma> #fonts interessanti 
 * Martian Mono <https://fonts.google.com/specimen/Martian+Mono> #fonts interessanti 
-* Overpass <https://fonts.google.com/specimen/Overpass> #fonts interessanti 
+* Overpass <https://fonts.google.com/specimen/Overpass> #fonts interessanti
+* Geist <https://vercel.com/font/sans> #fonts interessanti
 
 
 ## Design / Tipografia
