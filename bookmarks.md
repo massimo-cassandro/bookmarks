@@ -103,6 +103,7 @@
 * Accessible Palette: Create color systems with consistent lightness and contrast <https://accessiblepalette.com/> #colori #accessibilità #palette
 * CSS relative color syntax <https://developer.chrome.com/blog/css-relative-color-syntax/> #colori #css
 * OKLCH Color Picker & Converter <https://oklch.com> #colori #tools
+* Color Review <https://color.review/> #colori #accessibilità #tools
 
 ## Testo / Unicode
 * Text Cleaner: Text Formatter, Text Formatting Online <https://textcleaner.net/> #string manipulation #tools 
