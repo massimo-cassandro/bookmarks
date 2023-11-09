@@ -260,6 +260,7 @@
 
 
 ## Reference
+* 🟡 Laws of UX <https://lawsofux.com/> #ux 
 * 🟡 Bootstrap docs <https://getbootstrap.com/docs> #framework #bootstrap #reference
 * Javascript Cheat Sheet | OverAPI.com <https://overapi.com/javascript> #javascript  #reference
 * 🟡 SheetJS Community Edition <https://docs.sheetjs.com/docs/> #librerie #excel  #reference
