@@ -245,6 +245,7 @@
 * Fluid type scale calculator <https://utopia.fyi/type/calculator> #tipografia #tools
 * Clamp Calculator <https://utopia.fyi/clamp/calculator> #tipografia #tools
 * Responsive type scales with composable CSS utilities <https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/> #tipografia
+* 🟡 Style Manual <http://stylemanual.org/> #tipografia #content writing
 
 
 
