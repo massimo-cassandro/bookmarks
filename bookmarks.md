@@ -17,15 +17,11 @@
 * 🟡 Omatsuri <https://omatsuri.app/> #colori #gradients #reference #svg #tools 
 * 🟡 keyboard-shortcuts-macos.pdf <https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf> #vscode #reference
 * 🟡 Favicon Generator for all platforms: iOS, Android, PC/Mac... <https://realfavicongenerator.net/> #favicon 
-* JSONPlaceholder - Free Fake REST API <https://jsonplaceholder.typicode.com/> #api #corsi #fakers #json 
 * Transform (conversione linguaggi, formati...) <https://transform.tools/> #graphql #json #mysql #pug #react #tools #web components #yaml 
 * 🟡 Markdown Tables generator - TablesGenerator.com <https://www.tablesgenerator.com/markdown_tables> #converter #html #markdown #tools 
-* JSON To SQL Converter <http://convertjson.com/json-to-sql.htm> #converter #json #sql #tools 
 * Support Details [Get Your Browser Version, System Information & More] <https://supportdetails.net/> #tools 
 * ✿ dabblet.com <http://dabblet.com/> #tools #css
 * debug horiz scroll bar (https://gist.github.com/cuth/c1ddf2b1ce2fb07e512a) <javascript:(function(d){var w=d.documentElement.offsetWidth,t=d.createTreeWalker(d.body,NodeFilter.SHOW_ELEMENT),b;while(t.nextNode()){b=t.currentNode.getBoundingClientRect();if(b.right>w||b.left<0){t.currentNode.style.setProperty('outline','1px dotted red','important');console.log(t.currentNode);}};}(document));> #tools #css
-* JSON generator <https://next.json-generator.com/> #tools #json
-* https://jsoneditoronline.org/ <https://jsoneditoronline.org/> #tools #json
 * View Source <https://neatnik.net/view-source/> #mobile #tools 
 * Front-end Bookmarks <https://www.frontendbookmarks.com/> #css #frontend #javascript #reference #web (generale) 
 * npm semantic version calculator <https://semver.npmjs.com/> #npm 
@@ -36,10 +32,18 @@
 * 🟡 CSS Background Pattern Generator <https://10015.io/tools/css-background-pattern-generator> #tools #css #patterns
 * 🟡 Collections <https://phuoc.ng/collections/> #css #javascript #dom
 * Cookie Consent Kit Banner - Webtools documentation - EC Extranet Wiki <https://webgate.ec.europa.eu/fpfis/wikis/display/webtools/Cookie+Consent+Kit+Banner> #cookie
-* 🟡 JSON Generator <https://www.jsongenerator.io/> #json #tools
 * Social Share URLs <https://github.com/bradvin/social-share-urls> #social #reference
 * Fluid Grid Calculator <https://utopia.fyi/grid/calculator/> #grid (css) #tools
 * Fluid Space Calculator <https://utopia.fyi/space/calculator> #css #ui #tools
+
+## JSON
+* 🟡 JSON5. JSON for Humans <https://json5.org/> #json
+* 🟡 JSON Generator <https://www.jsongenerator.io/> #json #tools
+* JSON generator <https://next.json-generator.com/> #tools #json
+* JSON To SQL Converter <http://convertjson.com/json-to-sql.htm> #converter #json #sql #tools 
+* JSONPlaceholder - Free Fake REST API <https://jsonplaceholder.typicode.com/> #api #corsi #fakers #json 
+* JSON editor <https://jsoneditoronline.org/> #tools #json
+
 
 
 
