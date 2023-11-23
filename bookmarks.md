@@ -45,7 +45,9 @@
 * JSON editor <https://jsoneditoronline.org/> #tools #json
 
 
-
+## unix
+* The Bash Primer <http://www.compciv.org/bash-guide/>
+* General purpose command-line tools <http://www.compciv.org/unix-tools/>
 
 ## Animazioni
 * The ultimate guide to proper use of animation in UX <https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9> #ux #amimazioni
