@@ -44,6 +44,8 @@
 * JSONPlaceholder - Free Fake REST API <https://jsonplaceholder.typicode.com/> #api #corsi #fakers #json 
 * JSON editor <https://jsoneditoronline.org/> #tools #json
 
+## frameworks
+* Open Props <https://open-props.style/> #css
 
 ## unix
 * The Bash Primer <http://www.compciv.org/bash-guide/>
