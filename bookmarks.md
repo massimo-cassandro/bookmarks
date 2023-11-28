@@ -208,9 +208,9 @@
 
 ## NodeJS
 * Introduction to Node.js <https://nodejs.dev/learn>
-* Api index <https://nodejs.org/dist/latest-v18.x/docs/api/>
-* fs <https://nodejs.org/dist/latest-v18.x/docs/api/fs.html>
-* Modules: Packages | Node.js v19.6.0 Documentation <https://nodejs.org/api/packages.html#determining-package-manager> 
+* Api index <https://nodejs.org/dist/latest/docs/api/>
+* fs <https://nodejs.org/dist/latest/docs/api/fs.html>
+* Modules: Packages | Node.js Documentation <https://nodejs.org/api/packages.html#determining-package-manager> 
 
 
 ## Webpack
