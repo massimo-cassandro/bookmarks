@@ -355,8 +355,9 @@
 
 
 ## Icone
-* Simple Icons <https://simpleicons.org/> #svg  #immagini
-* Free Icons | icons.download <https://icons.download/> #icone #svg 
+* Simple Icons <https://simpleicons.org/> #svg #immagini
+* Free Icons | icons.download <https://icons.download/> #icone #svg
+* JAM icons <https://jam-icons.com/> #icone #svg
 
 
 ## Spinners
