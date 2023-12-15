@@ -258,6 +258,8 @@
 
 
 ## Twig / Symfony
+* date_format <https://www.php.net/manual/en/datetime.format.php> #php #twig
+* Date Formatting and Parsing <https://unicode-org.github.io/icu/userguide/format_parse/> #twig #unicode
 * sf w-encore <https://symfony.com/doc/current/frontend.html> #symfony 
 * Twig <https://twig.symfony.com/doc/3.x/> #twig 
 * Symfony + Bootstrap Form Test <https://massimo-cassandro.github.io/symfony-bootstrap-form-theme/> #forms #symfony #twig #m
