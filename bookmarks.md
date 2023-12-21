@@ -352,7 +352,8 @@
 * collect.js <https://collect.js.org/> #javascript #librerie  #reference
 * Scroll Shadows With JavaScript | CSS-Tricks - CSS-Tricks <https://css-tricks.com/scroll-shadows-with-javascript/> #css #javascript
 * Platform.js <https://github.com/bestiejs/platform.js#readme> #javascript #librerie #browsers
-* 🟡 JavaScript Intersection Observer Ultimate Guide <https://blog.webdevsimplified.com/2022-01/intersection-observer/> #javascript 
+* 🟡 JavaScript Intersection Observer Ultimate Guide <https://blog.webdevsimplified.com/2022-01/intersection-observer/> #javascript
+* Sugar - a Javascript utility library for working with native objects. <https://sugarjs.com/> #javascript #date #librerie
 
 
 
