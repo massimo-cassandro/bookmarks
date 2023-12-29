@@ -302,6 +302,7 @@
 * Regular expressions - JavaScript | MDN <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions> #reference #regexp
 * Jsdoc cheatsheet <https://devhints.io/jsdoc> #jsodc #reference
 * File uploader demo <https://massimo-cassandro.github.io/js-file-uploader/demo/> #javascript #m
+* TypeScript without TypeScript -- JSDoc superpowers <https://fettblog.eu/typescript-jsdoc-superpowers/> #typescript #jsodc
 
 
 
@@ -436,3 +437,9 @@
 * How to install a private NPM module without my own registry? <https://stackoverflow.com/questions/10386310/how-to-install-a-private-npm-module-without-my-own-registry>
 * Reggie <https://github.com/mbrevoort/node-reggie>
 * Verdaccio. A lightweight Node.js private proxy registry<https://verdaccio.org/>
+
+
+# wp headless / next
+* Local WP <https://localwp.com/> #wordpress
+* Using Headless WordPress with Next.js and Vercel <https://vercel.com/guides/wordpress-with-vercel> #wordpress #next #vercel
+* GraphQL API for WordPress <https://www.wpgraphql.com/> #wordpress #graphql
