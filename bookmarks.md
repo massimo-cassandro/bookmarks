@@ -436,7 +436,7 @@
 * Private npm registry with Azure Artifacts and Azure DevOps <https://medium.com/weekly-webtips/enterprise-npm-registry-with-azure-artifacts-and-azure-devops-51afc91534ab> #npm #azure #devOps
 * How to install a private NPM module without my own registry? <https://stackoverflow.com/questions/10386310/how-to-install-a-private-npm-module-without-my-own-registry>
 * Reggie <https://github.com/mbrevoort/node-reggie>
-* Verdaccio. A lightweight Node.js private proxy registry<https://verdaccio.org/>
+* Verdaccio. A lightweight Node.js private proxy registry <https://verdaccio.org/>
 
 
 # wp headless / next
