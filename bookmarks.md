@@ -337,7 +337,7 @@
 * Transitions <https://m3.material.io/styles/motion/transitions/applying-transitions> #css #animazione #ui #design #material design
 * 🟡 An Interactive Guide to CSS Grid <https://www.joshwcomeau.com/css/interactive-guide-to-grid/> #grids (css)
 
-## Javascript
+## Javascript / typescript
 * DateTimeFormat <https://www.intl-explorer.com/DateTimeFormat?locale=it-IT> #date #javascript #corsi 
 * managing HTML DOM with JavaScript <https://htmldom.dev/> #dom #html #reference 
 * Operator Lookup - Search JavaScript operators · Josh W Comeau <https://joshwcomeau.com/operator-lookup/> #operatori (javascript) #reference 
@@ -355,6 +355,7 @@
 * Platform.js <https://github.com/bestiejs/platform.js#readme> #javascript #librerie #browsers
 * 🟡 JavaScript Intersection Observer Ultimate Guide <https://blog.webdevsimplified.com/2022-01/intersection-observer/> #javascript
 * Sugar - a Javascript utility library for working with native objects. <https://sugarjs.com/> #javascript #date #librerie
+* Typescript Playground<https://www.typescriptlang.org/play> #typescript #tools
 
 
 
