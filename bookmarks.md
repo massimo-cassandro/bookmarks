@@ -10,6 +10,7 @@
 * 🟡 JSitor - JavaScript, HTML, CSS, online editor <https://jsitor.com/> #playground
 * 🟡 MDN Playground <https://developer.mozilla.org/en-US/play> #playground
 * 🟡 CodeSandbox <https://codesandbox.io/s/test-rvbu9g> #playground
+* 🟡 tsconfig.json generator <https://generator.tsconfigdemystified.com/> #typescript #tools
 * randomColor <https://github.com/davidmerfield/randomColor> #colori
 * SassMeister | The Sass Playground! <https://www.sassmeister.com/> #sass #tools 
 * Proportio.app <https://proportio.app/> #design #tools
@@ -355,7 +356,7 @@
 * Platform.js <https://github.com/bestiejs/platform.js#readme> #javascript #librerie #browsers
 * 🟡 JavaScript Intersection Observer Ultimate Guide <https://blog.webdevsimplified.com/2022-01/intersection-observer/> #javascript
 * Sugar - a Javascript utility library for working with native objects. <https://sugarjs.com/> #javascript #date #librerie
-* Typescript Playground<https://www.typescriptlang.org/play> #typescript #tools
+* 🟡 Typescript Playground<https://www.typescriptlang.org/play> #typescript #tools
 
 
 
