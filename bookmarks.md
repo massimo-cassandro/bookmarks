@@ -338,6 +338,9 @@
 * Tip: Perfect nested border radius in CSS <https://www.30secondsofcode.org/css/s/nested-border-radius/> #css #border (css)
 * Transitions <https://m3.material.io/styles/motion/transitions/applying-transitions> #css #animazione #ui #design #material design
 * 🟡 An Interactive Guide to CSS Grid <https://www.joshwcomeau.com/css/interactive-guide-to-grid/> #grids (css)
+* transition.css. Drop-in CSS transitions <https://www.transition.style/> #css #animazioni
+* conic.css. Nice, simple conic gradients <https://www.conic.style/> #css #colori
+
 
 ## Javascript / typescript
 * DateTimeFormat <https://www.intl-explorer.com/DateTimeFormat?locale=it-IT> #date #javascript #corsi 
