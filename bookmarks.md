@@ -114,6 +114,7 @@
 * CSS relative color syntax <https://developer.chrome.com/blog/css-relative-color-syntax/> #colori #css
 * OKLCH Color Picker & Converter <https://oklch.com> #colori #tools
 * Color Review <https://color.review/> #colori #accessibilità #tools
+* HD gradients <https://gradient.style/> #colori #css
 
 ## Testo / Unicode
 * Text Cleaner: Text Formatter, Text Formatting Online <https://textcleaner.net/> #string manipulation #tools 
