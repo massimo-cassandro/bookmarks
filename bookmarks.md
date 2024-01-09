@@ -356,7 +356,7 @@
 * Platform.js <https://github.com/bestiejs/platform.js#readme> #javascript #librerie #browsers
 * 🟡 JavaScript Intersection Observer Ultimate Guide <https://blog.webdevsimplified.com/2022-01/intersection-observer/> #javascript
 * Sugar - a Javascript utility library for working with native objects. <https://sugarjs.com/> #javascript #date #librerie
-* 🟡 Typescript Playground<https://www.typescriptlang.org/play> #typescript #tools
+* 🟡 Typescript Playground <https://www.typescriptlang.org/play> #typescript #tools
 
 
 
