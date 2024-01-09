@@ -446,7 +446,7 @@
 * Verdaccio. A lightweight Node.js private proxy registry <https://verdaccio.org/>
 
 
-# wp headless / next
+## wp headless / next
 * Local WP <https://localwp.com/> #wordpress
 * Using Headless WordPress with Next.js and Vercel <https://vercel.com/guides/wordpress-with-vercel> #wordpress #next #vercel
 * GraphQL API for WordPress <https://www.wpgraphql.com/> #wordpress #graphql
