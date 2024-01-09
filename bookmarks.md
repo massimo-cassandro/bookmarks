@@ -36,6 +36,7 @@
 * Social Share URLs <https://github.com/bradvin/social-share-urls> #social #reference
 * Fluid Grid Calculator <https://utopia.fyi/grid/calculator/> #grid (css) #tools
 * Fluid Space Calculator <https://utopia.fyi/space/calculator> #css #ui #tools
+* CSS Variables vscode extension <https://github.com/willofindie/vscode-cssvar/> #vscode #css
 
 ## JSON
 * 🟡 JSON5. JSON for Humans <https://json5.org/> #json
