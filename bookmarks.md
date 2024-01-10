@@ -5,7 +5,6 @@
 * 🟡 DevTools Tips <https://devtoolstips.org/> #browsers #web development
 * 🟡 snippet generator <https://snippet-generator.app/> #ide #tools #vscode 
 * 🟡 Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript <https://regex101.com/> #regexp 
-* 🟡 Patterns <https://web.dev/patterns/> #web components
 * 🟡 Faker <https://massimo-cassandro.github.io/area-test/2019-01-faker/index.html> #fakers #m
 * 🟡 JSitor - JavaScript, HTML, CSS, online editor <https://jsitor.com/> #playground
 * 🟡 MDN Playground <https://developer.mozilla.org/en-US/play> #playground
@@ -38,6 +37,18 @@
 * Fluid Space Calculator <https://utopia.fyi/space/calculator> #css #ui #tools
 * CSS Variables vscode extension <https://github.com/willofindie/vscode-cssvar/> #vscode #css
 
+
+## Modular components development
+* 🟡 Patterns <https://web.dev/patterns/> #web components
+* 🟡 Open Props: sub-atomic styles <https://open-props.style/> #css 
+* 🟡 Headless UI - Unstyled, fully accessible UI components <https://headlessui.com/> #react #headless component #component library
+* Formik: Build forms in React, without the tears <https://formik.org/> #forms #react #component library
+* React Select <https://react-select.com/home> #forms #react #component library
+* Final Form <https://final-form.org/> #forms #react #component library
+* Radix UI, open source component library <https://www.radix-ui.com/> #headless component #framework #component library
+* Reach UI <https://reach.tech/> #component library
+* 👎 MUI: The React component library you always wanted <https://mui.com/> #react #component library
+
 ## JSON
 * 🟡 JSON5. JSON for Humans <https://json5.org/> #json
 * 🟡 JSON Generator <https://www.jsongenerator.io/> #json #tools
@@ -46,8 +57,6 @@
 * JSONPlaceholder - Free Fake REST API <https://jsonplaceholder.typicode.com/> #api #corsi #fakers #json 
 * JSON editor <https://jsoneditoronline.org/> #tools #json
 
-## frameworks
-* Open Props <https://open-props.style/> #css
 
 ## unix
 * The Bash Primer <http://www.compciv.org/bash-guide/>
@@ -168,19 +177,13 @@
 
 ## React / web components / styled components / css modules
 * 🟡 Design and performance patterns <https://www.patterns.dev/posts> #react #javascript
-* 🟡 Open Props: sub-atomic styles <https://open-props.style/> #css #librerie #react
 * React – Una libreria JavaScript per creare interfacce utente <https://it.reactjs.org/> #react
 * Create React App with Multiple Entry Points - Digital Inspiration <https://www.labnol.org/code/react-multiple-entry-points-210512> #react
-* 🟡 Headless UI - Unstyled, fully accessible UI components <https://headlessui.com/> #react #headless component
 * 💅 Styled Components Mixins | ⚡maddev <https://maddev.netlify.app/development/styled_components_mixins/> #styled components #react
 * Publish React components as an npm package | by JB | Level Up Coding <https://levelup.gitconnected.com/publish-react-components-as-an-npm-package-7a671a2fb7f> #react #npm 
 * Create React App <https://create-react-app.dev/> #react
 * Controllo Tipi con PropTypes – React <https://it.reactjs.org/docs/typechecking-with-proptypes.html> #react
 * Multiple entry points in create-react-app without ejecting - LogRocket Blog <https://blog.logrocket.com/multiple-entry-points-in-create-react-app-without-ejecting/> #react
-* MUI: The React component library you always wanted <https://mui.com/> #react #ui #web components
-* Formik: Build forms in React, without the tears <https://formik.org/> #forms #react
-* React Select <https://react-select.com/home> #forms #react
-* Final Form <https://final-form.org/> #forms #react
 * React Router | Docs v6 <https://reactrouter.com/docs/en/v6> #react
 * JedWatson/classnames: A simple javascript utility for conditionally joining classNames together <https://github.com/JedWatson/classnames#classnames> #react
 * A Simple Explanation of React.useEffect() <https://dmitripavlutin.com/react-useeffect-explanation/> #react
@@ -277,7 +280,7 @@
 * 🟡 Laws of UX <https://lawsofux.com/> #ux 
 * 🟡 Bootstrap docs <https://getbootstrap.com/docs> #framework #bootstrap #reference
 * Javascript Cheat Sheet | OverAPI.com <https://overapi.com/javascript> #javascript  #reference
-* 🟡 SheetJS Community Edition <https://docs.sheetjs.com/docs/> #librerie #excel  #reference
+* 🟡 SheetJS Community Edition <https://docs.sheetjs.com/docs/>  #excel  #reference
 * vscode.dev <https://vscode.dev/>  #reference
 * JavaScript reference - JavaScript | MDN <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference> #javascript #web (generale) #reference
 * CSS reference - CSS: Cascading Style Sheets | MDN <https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index> #css #web (generale) #reference
@@ -287,16 +290,16 @@
 * Moment.js | Docs <https://momentjs.com/docs/> #date  #reference
 * jQuery API Documentation <https://api.jquery.com/> #jquery  #reference
 * Sass: Documentation <https://sass-lang.com/documentation> #sass  #reference
-* File uploader demo <https://massimo-cassandro.github.io/js-file-uploader/demo/> #forms #librerie #reference #m
-* massimo-cassandro/m-sharing: Sharing links builder <https://github.com/massimo-cassandro/m-sharing#readme> #librerie #opengraph #reference
+* File uploader demo <https://massimo-cassandro.github.io/js-file-uploader/demo/> #forms  #reference #m
+* massimo-cassandro/m-sharing: Sharing links builder <https://github.com/massimo-cassandro/m-sharing#readme>  #opengraph #reference
 * Getting Started – Pug <https://pugjs.org/api/getting-started.html> #pug  #reference
-* js-cookie/js-cookie at latest <https://github.com/js-cookie/js-cookie/tree/latest#readme> #cookies #librerie #reference
-* Datatable - Options <https://datatables.net/reference/option/> #datatable #librerie #reference
-* DataTables example - HTML5 data-* attributes - cell data <https://datatables.net/examples/advanced_init/html5-data-attributes.html> #datatable #librerie #reference
-* Orthogonal data <https://datatables.net/manual/data/orthogonal-data> #datatable #librerie #reference
+* js-cookie/js-cookie at latest <https://github.com/js-cookie/js-cookie/tree/latest#readme> #cookies  #reference
+* Datatable - Options <https://datatables.net/reference/option/> #datatable  #reference
+* DataTables example - HTML5 data-* attributes - cell data <https://datatables.net/examples/advanced_init/html5-data-attributes.html> #datatable  #reference
+* Orthogonal data <https://datatables.net/manual/data/orthogonal-data> #datatable  #reference
 * Bootstrap Blog <http://blog.getbootstrap.com/> #bootstrap #reference
-* fancyBox - Touch enabled, responsive and fully customizable jQuery lightbox script <http://fancyapps.com/fancybox/3/> #immagini #jquery #librerie #reference
-* Select2 <https://select2.org/> #forms #jquery #librerie #reference
+* fancyBox - Touch enabled, responsive and fully customizable jQuery lightbox script <http://fancyapps.com/fancybox/3/> #immagini #jquery  #reference
+* Select2 <https://select2.org/> #forms #jquery  #reference
 * Web Skills <https://andreasbm.github.io/web-skills/?compact>  #reference
 * Configure webhint in your project | webhint documentation <https://webhint.io/docs/user-guide/configuring-webhint/summary/> #linters #webhint #reference
 * Tailwind docs <https://tailwindcss.com/docs/installation> #tailwind #reference #css #react
@@ -350,17 +353,17 @@
 * this vs that - What is the difference... <https://thisthat.dev/> #operatori (javascript) #reference 
 * You Might Not Need jQuery <http://youmightnotneedjquery.com/> #javascript #jquery #reference #tools 
 * 1loc | Favorite JavaScript single line of code <https://1loc.dev/> #javascript #snippets 
-* unjs.io <https://unjs.io/> #librerie #javascript #node 
+* unjs.io <https://unjs.io/>  #javascript #node 
 * balazsbotond/urlcat: A URL builder library for JavaScript. <https://github.com/balazsbotond/urlcat> #javascript
 * Chrome Developer Tools - monitorEvents - Brian Grinstead <https://briangrinstead.com/blog/chrome-developer-tools-monitorevents/> #javascript
 * Dates and Times | SheetJS Community Edition <https://docs.sheetjs.com/docs/csf/features/dates/> #reference #javascript #excel
 * Cell Object | SheetJS Community Edition <https://docs.sheetjs.com/docs/csf/cell> #reference #javascript #excel
 * Overview | SheetJS Community Edition <https://docs.sheetjs.com/docs/> #reference #javascript #excel
-* collect.js <https://collect.js.org/> #javascript #librerie  #reference
+* collect.js <https://collect.js.org/> #javascript   #reference
 * Scroll Shadows With JavaScript | CSS-Tricks - CSS-Tricks <https://css-tricks.com/scroll-shadows-with-javascript/> #css #javascript
-* Platform.js <https://github.com/bestiejs/platform.js#readme> #javascript #librerie #browsers
+* Platform.js <https://github.com/bestiejs/platform.js#readme> #javascript  #browsers
 * 🟡 JavaScript Intersection Observer Ultimate Guide <https://blog.webdevsimplified.com/2022-01/intersection-observer/> #javascript
-* Sugar - a Javascript utility library for working with native objects. <https://sugarjs.com/> #javascript #date #librerie
+* Sugar - a Javascript utility library for working with native objects. <https://sugarjs.com/> #javascript #date 
 * 🟡 Typescript Playground <https://www.typescriptlang.org/play> #typescript #tools
 
 
