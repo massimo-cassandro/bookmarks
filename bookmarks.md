@@ -15,7 +15,7 @@
 * SassMeister | The Sass Playground! <https://www.sassmeister.com/> #sass #tools 
 * Proportio.app <https://proportio.app/> #design #tools
 * mydevice.io : web devices capabilities <https://www.mydevice.io/> #devices #tools #web (generale) 
-* 🟡 Omatsuri <https://omatsuri.app/> #colori #gradients #reference #svg #tools 
+* 🟡 Omatsuri <https://omatsuri.app/> #colori #gradients #reference #svg #tools #svg
 * 🟡 keyboard-shortcuts-macos.pdf <https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf> #vscode #reference
 * 🟡 Favicon Generator for all platforms: iOS, Android, PC/Mac... <https://realfavicongenerator.net/> #favicon 
 * Transform (conversione linguaggi, formati...) <https://transform.tools/> #graphql #json #mysql #pug #react #tools #web components #yaml 
