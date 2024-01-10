@@ -94,6 +94,9 @@
 
 
 ## Colori
+* color-mix() <https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color-mix> #colori #css
+* Simplify Your Color Palette With CSS Color-Mix() <https://www.smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/> #colori #css
+* Creazione di una combinazione di colori <https://web.dev/articles/building/a-color-scheme?hl=it> #colori #css
 * Easing Gradients <https://larsenwork.com/easing-gradients/#editor> #gradients #tools  #colori #css
 * 🟡 CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp> #tools #colori
 * CSS Shadow Palette Generator <https://www.joshwcomeau.com/shadow-palette/> #shadows #tools  #palette #css
