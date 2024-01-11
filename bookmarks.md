@@ -48,6 +48,10 @@
 * Radix UI, open source component library <https://www.radix-ui.com/> #headless component #framework #component library
 * Reach UI <https://reach.tech/> #component library
 * 👎 MUI: The React component library you always wanted <https://mui.com/> #react #component library
+* Carbon Design System <https://carbondesignsystem.com/> #design system #react #component library #angular #vue
+* Tailwind UI <https://tailwindui.com/> #react #component library #vue #tailwind
+* shadcn/ui <https://ui.shadcn.com/> #react #component library #tailwind
+* Naive UI <https://www.naiveui.com/en-US/os-theme> #component library #vue
 
 ## JSON
 * 🟡 JSON5. JSON for Humans <https://json5.org/> #json
