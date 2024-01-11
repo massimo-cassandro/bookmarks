@@ -1,40 +1,39 @@
 # Bookmarks
 
 
-## Tools
 * 🟡 DevTools Tips <https://devtoolstips.org/> #browsers #web development
-* 🟡 snippet generator <https://snippet-generator.app/> #ide #tools #vscode 
+* 🟡 snippet generator <https://snippet-generator.app/> #ide  #vscode 
 * 🟡 Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript <https://regex101.com/> #regexp 
 * 🟡 Faker <https://massimo-cassandro.github.io/area-test/2019-01-faker/index.html> #fakers #m
 * 🟡 JSitor - JavaScript, HTML, CSS, online editor <https://jsitor.com/> #playground
 * 🟡 MDN Playground <https://developer.mozilla.org/en-US/play> #playground
 * 🟡 CodeSandbox <https://codesandbox.io/s/test-rvbu9g> #playground
-* 🟡 tsconfig.json generator <https://generator.tsconfigdemystified.com/> #typescript #tools
+* 🟡 tsconfig.json generator <https://generator.tsconfigdemystified.com/> #typescript 
 * randomColor <https://github.com/davidmerfield/randomColor> #colori
-* SassMeister | The Sass Playground! <https://www.sassmeister.com/> #sass #tools 
-* Proportio.app <https://proportio.app/> #design #tools
-* mydevice.io : web devices capabilities <https://www.mydevice.io/> #devices #tools #web (generale) 
-* 🟡 Omatsuri <https://omatsuri.app/> #colori #gradients #reference #svg #tools #svg
+* SassMeister | The Sass Playground! <https://www.sassmeister.com/> #sass  
+* Proportio.app <https://proportio.app/> #design 
+* mydevice.io : web devices capabilities <https://www.mydevice.io/> #devices  #web (generale) 
+* 🟡 Omatsuri <https://omatsuri.app/> #colori #gradients #reference #svg  #svg
 * 🟡 keyboard-shortcuts-macos.pdf <https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf> #vscode #reference
 * 🟡 Favicon Generator for all platforms: iOS, Android, PC/Mac... <https://realfavicongenerator.net/> #favicon 
-* Transform (conversione linguaggi, formati...) <https://transform.tools/> #graphql #json #mysql #pug #react #tools #web components #yaml 
-* 🟡 Markdown Tables generator - TablesGenerator.com <https://www.tablesgenerator.com/markdown_tables> #converter #html #markdown #tools 
-* Support Details [Get Your Browser Version, System Information & More] <https://supportdetails.net/> #tools 
-* ✿ dabblet.com <http://dabblet.com/> #tools #css
-* debug horiz scroll bar (https://gist.github.com/cuth/c1ddf2b1ce2fb07e512a) <javascript:(function(d){var w=d.documentElement.offsetWidth,t=d.createTreeWalker(d.body,NodeFilter.SHOW_ELEMENT),b;while(t.nextNode()){b=t.currentNode.getBoundingClientRect();if(b.right>w||b.left<0){t.currentNode.style.setProperty('outline','1px dotted red','important');console.log(t.currentNode);}};}(document));> #tools #css
-* View Source <https://neatnik.net/view-source/> #mobile #tools 
+* Transform (conversione linguaggi, formati...) <https://transform.tools/> #graphql #json #mysql #pug #react  #web components #yaml 
+* 🟡 Markdown Tables generator - TablesGenerator.com <https://www.tablesgenerator.com/markdown_tables> #converter #html #markdown  
+* Support Details [Get Your Browser Version, System Information & More] <https://supportdetails.net/>  
+* ✿ dabblet.com <http://dabblet.com/>  #css
+* debug horiz scroll bar (https://gist.github.com/cuth/c1ddf2b1ce2fb07e512a) <javascript:(function(d){var w=d.documentElement.offsetWidth,t=d.createTreeWalker(d.body,NodeFilter.SHOW_ELEMENT),b;while(t.nextNode()){b=t.currentNode.getBoundingClientRect();if(b.right>w||b.left<0){t.currentNode.style.setProperty('outline','1px dotted red','important');console.log(t.currentNode);}};}(document));>  #css
+* View Source <https://neatnik.net/view-source/> #mobile  
 * Front-end Bookmarks <https://www.frontendbookmarks.com/> #css #frontend #javascript #reference #web (generale) 
 * npm semantic version calculator <https://semver.npmjs.com/> #npm 
 * Serve folder for web development <https://servefolder.dev/> #web development 
-* Content Parser Website. Extract markdown, html or text from content-heavy websites <https://content-parser.com/> #tools #markdown 1
-* 🟡 2D & 3D CSS Transform functions visualizer <https://css-transform.moro.es/> #tools #css
-* Grid lover (vertcal Rythm) <https://gridlover.net/try>  #tools #css
-* 🟡 CSS Background Pattern Generator <https://10015.io/tools/css-background-pattern-generator> #tools #css #patterns
+* Content Parser Website. Extract markdown, html or text from content-heavy websites <https://content-parser.com/>  #markdown 1
+* 🟡 2D & 3D CSS Transform functions visualizer <https://css-transform.moro.es/>  #css
+* Grid lover (vertcal Rythm) <https://gridlover.net/try>   #css
+* 🟡 CSS Background Pattern Generator <https://10015.io/tools/css-background-pattern-generator>  #css #patterns
 * 🟡 Collections <https://phuoc.ng/collections/> #css #javascript #dom
 * Cookie Consent Kit Banner - Webtools documentation - EC Extranet Wiki <https://webgate.ec.europa.eu/fpfis/wikis/display/webtools/Cookie+Consent+Kit+Banner> #cookie
 * Social Share URLs <https://github.com/bradvin/social-share-urls> #social #reference
-* Fluid Grid Calculator <https://utopia.fyi/grid/calculator/> #grid (css) #tools
-* Fluid Space Calculator <https://utopia.fyi/space/calculator> #css #ui #tools
+* Fluid Grid Calculator <https://utopia.fyi/grid/calculator/> #grid (css) 
+* Fluid Space Calculator <https://utopia.fyi/space/calculator> #css #ui 
 * CSS Variables vscode extension <https://github.com/willofindie/vscode-cssvar/> #vscode #css
 
 
@@ -53,13 +52,31 @@
 * shadcn/ui <https://ui.shadcn.com/> #react #component library #tailwind
 * Naive UI <https://www.naiveui.com/en-US/os-theme> #component library #vue
 
+## Palette generators
+* Color Hex Color Codes <https://www.color-hex.com/> #colori #palette
+* couleur.io → Harmonizing Color Palettes for Your Web Projects <https://couleur.io/> #colori #palette 
+* Ruota colore, un generatore di palette colore | Adobe Color <https://color.adobe.com/it/create/color-wheel> #colori #palette 
+* Geenes <https://geenes.app/welcome> #colori #palette 
+* Leonardo <https://leonardocolor.io/scales.html#> #palette #colori  
+* Palette generator <https://coolors.co/>  #palette #colori  
+* Huetone <https://huetone.ardov.me> #palette #colori #accessibilità
+* Re: Pleasing Color Palettes <https://css-tricks.com/re-pleasing-color-palettes/> #palette #colori
+* Accessible Palette: Create color systems with consistent lightness and contrast <https://accessiblepalette.com/> #colori #accessibilità #palette
+* EightShapes Contrast Grid <https://contrast-grid.eightshapes.com> #accessibilità #colori #palette
+* 🟡 cccolor → clean & simple color picker for web designers <https://fffuel.co/cccolor/> #palette #colori  
+* Color Designer - Simple Color Palette Generator <https://colordesigner.io/> #accessibilità #colori #palette
+* Colorable <https://colorable.jxnblk.com/> #accessibilità #colori
+* Palette Generator <https://www.learnui.design/tools/data-color-picker.html#palette> #colori #palette #charts
+* Hue Tools <https://hue.tools/> #colori #palette
+* Material Design Color Palette Generator - Material Palette <https://www.materialpalette.com/> #colori #palette #material design
+
 ## JSON
 * 🟡 JSON5. JSON for Humans <https://json5.org/> #json
-* 🟡 JSON Generator <https://www.jsongenerator.io/> #json #tools
-* JSON generator <https://next.json-generator.com/> #tools #json
-* JSON To SQL Converter <http://convertjson.com/json-to-sql.htm> #converter #json #sql #tools 
+* 🟡 JSON Generator <https://www.jsongenerator.io/> #json 
+* JSON generator <https://next.json-generator.com/>  #json
+* JSON To SQL Converter <http://convertjson.com/json-to-sql.htm> #converter #json #sql  
 * JSONPlaceholder - Free Fake REST API <https://jsonplaceholder.typicode.com/> #api #corsi #fakers #json 
-* JSON editor <https://jsoneditoronline.org/> #tools #json
+* JSON editor <https://jsoneditoronline.org/>  #json
 
 
 ## unix
@@ -68,22 +85,22 @@
 
 ## Animazioni
 * The ultimate guide to proper use of animation in UX <https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9> #ux #amimazioni
-* 🟡 Easing functions cheat sheet <https://easings.net/> #animazioni #tools #bezier
-* 🟡 Cubic Bezier <https://cubic-bezier.com/> #animazioni #tools #bezier
+* 🟡 Easing functions cheat sheet <https://easings.net/> #animazioni  #bezier
+* 🟡 Cubic Bezier <https://cubic-bezier.com/> #animazioni  #bezier
 * 🟡 Bézier curves <https://blog.richardekwonye.com/bezier-curves> #bezier
-* 🟡 Epic Easing. Easing made easy <https://epiceasing.com/> #animazioni #tools #bezier
+* 🟡 Epic Easing. Easing made easy <https://epiceasing.com/> #animazioni  #bezier
 
 
 ## Immagini
-* 🟡 Squoosh <https://squoosh.app/> #immagini #tools 
+* 🟡 Squoosh <https://squoosh.app/> #immagini  
 * RespImageLint - Linter for Responsive Images <https://ausi.github.io/respimagelint/> #immagini #linters
-* Responsive Image Breakpoints Generator <https://responsivebreakpoints.com/> #tools #immagini #responsive design #responsive images
+* Responsive Image Breakpoints Generator <https://responsivebreakpoints.com/>  #immagini #responsive design #responsive images
 
 ## SVG
-* 🟡 SVGOMG - SVGO's Missing GUI <https://jakearchibald.github.io/svgomg/> #svg #tools 
-* SvgPathEditor <https://yqnn.github.io/svg-path-editor/> #svg #tools
-* Clippy — CSS clip-path maker <https://bennettfeely.com/clippy/> #svg #tools
-* SVG Path Visualizer <https://svg-path-visualizer.netlify.app> #svg #tools
+* 🟡 SVGOMG - SVGO's Missing GUI <https://jakearchibald.github.io/svgomg/> #svg  
+* SvgPathEditor <https://yqnn.github.io/svg-path-editor/> #svg 
+* Clippy — CSS clip-path maker <https://bennettfeely.com/clippy/> #svg 
+* SVG Path Visualizer <https://svg-path-visualizer.netlify.app> #svg 
 * SVG Stuff <https://sean.brunnock.com/SVG/> #svg
 * Snap.svg - Home <http://snapsvg.io/> #svg #javascript
 * SVG.js v3.0 | Home <https://svgjs.dev/docs/3.0/> #svg #javascript
@@ -94,46 +111,37 @@
 * 🟡 Greensock <https://greensock.com/> #svg #javascript #animazioni
 * SVG Anima <https://svganima.com/app/> #svg #javascript #animazioni
 * SVGator <https://www.svgator.com/> #svg #javascript #animazioni
-* Vectorpea <https://www.vectorpea.com/> #tools #svg
+* Vectorpea <https://www.vectorpea.com/>  #svg
 
 
 ## Colori
 * color-mix() <https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color-mix> #colori #css
+* CSS relative color syntax <https://developer.chrome.com/blog/css-relative-color-syntax/> #colori #css
 * Simplify Your Color Palette With CSS Color-Mix() <https://www.smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/> #colori #css
 * Creazione di una combinazione di colori <https://web.dev/articles/building/a-color-scheme?hl=it> #colori #css
-* Easing Gradients <https://larsenwork.com/easing-gradients/#editor> #gradients #tools  #colori #css
-* 🟡 CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp> #tools #colori
-* CSS Shadow Palette Generator <https://www.joshwcomeau.com/shadow-palette/> #shadows #tools  #palette #css
-* CSS Gradient Generator <https://www.joshwcomeau.com/gradient-generator/> #gradients #tools  #colori #css
-* CSS Shadow Gradients — Generator [Fast & Easy] <https://alvarotrigo.com/shadow-gradients/#how-to-use> #css #gradients #tools
+* Easing Gradients <https://larsenwork.com/easing-gradients/#editor> #gradients   #colori #css
+* 🟡 CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp>  #colori
+* CSS Shadow Palette Generator <https://www.joshwcomeau.com/shadow-palette/> #shadows  #css
+* CSS Gradient Generator <https://www.joshwcomeau.com/gradient-generator/> #gradients   #colori #css
+* CSS Shadow Gradients — Generator [Fast & Easy] <https://alvarotrigo.com/shadow-gradients/#how-to-use> #css #gradients 
 * CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp> #icone #svg  #css
-* EightShapes Contrast Grid <https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23FFFFFF%2C%20White%0D%0A%23F2F2F2%0D%0A%23DDDDDD%0D%0A%23CCCCCC%0D%0A%23888888%0D%0A%23404040%2C%20Charcoal%0D%0A%23000000%2C%20Black%0D%0A%232F78C5%2C%20Effective%20on%20Extremes%0D%0A%230F60B6%2C%20Effective%20on%20Lights%0D%0A%23398EEA%2C%20Ineffective%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp> #accessibilità #colori #tools 
-* hue.tools – mix <https://hue.tools/mix?colors=b75b5dff%3B37e965ff&steps=10&view=steps&mode=lch&format=hex> #colori #tools 
-* Color Hex Color Codes <https://www.color-hex.com/> #colori #palette
-* Color picker tool - CSS: Cascading Style Sheets | MDN <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool> #colori #tools 
-* Sass Color Generator <http://scg.ar-ch.org/> #colori #sass #tools 
-* cccreate → carefully curated collection of tools for web creators <https://cccreate.co/> #animazioni #colori #css #icone #tipografia #tools  #design
-* colorate | Strumenti di schema di colori per designer e sviluppatori. <https://colorate.azurewebsites.net/it> #colori #tools  #css
-* Scale — color scale generator <https://hihayk.github.io/scale/> #colori #tools 
-* couleur.io → Harmonizing Color Palettes for Your Web Projects <https://couleur.io/> #colori #tools 
-* Generate - Coolors.co <https://coolors.co/58355e-c216e0-ed89ff-f3afff-b458c4> #colori #tools 
-* cccolor → clean & simple color picker for web designers <https://fffuel.co/cccolor/> #colori #tools 
-* Ruota colore, un generatore di palette colore | Adobe Color <https://color.adobe.com/it/create/color-wheel> #colori #tools 
-* Geenes <https://geenes.app/welcome> #colori #tools 
-* Leonardo <https://leonardocolor.io/scales.html#> #tools #colori 
-* Huetone <https://huetone.ardov.me/?palette=N4IgdghgtgpiBcICiAPaAHANjABABQmwBci4AaEACwFcYBnBAbVElgRAHEAnGATxAoBjAPaZhXBvEYgAxADMAbIsUDZMAIwaNqmQCMAJgYM6I606Z0AOAEw2bOhdceOdAFgDsHjzusBOP34gALoAvmQs0HCIeACWYADWqiJiEkyychnWcu46GfruMADMuboQroIADLnKEMUU8tbWEJYArDq%2Bgq6uCnWyLZau1q6WOi0tFe5NwWERbIgASjD6SaLiktLyGa4w5Oly%2Bh278voQ7r6%2B1e7uCsv1cuqF%2Bq7qOrqTRVX1lr6a1p99hQq9yqoXC4Ei7AAmjBMGIAO4rFLrPZyFowEZ3fa6XQY9KFCDZXoydGWWoKHSCXQKdwVF71Xy6Vz6Wk6dwPSwVVxuRoVXnTMGsKKcHgwMCItZpeRA3wwC71QRyWXY9oQSnuXEyBQMwqFI6DXyuIE%2BbK8nL1dSov7-GTqVyAvmg2ZCgAqMEI4tSUjUWQJcleCjdcg110Evn0RwqLV0FUEt1kFQUljkEHJ9QmCkEBR0vNcqLjMlp1iKOUd4LmIAAQphaB7kfJc0o-fVDPoMk3ZBAIKUMlY-Loe-VDe4FRr1IIWvpBKOnn4uWn-Ao0dMghQiMIwPQ0uNVOo%2BRQrap7apDf9xv8FHuQDSQSEgA> #palette #colori
-* Name that Color - Chirag Mehta : chir.ag <https://chir.ag/projects/name-that-color/#9A0B9A> #colori #tools
-* Re: Pleasing Color Palettes <https://css-tricks.com/re-pleasing-color-palettes/> #colori
+* hue.tools – mix <https://hue.tools/mix?colors=b75b5dff%3B37e965ff&steps=10&view=steps&mode=lch&format=hex> #colori  
+* Color picker tool - CSS: Cascading Style Sheets | MDN <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool> #colori  
+* Sass Color Generator <http://scg.ar-ch.org/> #colori #sass  
+* cccreate → carefully curated collection of tools for web creators <https://cccreate.co/> #animazioni #colori #css #icone #tipografia   #design
+* colorate | Strumenti di schema di colori per designer e sviluppatori. <https://colorate.azurewebsites.net/it> #colori   #css
+* Scale — color scale generator <https://hihayk.github.io/scale/> #colori  
+* Generate - Coolors.co <https://coolors.co/58355e-c216e0-ed89ff-f3afff-b458c4> #colori  
+* cccolor → clean & simple color picker for web designers <https://fffuel.co/cccolor/> #colori  
+* Name that Color - Chirag Mehta : chir.ag <https://chir.ag/projects/name-that-color/#9A0B9A> #colori 
 * PleaseJS <https://github.com/Fooidge/PleaseJS> #colori
 * APCA Contrast Calculator <https://www.myndex.com/APCA/> #colori #accessibilità
-* Accessible Palette: Create color systems with consistent lightness and contrast <https://accessiblepalette.com/> #colori #accessibilità #palette
-* CSS relative color syntax <https://developer.chrome.com/blog/css-relative-color-syntax/> #colori #css
-* OKLCH Color Picker & Converter <https://oklch.com> #colori #tools
-* Color Review <https://color.review/> #colori #accessibilità #tools
+* OKLCH Color Picker & Converter <https://oklch.com> #colori 
+* Color Review <https://color.review/> #colori #accessibilità 
 * HD gradients <https://gradient.style/> #colori #css
 
 ## Testo / Unicode
-* Text Cleaner: Text Formatter, Text Formatting Online <https://textcleaner.net/> #string manipulation #tools 
+* Text Cleaner: Text Formatter, Text Formatting Online <https://textcleaner.net/> #string manipulation  
 * Unicode® character table <https://unicode-table.com/en/> #fonts 
 * List of Unicode Characters of Category “Space Separator” <https://www.compart.com/en/unicode/category/Zs> #fonts 
 * Unicode - Compart <https://www.compart.com/en/unicode/> #fonts
@@ -143,7 +151,7 @@
 
 ## Web vitals / perfomance / testing
 * GoogleChrome/lighthouse: Automated auditing, performance metrics, and best practices for the web. <https://github.com/GoogleChrome/lighthouse>  #google #web perfomance
-* PageSpeed Insights <https://developers.google.com/speed/pagespeed/insights/> #google #testing #tools #web development #web perfomance
+* PageSpeed Insights <https://developers.google.com/speed/pagespeed/insights/> #google #testing  #web development #web perfomance
 * Testa la velocità dei siti web per dispositivi mobili - Google <https://testmysite.withgoogle.com/intl/it-it> #google #web perfomance
 * Test di compatibilità con dispositivi mobili <https://www.google.com/webmasters/tools/mobile-friendly/> #google #web perfomance
 * <https://www.browserstack.com/> #testing
@@ -173,7 +181,7 @@
 * Galleria Foto – Wikimedia Italia <https://www.wikimedia.it/galleria-foto/> #fotografia #idee
 * Accidentally Wes Anderson <https://accidentallywesanderson.com/> #fotografia #idee #immagini
 * Pattern in Islamic Art <https://patterninislamicart.com/> #arte #illustrazioni #patterns
-* Silk – Interactive Generative Art <http://weavesilk.com/> #idee #illustrazioni #matematica #tools
+* Silk – Interactive Generative Art <http://weavesilk.com/> #idee #illustrazioni #matematica 
 * Artvee <https://artvee.com/> #arte
 * Urban Geometry - Hoxton Mini Press <https://hoxtonminipress.com/collections/books/products/urban-geometry> #fotografia #idee
 * La Décoration Arabe by Emile Prisse d'Avennes | Public Domain Arabic Art Prints CC0 - rawpixel <https://www.rawpixel.com/search?mode=shop&page=1&sort=curated&story=114538&tags=%24ladecorationarabe&topic=%24ladecorationarabe&topic_group=%24publicdomain> #arte
@@ -229,11 +237,10 @@
 ## Webpack
 * Output | webpack <https://webpack.js.org/configuration/output/#template-strings>
 * webpack Tutorial: How to Set Up webpack 5 From Scratch | Tania Rascia <https://www.taniarascia.com/how-to-use-webpack/>
-* taniarascia/webpack-boilerplate: 📦 ‎ A sensible webpack 5 boilerplate. <https://github.com/taniarascia/webpack-boilerplate>
+* taniarascia/webpack-boilerplate: A sensible webpack 5 boilerplate. <https://github.com/taniarascia/webpack-boilerplate>
 * React boilerplate using WebPack 4 | by Abhimanyu Chauhan | DataDrivenInvestor <https://medium.datadriveninvestor.com/react-boilerplate-adc97f608251>
 * How to configure SCSS modules for Webpack <https://www.developerhandbook.com/webpack/how-to-configure-scss-modules-for-webpack/>
 * Concepts | webpack <https://webpack.js.org/concepts/> #webbpack
-
 
 
 ## Fonts
@@ -252,7 +259,7 @@
 
 
 ## Design / Tipografia
-* Golden Ratio Typography (GRT) Calculator <https://grtcalculator.com/> #design #tools 
+* Golden Ratio Typography (GRT) Calculator <https://grtcalculator.com/> #design  
 * Type Design Resources <https://typedesignresources.com/> #design #tipografia
 * Spacing, Grids and Layouts <https://www.designsystems.com/space-grids-and-layouts/> #design 
 * Dashboard Design Patterns <https://dashboarddesignpatterns.github.io/> #design
@@ -263,8 +270,8 @@
 * RFS <https://github.com/twbs/rfs> #css #sass #tipografia
 * 8 micro tips for remarkably better typography <https://uxdesign.cc/8-micro-tips-for-remarkably-better-typography-986c8c4f6d85> #tipografia #design
 * Font pairing made simple <https://fontjoy.com/> #fonts #design #font pairing
-* Fluid type scale calculator <https://utopia.fyi/type/calculator> #tipografia #tools
-* Clamp Calculator <https://utopia.fyi/clamp/calculator> #tipografia #tools
+* Fluid type scale calculator <https://utopia.fyi/type/calculator> #tipografia 
+* Clamp Calculator <https://utopia.fyi/clamp/calculator> #tipografia 
 * Responsive type scales with composable CSS utilities <https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/> #tipografia
 * 🟡 Style Manual <http://stylemanual.org/> #tipografia #content writing
 
@@ -333,19 +340,19 @@
 
 
 ## CSS / Sass / PostCSS
-* Min-Max-Value Interpolation <https://min-max-calculator.9elements.com/> #css #tools 
+* Min-Max-Value Interpolation <https://min-max-calculator.9elements.com/> #css  
 * eludadev/css-docs: CSS Selectors, Flexbox, Grid, Box Model, visually explained. <https://github.com/EludaDev/CSS-Docs#sparkles-css-flexbox-layout> #corsi #css 
 * postcss/postcss-cli: CLI for postcss <https://github.com/postcss/postcss-cli> #postcss 
 * Defensive CSS <https://defensivecss.dev/> #css
-* SmolCSS <https://smolcss.dev/> #css #tools 
-* Clippy — CSS clip-path maker <https://bennettfeely.com/clippy/> #tools #css
+* SmolCSS <https://smolcss.dev/> #css  
+* Clippy — CSS clip-path maker <https://bennettfeely.com/clippy/>  #css
 * CSS Transform Functions Visualizer <https://css-transform.moro.es/> #css
-* Grid Calculator by Nicolaj Kirkgaard Nielsen <http://gridcalculator.dk/> #design #grids (css) #tools 
-* CSS Generator - Matrix Transform <https://angrytools.com/css-generator/transform/> #css #tools
+* Grid Calculator by Nicolaj Kirkgaard Nielsen <http://gridcalculator.dk/> #design #grids (css)  
+* CSS Generator - Matrix Transform <https://angrytools.com/css-generator/transform/> #css 
 * CSS Cursors! <https://csscursor.info/> #css
 * 🟡 GRID: A simple visual cheatsheet for CSS Grid Layout <https://grid.malven.co/> #css
 * 🟡 FLEX: A simple visual cheatsheet for flexbox <https://flexbox.malven.co/> #css
-* CSS Calc <http://nico-izo.github.io/calc.html> #css #tools
+* CSS Calc <http://nico-izo.github.io/calc.html> #css 
 * Tip: Perfect nested border radius in CSS <https://www.30secondsofcode.org/css/s/nested-border-radius/> #css #border (css)
 * Transitions <https://m3.material.io/styles/motion/transitions/applying-transitions> #css #animazione #ui #design #material design
 * 🟡 An Interactive Guide to CSS Grid <https://www.joshwcomeau.com/css/interactive-guide-to-grid/> #grids (css)
@@ -358,7 +365,7 @@
 * managing HTML DOM with JavaScript <https://htmldom.dev/> #dom #html #reference 
 * Operator Lookup - Search JavaScript operators · Josh W Comeau <https://joshwcomeau.com/operator-lookup/> #operatori (javascript) #reference 
 * this vs that - What is the difference... <https://thisthat.dev/> #operatori (javascript) #reference 
-* You Might Not Need jQuery <http://youmightnotneedjquery.com/> #javascript #jquery #reference #tools 
+* You Might Not Need jQuery <http://youmightnotneedjquery.com/> #javascript #jquery #reference  
 * 1loc | Favorite JavaScript single line of code <https://1loc.dev/> #javascript #snippets 
 * unjs.io <https://unjs.io/>  #javascript #node 
 * balazsbotond/urlcat: A URL builder library for JavaScript. <https://github.com/balazsbotond/urlcat> #javascript
@@ -371,8 +378,7 @@
 * Platform.js <https://github.com/bestiejs/platform.js#readme> #javascript  #browsers
 * 🟡 JavaScript Intersection Observer Ultimate Guide <https://blog.webdevsimplified.com/2022-01/intersection-observer/> #javascript
 * Sugar - a Javascript utility library for working with native objects. <https://sugarjs.com/> #javascript #date 
-* 🟡 Typescript Playground <https://www.typescriptlang.org/play> #typescript #tools
-
+* 🟡 Typescript Playground <https://www.typescriptlang.org/play> #typescript 
 
 
 ## Icone
@@ -386,6 +392,7 @@
 * 🟡 CSS Loaders <https://css-loaders.com/> #spinners
 * 🟡 LDRS <https://uiball.com/ldrs/> #spinners
 
+
 ## Git
 * GitFlow <https://devdev.it/guida-gitflow/> #gitflow #git
 * Come funziona GitFlow: branch develop e master – Guida a GitFlow - devdev.it <https://devdev.it/guida-gitflow/come-funziona-gitflow-branch-develop-e-master/> #gitflow #git
@@ -395,11 +402,11 @@
 
 ## Software / Mac / Applicazioni web / Add-ons
 * espanso - Cross-platform Text Expander written in Rust <https://espanso.org/> #mac 
-* Markwhen. Professional planning and calendar-ing tools.  <https://markwhen.com/> #tools #gannt 
+* Markwhen. Professional planning and calendar-ing tools.  <https://markwhen.com/>  #gannt 
 * Lighthouse Liner Illustrator Brushes | Unique Illustrator Add-Ons ~ Creative Market <https://creativemarket.com/pixel-buddha/4646802-Lighthouse-Liner-Illustrator-Brushes> #software #ux
 * Spline <https://app.spline.design/files>  #3D
 * Google Web Designer <http://www.google.com/webdesigner/> #google
-* Textik - ASCII diagrams editor <https://textik.com/#ab4260274eed7516> #tools #diagrammi
+* Textik - ASCII diagrams editor <https://textik.com/#ab4260274eed7516>  #diagrammi
 
 
 ## Accounts
