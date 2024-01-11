@@ -69,6 +69,7 @@
 * Palette Generator <https://www.learnui.design/tools/data-color-picker.html#palette> #colori #palette #charts
 * Hue Tools <https://hue.tools/> #colori #palette
 * Material Design Color Palette Generator - Material Palette <https://www.materialpalette.com/> #colori #palette #material design
+* Paletton.com <https://paletton.com>  #colori #palette
 
 ## JSON
 * 🟡 JSON5. JSON for Humans <https://json5.org/> #json
