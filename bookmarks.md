@@ -41,6 +41,7 @@
 * 🟡 Patterns <https://web.dev/patterns/> #web components
 * 🟡 Open Props: sub-atomic styles <https://open-props.style/> #css 
 * 🟡 Headless UI - Unstyled, fully accessible UI components <https://headlessui.com/> #react #headless component #component library
+* 🟡 React Aria <https://react-spectrum.adobe.com/react-aria> #react #accessibilità #component library
 * Formik: Build forms in React, without the tears <https://formik.org/> #forms #react #component library
 * React Select <https://react-select.com/home> #forms #react #component library
 * Final Form <https://final-form.org/> #forms #react #component library
@@ -70,6 +71,33 @@
 * Hue Tools <https://hue.tools/> #colori #palette
 * Material Design Color Palette Generator - Material Palette <https://www.materialpalette.com/> #colori #palette #material design
 * Paletton.com <https://paletton.com>  #colori #palette
+
+
+## Design / Tipografia / Style manuals
+* 🟡 Laws of UX  <https://lawsofux.com/> #ux #reference
+* Golden Ratio Typography (GRT) Calculator <https://grtcalculator.com/> #design  
+* Type Design Resources <https://typedesignresources.com/> #design #tipografia
+* Spacing, Grids and Layouts <https://www.designsystems.com/space-grids-and-layouts/> #design 
+* Dashboard Design Patterns <https://dashboarddesignpatterns.github.io/> #design
+* 🟡 Material Design 3 <https://m3.material.io/> #design systems #material design
+* Fluid typography examples <https://www.madebymike.com.au/writing/fluid-type-calc-examples/> #tipografia
+* Modern fluid typography editor <https://modern-fluid-typography.vercel.app/> #tipografia
+* Modern Fluid Typography Using CSS Clamp <https://www.smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/> #tipografia
+* RFS <https://github.com/twbs/rfs> #css #sass #tipografia
+* 8 micro tips for remarkably better typography <https://uxdesign.cc/8-micro-tips-for-remarkably-better-typography-986c8c4f6d85> #tipografia #design
+* Font pairing made simple <https://fontjoy.com/> #fonts #design #font pairing
+* Fluid type scale calculator <https://utopia.fyi/type/calculator> #tipografia 
+* Clamp Calculator <https://utopia.fyi/clamp/calculator> #tipografia 
+* Responsive type scales with composable CSS utilities <https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/> #tipografia
+* Style Manual <http://stylemanual.org/> #style manual #tipografia
+* Butterick’s Practical Typography <https://practicaltypography.com/> #style manual #tipografia 
+* Fluid Space Calculator <https://utopia.fyi/space/calculator/> #tipografia
+* Fluid typography <https://fluid-typography.netlify.app/> #tipografia
+* Gutenberg. A Meaningful Web Typography Starter Kit <http://matejlatin.github.io/Gutenberg/> #tipografia
+* Typescale <https://typescale.com/> #tipografia
+* the good line height <https://www.thegoodlineheight.com/> #tipografia
+* Modular Scale <https://www.modularscale.com/> #tipografia
+
 
 ## JSON
 * 🟡 JSON5. JSON for Humans <https://json5.org/> #json
@@ -191,6 +219,7 @@
 * archives.design. A digital archive of graphic design related items that are available on the Internet Archives <https://archives.design> #design #idee
 * Refero — design references for your next project <https://refero.design/> #design #idee
 
+
 ## React / web components / styled components / css modules
 * 🟡 Design and performance patterns <https://www.patterns.dev/posts> #react #javascript
 * React – Una libreria JavaScript per creare interfacce utente <https://it.reactjs.org/> #react
@@ -257,25 +286,6 @@
 * Martian Mono <https://fonts.google.com/specimen/Martian+Mono> #fonts interessanti 
 * Overpass <https://fonts.google.com/specimen/Overpass> #fonts interessanti
 * Geist <https://vercel.com/font/sans> #fonts interessanti
-
-
-## Design / Tipografia
-* Golden Ratio Typography (GRT) Calculator <https://grtcalculator.com/> #design  
-* Type Design Resources <https://typedesignresources.com/> #design #tipografia
-* Spacing, Grids and Layouts <https://www.designsystems.com/space-grids-and-layouts/> #design 
-* Dashboard Design Patterns <https://dashboarddesignpatterns.github.io/> #design
-* 🟡 Material Design 3 <https://m3.material.io/> #design systems #material design
-* Fluid typography examples <https://www.madebymike.com.au/writing/fluid-type-calc-examples/> #tipografia
-* Modern fluid typography editor <https://modern-fluid-typography.vercel.app/> #tipografia
-* Modern Fluid Typography Using CSS Clamp <https://www.smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/> #tipografia
-* RFS <https://github.com/twbs/rfs> #css #sass #tipografia
-* 8 micro tips for remarkably better typography <https://uxdesign.cc/8-micro-tips-for-remarkably-better-typography-986c8c4f6d85> #tipografia #design
-* Font pairing made simple <https://fontjoy.com/> #fonts #design #font pairing
-* Fluid type scale calculator <https://utopia.fyi/type/calculator> #tipografia 
-* Clamp Calculator <https://utopia.fyi/clamp/calculator> #tipografia 
-* Responsive type scales with composable CSS utilities <https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/> #tipografia
-* 🟡 Style Manual <http://stylemanual.org/> #tipografia #content writing
-
 
 
 ## Twig / Symfony
@@ -468,3 +478,4 @@
 * Local WP <https://localwp.com/> #wordpress
 * Using Headless WordPress with Next.js and Vercel <https://vercel.com/guides/wordpress-with-vercel> #wordpress #next #vercel
 * GraphQL API for WordPress <https://www.wpgraphql.com/> #wordpress #graphql
+* Prisma <https://www.prisma.io/> #node #database
