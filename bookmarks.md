@@ -72,6 +72,7 @@
 * Hue Tools <https://hue.tools/> #colori #palette
 * Material Design Color Palette Generator - Material Palette <https://www.materialpalette.com/> #colori #palette #material design
 * Paletton.com <https://paletton.com>  #colori #palette
+* Accessible Brand Colors <https://abc.useallfive.com/> #colori #palette @accessibilità
 
 
 ## Design / Tipografia / Style manuals
@@ -98,6 +99,7 @@
 * Typescale <https://typescale.com/> #tipografia
 * the good line height <https://www.thegoodlineheight.com/> #tipografia
 * Modular Scale <https://www.modularscale.com/> #tipografia
+* Neurodiversity Design System <https://neurodiversity.design/> #design #tipografia
 
 
 ## JSON
