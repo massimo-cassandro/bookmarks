@@ -3,6 +3,7 @@
 
 ## In evidenza
 * 🟡 DevTools Tips <https://devtoolstips.org/> #browsers #web development
+* DummyText <https://www.blindtextgenerator.com/lorem-ipsum> #tools
 * 🟡 snippet generator <https://snippet-generator.app/> #ide  #vscode 
 * 🟡 Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript <https://regex101.com/> #regexp 
 * 🟡 Faker <https://massimo-cassandro.github.io/area-test/2019-01-faker/index.html> #fakers #m
