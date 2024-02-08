@@ -226,6 +226,8 @@
 
 
 ## React / web components / styled components / css modules
+* Making setInterval Declarative with React Hooks <https://overreacted.io/making-setinterval-declarative-with-react-hooks/> #react
+* Using setTimeout in React components (including hooks) <https://felixgerschau.com/react-hooks-settimeout/> #react
 * 🟡 Design and performance patterns <https://www.patterns.dev/posts> #react #javascript
 * React – Una libreria JavaScript per creare interfacce utente <https://it.reactjs.org/> #react
 * Create React App with Multiple Entry Points - Digital Inspiration <https://www.labnol.org/code/react-multiple-entry-points-210512> #react
