@@ -313,6 +313,9 @@
 
 ## Reference
 * 🟡 Laws of UX <https://lawsofux.com/> #ux 
+* Psychology for UX: Study Guide <https://www.nngroup.com/articles/psychology-study-guide/> #psicologia della percezione #ux
+* Neurodiversity Design System <https://neurodiversity.design> #accessibilità #ux #design systems
+* Gestalt principles in UI design. <https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965>  #psicologia della percezione #ux
 * 🟡 Bootstrap docs <https://getbootstrap.com/docs> #framework #bootstrap #reference
 * Javascript Cheat Sheet | OverAPI.com <https://overapi.com/javascript> #javascript  #reference
 * 🟡 SheetJS Community Edition <https://docs.sheetjs.com/docs/>  #excel  #reference
