@@ -409,6 +409,8 @@
 * Simple Icons <https://simpleicons.org/> #svg #immagini
 * Free Icons | icons.download <https://icons.download/> #icone #svg
 * JAM icons <https://jam-icons.com/> #icone #svg
+* React Icons <https://react-icons.github.io/react-icons/> #icone #react
+* Phosphor Icons <https://phosphoricons.com> #icone #react #vue #angular
 
 
 ## Spinners
