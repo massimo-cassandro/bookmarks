@@ -422,7 +422,6 @@
 
 ## Git
 * GitFlow <https://devdev.it/guida-gitflow/> #gitflow #git
-* Come funziona GitFlow: branch develop e master – Guida a GitFlow - devdev.it <https://devdev.it/guida-gitflow/come-funziona-gitflow-branch-develop-e-master/> #gitflow #git
 * git-flow cheatsheet <https://danielkummer.github.io/git-flow-cheatsheet/> #gitflow #git
 * git - Merge development branch with master - Stack Overflow <https://stackoverflow.com/questions/14168677/merge-development-branch-with-master/14168817#14168817> #git
 
