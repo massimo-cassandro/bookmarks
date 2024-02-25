@@ -517,5 +517,7 @@
 * https://drive.google.com/file/d/1qXMUXKHaEXnLDOu99GCzTMY2XW6NnPe_/view
 * https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742
 * https://medium.com/razorpay-design/behind-the-scenes-of-designing-a-design-system-component-7969636fabf4
+* https://m3.material.io/foundations/design-tokens/overview
+* https://github.com/salesforce-ux/theo
 * https://uxplanet.org/design-tokens-102-8ac8ede85cfe
 
