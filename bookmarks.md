@@ -488,6 +488,7 @@
 * How to install a private NPM module without my own registry? <https://stackoverflow.com/questions/10386310/how-to-install-a-private-npm-module-without-my-own-registry>
 * Reggie <https://github.com/mbrevoort/node-reggie>
 * Verdaccio. A lightweight Node.js private proxy registry <https://verdaccio.org/>
+* npm Unpublish Policy <https://docs.npmjs.com/policies/unpublish>
 
 
 ## wp headless / next
