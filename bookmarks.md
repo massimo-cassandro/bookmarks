@@ -489,6 +489,7 @@
 * Reggie <https://github.com/mbrevoort/node-reggie>
 * Verdaccio. A lightweight Node.js private proxy registry <https://verdaccio.org/>
 * npm Unpublish Policy <https://docs.npmjs.com/policies/unpublish>
+* npm-deprecate <https://docs.npmjs.com/cli/v10/commands/npm-deprecate>
 
 
 ## wp headless / next
