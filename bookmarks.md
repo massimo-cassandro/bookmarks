@@ -5,6 +5,7 @@
 * 🟡 DevTools Tips <https://devtoolstips.org/> #browsers #web development
 * DummyText <https://www.blindtextgenerator.com/lorem-ipsum> #tools
 * Download a virtual machine <https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/> #tools
+* 🟡 FontDrop! <https://fontdrop.info/#/?darkmode=true> #fonts
 * 🟡 snippet generator <https://snippet-generator.app/> #ide  #vscode 
 * 🟡 Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript <https://regex101.com/> #regexp 
 * 🟡 Faker <https://massimo-cassandro.github.io/area-test/2019-01-faker/index.html> #fakers #m
@@ -23,7 +24,7 @@
 * 🟡 Markdown Tables generator - TablesGenerator.com <https://www.tablesgenerator.com/markdown_tables> #converter #html #markdown  
 * Support Details [Get Your Browser Version, System Information & More] <https://supportdetails.net/>  
 * ✿ dabblet.com <http://dabblet.com/>  #css
-* debug horiz scroll bar (https://gist.github.com/cuth/c1ddf2b1ce2fb07e512a) <javascript:(function(d){var w=d.documentElement.offsetWidth,t=d.createTreeWalker(d.body,NodeFilter.SHOW_ELEMENT),b;while(t.nextNode()){b=t.currentNode.getBoundingClientRect();if(b.right>w||b.left<0){t.currentNode.style.setProperty('outline','1px dotted red','important');console.log(t.currentNode);}};}(document));>  #css
+* debug horiz scroll bar (htt      ps://gist.github.com/cuth/c1ddf2b1ce2fb07e512a) <javascript:(function(d){var w=d.documentElement.offsetWidth,t=d.createTreeWalker(d.body,NodeFilter.SHOW_ELEMENT),b;while(t.nextNode()){b=t.currentNode.getBoundingClientRect();if(b.right>w||b.left<0){t.currentNode.style.setProperty('outline','1px dotted red','important');console.log(t.currentNode);}};}(document));>  #css
 * View Source <https://neatnik.net/view-source/> #mobile  
 * Front-end Bookmarks <https://www.frontendbookmarks.com/> #css #frontend #javascript #reference #web (generale) 
 * npm semantic version calculator <https://semver.npmjs.com/> #npm 
@@ -297,6 +298,7 @@
 * Martian Mono <https://fonts.google.com/specimen/Martian+Mono> #fonts interessanti 
 * Overpass <https://fonts.google.com/specimen/Overpass> #fonts interessanti
 * Geist <https://vercel.com/font/sans> #fonts interessanti
+* Identifying Font Subsetting Opportunities with Web Font Analyzer <https://paulcalvano.com/2024-02-16-identifying-font-subsetting-opportunities/> #fonts #web perfomance
 
 
 ## Twig / Symfony
