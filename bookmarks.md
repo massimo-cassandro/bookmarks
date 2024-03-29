@@ -2,6 +2,7 @@
 
 
 ## In evidenza
+* Vanilla CSS <https://vanillaframework.io/> #css #frameworks
 * 🟡 DevTools Tips <https://devtoolstips.org/> #browsers #web development
 * DummyText <https://www.blindtextgenerator.com/lorem-ipsum> #tools
 * Download a virtual machine <https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/> #tools
