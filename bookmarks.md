@@ -269,6 +269,11 @@
 * How to use JSON file as a server for fake API in React JS <https://medium.com/how-to-react/how-to-use-json-file-as-a-server-for-fake-api-in-react-js-6b72606023b7> #react #json #sviluppo
 * react-beautiful-dnd <https://github.com/atlassian/react-beautiful-dnd> #react
 
+## react npm packages
+* https://github.com/ananduremanan/custom-react-npm-module
+* https://itnext.io/how-to-package-your-react-component-for-distribution-via-npm-d32d4bf71b4f
+* https://blog.nonstopio.com/a-step-by-step-guide-to-publishing-your-own-react-npm-package-fa2b7f1d149
+
 
 ## NodeJS
 * Introduction to Node.js <https://nodejs.dev/learn>
