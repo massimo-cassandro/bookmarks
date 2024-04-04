@@ -422,6 +422,8 @@
 * JAM icons <https://jam-icons.com/> #icone #svg
 * React Icons <https://react-icons.github.io/react-icons/> #icone #react
 * Phosphor Icons <https://phosphoricons.com> #icone #react #vue #angular
+* Remix Icons <https://remixicon.com/>
+* Heroicons <https://heroicons.com/>
 
 
 ## Spinners
