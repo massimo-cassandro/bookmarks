@@ -2,6 +2,7 @@
 
 
 ## In evidenza
+* 🟡 nth-child Selector Tester <https://nth-child.belter.io/> #css
 * Vanilla CSS <https://vanillaframework.io/> #css #frameworks
 * 🟡 DevTools Tips <https://devtoolstips.org/> #browsers #web development
 * DummyText <https://www.blindtextgenerator.com/lorem-ipsum> #tools
