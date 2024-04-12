@@ -6,6 +6,7 @@
 * Vanilla CSS <https://vanillaframework.io/> #css #frameworks
 * 🟡 DevTools Tips <https://devtoolstips.org/> #browsers #web development
 * DummyText <https://www.blindtextgenerator.com/lorem-ipsum> #tools
+* <https://new.express.adobe.com/tools/generate-qr-code>
 * Download a virtual machine <https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/> #tools
 * 🟡 FontDrop! <https://fontdrop.info/#/?darkmode=true> #fonts
 * 🟡 snippet generator <https://snippet-generator.app/> #ide  #vscode 
