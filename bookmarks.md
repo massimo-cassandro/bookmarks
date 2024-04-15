@@ -506,7 +506,8 @@
 * npm-deprecate <https://docs.npmjs.com/cli/v10/commands/npm-deprecate>
 
 
-## wp headless / next
+## wp headless / next / api
+* api-platform <https://api-platform.com/> #api
 * Local WP <https://localwp.com/> #wordpress
 * Using Headless WordPress with Next.js and Vercel <https://vercel.com/guides/wordpress-with-vercel> #wordpress #next #vercel
 * GraphQL API for WordPress <https://www.wpgraphql.com/> #wordpress #graphql
