@@ -514,3 +514,5 @@
 * Prisma <https://www.prisma.io/> #node #database
 * https://www.freecodecamp.org/news/app-directory-nextjs/
 
+# osx
+* Localhost SSL Certificate on Mac OS <https://gist.github.com/ethicka/27c36c975a5c2cbbd1874bc78bab61c4>
