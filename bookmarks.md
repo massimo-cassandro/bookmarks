@@ -84,6 +84,7 @@
 
 
 ## Design / Tipografia / Style manuals
+* Design Patterns Catalogue  <https://catalogue.projectsbyif.com/> #design
 * 🟡 Laws of UX  <https://lawsofux.com/> #ux #reference
 * Golden Ratio Typography (GRT) Calculator <https://grtcalculator.com/> #design  
 * Type Design Resources <https://typedesignresources.com/> #design #tipografia
