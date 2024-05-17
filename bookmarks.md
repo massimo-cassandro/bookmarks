@@ -234,6 +234,7 @@
 
 
 ## React / web components / styled components / css modules
+* The Component Gallery <https://component.gallery/> #design systems #ui #web components
 * Making setInterval Declarative with React Hooks <https://overreacted.io/making-setinterval-declarative-with-react-hooks/> #react
 * Using setTimeout in React components (including hooks) <https://felixgerschau.com/react-hooks-settimeout/> #react
 * 🟡 Design and performance patterns <https://www.patterns.dev/posts> #react #javascript
