@@ -1,17 +1,17 @@
 # Bookmarks
 
 
-## In evidenza
-* 🟡 nth-child Selector Tester <https://nth-child.belter.io/>
-* Vanilla CSS <https://vanillaframework.io/>
-* 🟡 DevTools Tips <https://devtoolstips.org/>
-* DummyText <https://www.blindtextgenerator.com/lorem-ipsum>
-* <https://new.express.adobe.com/tools/generate-qr-code>
+## RegExp
+* Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript <https://regex101.com/>
+
+## VSCode
+* snippet generator <https://snippet-generator.app/>
+
+# Varie
+* DevTools Tips <https://devtoolstips.org/>
 * Download a virtual machine <https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/>
-* 🟡 FontDrop! <https://fontdrop.info/#/?darkmode=true>
-* 🟡 snippet generator <https://snippet-generator.app/>
-* 🟡 Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript <https://regex101.com/>
-* 🟡 Faker <https://massimo-cassandro.github.io/area-test/2019-01-faker/index.html>
+
+
 * 🟡 JSitor - JavaScript, HTML, CSS, online editor <https://jsitor.com/>
 * 🟡 MDN Playground <https://developer.mozilla.org/en-US/play>
 * 🟡 CodeSandbox <https://codesandbox.io/s/test-rvbu9g>
@@ -46,7 +46,8 @@
 * How To Center a Div <https://www.joshwcomeau.com/css/center-a-div/>
 * Tempo <https://tempo.formkit.com/>
 
-
+# QR Codes
+* QR Codes - Adobe Express <https://new.express.adobe.com/tools/generate-qr-code>
 
 ## JSON
 * 🟡 JSON5. JSON for Humans <https://json5.org/>

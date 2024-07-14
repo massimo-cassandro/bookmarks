@@ -2,6 +2,20 @@
 
 
 // TODO remove utm strings
+// eliminazione query string utm
+      // let url = new URL(item.uri.trim()),
+      //   searchParams = url.searchParams;
+
+      // // necessario fare la cancellazione delle chiavi in due passaggi
+      // const keysToDelete = [];
+      // for (const key of searchParams.keys()) {
+      //   if (/^utm_/.test(key)) {
+      //     keysToDelete.push(key);
+      //   }
+      // }
+      // keysToDelete.forEach(k => searchParams.delete(k));
+      // url.search = searchParams.toString();
+      // item.uri = url.toString();
 
 const text = `* ${document.title} <${location}>`;
 navigator.clipboard.writeText(text);
