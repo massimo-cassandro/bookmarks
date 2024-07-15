@@ -28,7 +28,7 @@
 ## Palette generators
 * cccolor → clean & simple color picker for web designers <https://fffuel.co/cccolor/>
 * Scale — color scale generator <https://hihayk.github.io/scale/>
-
+***
 * Generate - Coolors.co <https://coolors.co/58355e-c216e0-ed89ff-f3afff-b458c4>
 * Color Hex Color Codes <https://www.color-hex.com/>
 * couleur.io → Harmonizing Color Palettes for Your Web Projects <https://couleur.io/>
