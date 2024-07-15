@@ -51,8 +51,8 @@ import { URL } from 'url';
 
 
 const current_dir = new URL('.', import.meta.url).pathname,
-  ff_file = './bookmarks-2024-07-14.json',
-  tags_to_include = ['fonts', 'fonts (fonderie)', 'fonts librerie'],
+  ff_file = './bookmarks-2024-07-15.json',
+  tags_to_include = ['colori'],
   exclude_folders = ['lavori', 'blu', 'mazx / primominuto', 'giulia', 'ƒ'];
 
 const ff_json = JSON.parse(fs.readFileSync(path.resolve(current_dir, ff_file), 'utf8'));
@@ -118,5 +118,8 @@ if(guid) {
 }
 
 console.log(result.join('\n'));
+
+fs.writeFileSync('result.md', result.join('\n'));
+
 
 console.log('** END **');

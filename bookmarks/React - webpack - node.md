@@ -48,13 +48,6 @@
 * Naive UI <https://www.naiveui.com/en-US/os-theme>
 
 
-## CSS modules / Styled Components
-* 💅 Styled Components Mixins | ⚡maddev <https://maddev.netlify.app/development/styled_components_mixins/>
-* Complete Guide On How To Use Styled-components In React - DEV Community <https://dev.to/elijahtrillionz/complete-guide-on-how-to-use-styled-components-in-react-360c>
-* Getting Started with CSS Modules <https://css-tricks.com/css-modules-part-2-getting-started/>
-* CSS Modules and React <https://css-tricks.com/css-modules-part-3-react/>
-* CSS Modules <https://github.com/css-modules/css-modules>
-* css-loader / modules <https://github.com/webpack-contrib/css-loader#modules>
 
 
 ## react npm packages
