@@ -28,6 +28,8 @@
 ## Palette generators
 * cccolor → clean & simple color picker for web designers <https://fffuel.co/cccolor/>
 * Scale — color scale generator <https://hihayk.github.io/scale/>
+* Hue Tools <https://hue.tools/>
+
 ***
 * Generate - Coolors.co <https://coolors.co/58355e-c216e0-ed89ff-f3afff-b458c4>
 * Color Hex Color Codes <https://www.color-hex.com/>
@@ -44,7 +46,6 @@
 * Color Designer - Simple Color Palette Generator <https://colordesigner.io/>
 * Colorable <https://colorable.jxnblk.com/>
 * Palette Generator <https://www.learnui.design/tools/data-color-picker.html#palette>
-* Hue Tools <https://hue.tools/>
 * Material Design Color Palette Generator - Material Palette <https://www.materialpalette.com/>
 * Paletton.com <https://paletton.com> 
 * Accessible Brand Colors <https://abc.useallfive.com/>
