@@ -29,8 +29,11 @@
 * cccolor → clean & simple color picker for web designers <https://fffuel.co/cccolor/>
 * Scale — color scale generator <https://hihayk.github.io/scale/>
 * Hue Tools <https://hue.tools/>
+* Colorable <https://colorable.jxnblk.com/>
+
 
 ***
+
 * Generate - Coolors.co <https://coolors.co/58355e-c216e0-ed89ff-f3afff-b458c4>
 * Color Hex Color Codes <https://www.color-hex.com/>
 * couleur.io → Harmonizing Color Palettes for Your Web Projects <https://couleur.io/>
@@ -44,7 +47,6 @@
 * EightShapes Contrast Grid <https://contrast-grid.eightshapes.com>
 * 🟡 cccolor → clean & simple color picker for web designers <https://fffuel.co/cccolor/>
 * Color Designer - Simple Color Palette Generator <https://colordesigner.io/>
-* Colorable <https://colorable.jxnblk.com/>
 * Palette Generator <https://www.learnui.design/tools/data-color-picker.html#palette>
 * Material Design Color Palette Generator - Material Palette <https://www.materialpalette.com/>
 * Paletton.com <https://paletton.com> 
