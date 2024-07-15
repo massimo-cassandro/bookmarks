@@ -17,7 +17,6 @@
 * Sass Color Generator <http://scg.ar-ch.org/>
 * cccreate → carefully curated collection of tools for web creators <https://cccreate.co/>
 * colorate | Strumenti di schema di colori per designer e sviluppatori. <https://colorate.azurewebsites.net/it>
-* cccolor → clean & simple color picker for web designers <https://fffuel.co/cccolor/>
 * Name that Color - Chirag Mehta : chir.ag <https://chir.ag/projects/name-that-color/#9A0B9A>
 * PleaseJS <https://github.com/Fooidge/PleaseJS>
 * APCA Contrast Calculator <https://www.myndex.com/APCA/>
@@ -27,7 +26,9 @@
 
 
 ## Palette generators
+* cccolor → clean & simple color picker for web designers <https://fffuel.co/cccolor/>
 * Scale — color scale generator <https://hihayk.github.io/scale/>
+
 * Generate - Coolors.co <https://coolors.co/58355e-c216e0-ed89ff-f3afff-b458c4>
 * Color Hex Color Codes <https://www.color-hex.com/>
 * couleur.io → Harmonizing Color Palettes for Your Web Projects <https://couleur.io/>
