@@ -110,6 +110,7 @@
 * How to design a typeface (Part 3) by MartinSilvertant on DeviantArt <https://www.deviantart.com/martinsilvertant/journal/How-to-design-a-typeface-Part-3-375262140>
 * Modern Font Stacks <https://modernfontstacks.com/>
 * Glyphhanger — a tool to subset and optimize fonts | Stefan Judis Web Development <https://www.stefanjudis.com/notes/glyphhanger-a-tool-subset-and-optimize-fonts/>
+* How to Easily Create a Responsive Vertical Rhythm with CSS - Designmodo <https://designmodo.com/vertical-rhythm/>
 
 
 

@@ -119,7 +119,7 @@ if(guid) {
 
 console.log(result.join('\n'));
 
-fs.writeFileSync('result.md', result.join('\n'));
+fs.writeFileSync(path.join(current_dir, 'result.md'), result.join('\n'));
 
 
 console.log('** END **');
