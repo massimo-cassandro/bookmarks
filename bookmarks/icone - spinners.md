@@ -13,5 +13,5 @@
 
 ## Spinners
 * Speedy CSS Tip! Animated Loader <https://web.dev/speedy-css-tip-animated-loader/>
-* 🟡 CSS Loaders <https://css-loaders.com/>
-* 🟡 LDRS <https://uiball.com/ldrs/>
+* CSS Loaders <https://css-loaders.com/>
+* LDRS <https://uiball.com/ldrs/>

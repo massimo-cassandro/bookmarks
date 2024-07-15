@@ -16,14 +16,16 @@
 * Grid Calculator by Nicolaj Kirkgaard Nielsen <http://gridcalculator.dk/>
 * CSS Generator - Matrix Transform <https://angrytools.com/css-generator/transform/>
 * CSS Cursors! <https://csscursor.info/>
-* 🟡 GRID: A simple visual cheatsheet for CSS Grid Layout <https://grid.malven.co/>
-* 🟡 FLEX: A simple visual cheatsheet for flexbox <https://flexbox.malven.co/>
+* GRID: A simple visual cheatsheet for CSS Grid Layout <https://grid.malven.co/>
+* FLEX: A simple visual cheatsheet for flexbox <https://flexbox.malven.co/>
 * CSS Calc <http://nico-izo.github.io/calc.html>
 * Tip: Perfect nested border radius in CSS <https://www.30secondsofcode.org/css/s/nested-border-radius/>
 * Transitions <https://m3.material.io/styles/motion/transitions/applying-transitions>
-* 🟡 An Interactive Guide to CSS Grid <https://www.joshwcomeau.com/css/interactive-guide-to-grid/>
+* An Interactive Guide to CSS Grid <https://www.joshwcomeau.com/css/interactive-guide-to-grid/>
 * transition.css. Drop-in CSS transitions <https://www.transition.style/>
 * conic.css. Nice, simple conic gradients <https://www.conic.style/>
+* * debug horiz scroll bar (https://gist.github.com/cuth/c1ddf2b1ce2fb07e512a) <javascript:(function(d){var w=d.documentElement.offsetWidth,t=d.createTreeWalker(d.body,NodeFilter.SHOW_ELEMENT),b;while(t.nextNode()){b=t.currentNode.getBoundingClientRect();if(b.right>w||b.left<0){t.currentNode.style.setProperty('outline','1px dotted red','important');console.log(t.currentNode);}};}(document));> 
+* 2D & 3D CSS Transform functions visualizer <https://css-transform.moro.es/> 
 
 
 ## CSS modules / Styled Components
@@ -36,6 +38,8 @@
 * How to configure SCSS modules for Webpack <https://www.developerhandbook.com/webpack/how-to-configure-scss-modules-for-webpack/>
 * What are CSS Modules and why do we need them? | CSS-Tricks - CSS-Tricks <https://css-tricks.com/css-modules-part-1-need/>
 
+## scss
+* Sass: Documentation <https://sass-lang.com/documentation>
 
 
 ********************

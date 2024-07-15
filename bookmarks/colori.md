@@ -7,7 +7,7 @@
 * Simplify Your Color Palette With CSS Color-Mix() <https://www.smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/>
 * Creazione di una combinazione di colori <https://web.dev/articles/building/a-color-scheme?hl=it>
 * Easing Gradients <https://larsenwork.com/easing-gradients/#editor>
-* 🟡 CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp> 
+* CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp> 
 * CSS Shadow Palette Generator <https://www.joshwcomeau.com/shadow-palette/>
 * CSS Gradient Generator <https://www.joshwcomeau.com/gradient-generator/>
 * CSS Shadow Gradients — Generator [Fast & Easy] <https://alvarotrigo.com/shadow-gradients/#how-to-use>
@@ -22,6 +22,8 @@
 * Color Review <https://color.review/>
 * HD gradients <https://gradient.style/>
 * Color Hex Color Codes <https://www.color-hex.com/>
+* davidmerfield/randomColor: A tiny script for generating attractive colors <https://github.com/davidmerfield/randomColor>
+* CSS Background Pattern Generator <https://10015.io/tools/css-background-pattern-generator> 
 
 
 ## Palette generators
@@ -45,7 +47,7 @@
 * Re: Pleasing Color Palettes <https://css-tricks.com/re-pleasing-color-palettes/>
 * Accessible Palette: Create color systems with consistent lightness and contrast <https://accessiblepalette.com/>
 * EightShapes Contrast Grid <https://contrast-grid.eightshapes.com>
-* 🟡 cccolor → clean & simple color picker for web designers <https://fffuel.co/cccolor/>
+* cccolor → clean & simple color picker for web designers <https://fffuel.co/cccolor/>
 * Color Designer - Simple Color Palette Generator <https://colordesigner.io/>
 * Material Design Color Palette Generator - Material Palette <https://www.materialpalette.com/>
 * Paletton.com <https://paletton.com> 

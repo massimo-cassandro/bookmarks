@@ -9,7 +9,7 @@
 
   Ogni record ha questa struttura
 
-    `* 🟡 __titolo__ <__url__> #tag1, #tag2...
+    `* __titolo__ <__url__> #tag1, #tag2...
 
   Il simbolo `🟡` se presente, indica che si tratta di un preferito
 

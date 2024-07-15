@@ -17,8 +17,10 @@
 * Fallback Font Generator <https://screenspan.net/fallback>
 * Fluid Type Scale - Generate responsive font-size variables <https://www.fluid-type-scale.com/>
 * FontDrop! <https://fontdrop.info/#/?darkmode=true>
-
-
+* Proportio.app <https://proportio.app/>
+* Grid lover (vertcal Rythm) <https://gridlover.net/try>  
+* Fluid Grid Calculator <https://utopia.fyi/grid/calculator/>
+* Fluid Space Calculator <https://utopia.fyi/space/calculator>
 
 
 ## fonts interessanti

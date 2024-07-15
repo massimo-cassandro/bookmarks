@@ -6,7 +6,7 @@ Optional md file (path set in `src/import-markdown.mjs`)
 
 ```markdown
 ## Tools
-* 🟡 DevTools Tips <https://devtoolstips.org/> #browsers #web development
+* DevTools Tips <https://devtoolstips.org/> #browsers #web development
 ```
 
 where: 

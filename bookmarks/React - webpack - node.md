@@ -85,6 +85,7 @@
 * npm Unpublish Policy <https://docs.npmjs.com/policies/unpublish>
 * npm-deprecate <https://docs.npmjs.com/cli/v10/commands/npm-deprecate>
 * Publish React components as an npm package | by JB | Level Up Coding <https://levelup.gitconnected.com/publish-react-components-as-an-npm-package-7a671a2fb7f>
+* npm semantic version calculator <https://semver.npmjs.com/>
 
 
 ## wp headless / next / api

@@ -3,12 +3,12 @@
 
 ## Design / Tipografia / Style manuals
 * Design Patterns Catalogue  <https://catalogue.projectsbyif.com/>
-* 🟡 Laws of UX  <https://lawsofux.com/>
+* Laws of UX  <https://lawsofux.com/>
 * Golden Ratio Typography (GRT) Calculator <https://grtcalculator.com/>
 * Type Design Resources <https://typedesignresources.com/>
 * Spacing, Grids and Layouts <https://www.designsystems.com/space-grids-and-layouts/>
 * Dashboard Design Patterns <https://dashboarddesignpatterns.github.io/>
-* 🟡 Material Design 3 <https://m3.material.io/>
+* Material Design 3 <https://m3.material.io/>
 * Fluid typography examples <https://www.madebymike.com.au/writing/fluid-type-calc-examples/>
 * Modern fluid typography editor <https://modern-fluid-typography.vercel.app/>
 * Modern Fluid Typography Using CSS Clamp <https://www.smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/>
