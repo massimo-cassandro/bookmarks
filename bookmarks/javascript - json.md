@@ -1,15 +1,7 @@
 # Javascript - Typescript - Json
 
-## JSON
-* JSON5. JSON for Humans <https://json5.org/>
-* JSON Generator <https://www.jsongenerator.io/>
-* JSON generator <https://next.json-generator.com/> 
-* JSON To SQL Converter <http://convertjson.com/json-to-sql.htm>
-* JSONPlaceholder - Free Fake REST API <https://jsonplaceholder.typicode.com/>
-* JSON editor <https://jsoneditoronline.org/> 
-
-
 ## Javascript / typescript
+
 * Javascript Cheat Sheet | OverAPI.com <https://overapi.com/javascript>
 * DateTimeFormat <https://www.intl-explorer.com/DateTimeFormat?locale=it-IT>
 * managing HTML DOM with JavaScript <https://htmldom.dev/>
@@ -23,7 +15,6 @@
 * Dates and Times | SheetJS Community Edition <https://docs.sheetjs.com/docs/csf/features/dates/>
 * Cell Object | SheetJS Community Edition <https://docs.sheetjs.com/docs/csf/cell>
 * Overview | SheetJS Community Edition <https://docs.sheetjs.com/docs/>
-* collect.js <https://collect.js.org/>
 * Scroll Shadows With JavaScript | CSS-Tricks - CSS-Tricks <https://css-tricks.com/scroll-shadows-with-javascript/>
 * Platform.js <https://github.com/bestiejs/platform.js#readme>
 * JavaScript Intersection Observer Ultimate Guide <https://blog.webdevsimplified.com/2022-01/intersection-observer/>
@@ -34,6 +25,10 @@
 
 
 ## Librerie
+* collect.js <https://collect.js.org/>
+
+***
+
 * SheetJS Community Edition <https://docs.sheetjs.com/docs/> 
 * Moment.js | Docs <https://momentjs.com/docs/>
 * jQuery API Documentation <https://api.jquery.com/>
@@ -44,6 +39,13 @@
 * Orthogonal data <https://datatables.net/manual/data/orthogonal-data>
 
 
+## JSON
+* JSON5. JSON for Humans <https://json5.org/>
+* JSON Generator <https://www.jsongenerator.io/>
+* JSON generator <https://next.json-generator.com/> 
+* JSON To SQL Converter <http://convertjson.com/json-to-sql.htm>
+* JSONPlaceholder - Free Fake REST API <https://jsonplaceholder.typicode.com/>
+* JSON editor <https://jsoneditoronline.org/> 
 
 
 
