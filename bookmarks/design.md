@@ -30,7 +30,7 @@
 * Designing better target sizes <https://ishadeed.com/article/target-size>
 * Atomic Design | Atomic Design by Brad Frost <https://atomicdesign.bradfrost.com/table-of-contents/>
 * 10 Inspiring Typography-Based Designs - SitePoint <https://www.sitepoint.com/10-inspiring-typography-based-designs/>
-
+* Patterns by Maggie Appleton <https://maggieappleton.com/patterns>
 
 
 ## Arte / Fotografia / Idee / Interessanti
