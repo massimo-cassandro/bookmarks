@@ -1,7 +1,5 @@
-# icone - spinners
+# icone 
 
-
-## Icone
 * Simple Icons <https://simpleicons.org/>
 * Free Icons | icons.download <https://icons.download/>
 * JAM icons <https://jam-icons.com/>

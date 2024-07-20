@@ -1,8 +1,5 @@
 # Prototyping
 
-* cursorOS - original macos cursors <http://cursoros.com/>
-
-
 * Framer <https://framer.com/projects/>
 * Penpot - Design Freedom for Teams <https://design.penpot.app/#>
 * Sketch Cloud - Documents <https://sketch.cloud/documents/all-documents>

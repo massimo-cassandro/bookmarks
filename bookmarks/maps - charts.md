@@ -1,6 +1,6 @@
 
+# Maps / Charts
 
-## Maps / Charts
 * Chart.js | Open source HTML5 Charts for your website <https://www.chartjs.org/>
 * Recharts <https://recharts.org/en-US/>
 * Google Maps API <https://developers.google.com/maps/>
