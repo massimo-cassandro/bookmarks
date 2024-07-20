@@ -74,6 +74,7 @@
 * Manrope – free sans-serif variable font <https://manropefont.com/>
 * Comic Mono | comic-mono-font <https://dtinth.github.io/comic-mono-font/>
 * Shantell Sans <https://shantellsans.com/>
+* Gorditas - Google Fonts <https://fonts.google.com/specimen/Gorditas>
 
 
 ## Fonts

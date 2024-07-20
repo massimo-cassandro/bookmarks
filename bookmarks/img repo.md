@@ -34,6 +34,8 @@
 * DrawKit - Beautiful free vector illustrations <https://www.drawkit.io/>
 * Illustrations | unDraw <https://undraw.co/illustrations>
 * Free Customizable Illustrations - Graphicmaker by Designs.ai <https://designs.ai/graphicmaker/>
-* Illustration Free Vector Art - (470,653 Free Downloads) <https://www.vecteezy.com/free-vector/vector-illustration>
 * Free Illustrations [Free SVG Illustrations] Open Source <https://lukaszadam.com/illustrations>
+* Illustration Free Vector Art <https://www.vecteezy.com/free-vector/vector-illustration>
+* Free Illustrations [Free SVG Illustrations] Open Source <https://lukaszadam.com/illustrations>
+* illustratious - Download premium quality illustrations <https://illustratious.com/?premium=false>
 

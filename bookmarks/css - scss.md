@@ -6,8 +6,8 @@
 * FLEX: A simple visual cheatsheet for flexbox <https://flexbox.malven.co/>
 * CSS Cursors! <https://csscursor.info/>
 * PurgeCSS - Remove unused CSS <https://purgecss.com/>
-* Omatsuri <https://omatsuri.app/>
 * Can I use... <http://caniuse.com/>
+* ✿ dabblet.com <http://dabblet.com/> 
 
 
 ***
@@ -50,7 +50,6 @@
 * css-loader / modules <https://github.com/webpack-contrib/css-loader#modules>
 * How to configure SCSS modules for Webpack <https://www.developerhandbook.com/webpack/how-to-configure-scss-modules-for-webpack/>
 * What are CSS Modules and why do we need them? | CSS-Tricks - CSS-Tricks <https://css-tricks.com/css-modules-part-1-need/>
-
 
 
 ## scss

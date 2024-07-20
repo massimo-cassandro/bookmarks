@@ -51,13 +51,13 @@ import { URL } from 'url';
 
 
 const current_dir = new URL('.', import.meta.url).pathname,
-  tags_to_include = ['immagini segnaposto'],
+  tags_to_include = ['audacity'],
   exclude_folders = ['lavori', 'blu', 'mazx / primominuto', 'giulia', 'ƒ', 'arte / design', 'accounts'];
 
 let result = [];
 
 // nome file
-const ff_file = './' + fs.readdirSync(current_dir).filter(file => file.startsWith('bookmarks-2024-') && file.endsWith(".json"))[0];
+const ff_file = './' + fs.readdirSync(current_dir).filter(file => file.startsWith('bookmarks-2024-') && file.endsWith(".json")).pop();
 
 const ff_json = JSON.parse(fs.readFileSync(path.resolve(current_dir, ff_file), 'utf8'));
 const guid = ['menu________', 'tjrmOlmHJnOu']; // tjrmOlmHJnOu = web / `toolbar_____` o `menu________` se presente importa solo la parte con la guid indicata

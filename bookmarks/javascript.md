@@ -2,6 +2,9 @@
 
 ## Javascript / typescript
 
+
+* SolidJS · Libreria Javascript reattiva <https://www.solidjs.com/>
+
 * tsconfig.json generator <https://generator.tsconfigdemystified.com/>
 * Javascript Cheat Sheet | OverAPI.com <https://overapi.com/javascript>
 * DateTimeFormat <https://www.intl-explorer.com/DateTimeFormat?locale=it-IT>
@@ -40,15 +43,10 @@
 * Orthogonal data <https://datatables.net/manual/data/orthogonal-data>
 
 
-## JSON
-* JSON5. JSON for Humans <https://json5.org/>
-* JSON Generator <https://www.jsongenerator.io/>
-* JSON generator <https://next.json-generator.com/> 
-* JSON To SQL Converter <http://convertjson.com/json-to-sql.htm>
-* JSONPlaceholder - Free Fake REST API <https://jsonplaceholder.typicode.com/>
-* JSON editor <https://jsoneditoronline.org/> 
-
-
-
-
-
+## Remote testing & dev
+* JSitor - JavaScript, HTML, CSS, online editor <https://jsitor.com/>
+* MDN Playground <https://developer.mozilla.org/en-US/play>
+* CodeSandbox <https://codesandbox.io/s/test-rvbu9g>
+* Sandpack <https://sandpack.codesandbox.io/>
+* CodePen <http://codepen.io>
+* StackBlitz <https://stackblitz.com/>

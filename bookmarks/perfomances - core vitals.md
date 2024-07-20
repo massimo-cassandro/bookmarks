@@ -12,14 +12,5 @@
 * Webhint documentation <https://webhint.io/docs/user-guide/configuring-webhint/summary/>
 * The original Website Carbon calculator <https://www.websitecarbon.com/>
 * Configure webhint in your project | webhint documentation <https://webhint.io/docs/user-guide/configuring-webhint/summary/>
+* Website Speed Test - Image Analysis Tool by Cloudinary <https://webspeedtest.cloudinary.com/>
 
-
-## Accessibilità
-* ARIA Patterns | APG | WAI | W3C <https://www.w3.org/WAI/ARIA/apg/patterns/>
-* a11yphant <https://a11yphant.com/>
-* Who Can Use <https://whocanuse.com/>
-
-
-# device check & list
-* mydevice.io : web devices capabilities <https://www.mydevice.io/>
-* Support Details [Get Your Browser Version, System Information & More] <https://supportdetails.net/>  
