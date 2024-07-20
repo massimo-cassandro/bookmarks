@@ -1,5 +1,8 @@
 # Prototyping
 
+* cursorOS - original macos cursors <http://cursoros.com/>
+
+
 * Framer <https://framer.com/projects/>
 * Penpot - Design Freedom for Teams <https://design.penpot.app/#>
 * Sketch Cloud - Documents <https://sketch.cloud/documents/all-documents>
@@ -13,4 +16,4 @@
 * Marvel - The design platform for digital products <https://marvelapp.com/>
 * Principle <https://principleformac.com/>
 * Flinto – The App Design App <https://www.flinto.com/>
-
+* https://app.moqups.com/

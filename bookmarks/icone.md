@@ -9,9 +9,7 @@
 * Phosphor Icons <https://phosphoricons.com>
 * Remix Icons <https://remixicon.com/>
 * Heroicons <https://heroicons.com/>
+  
 
+* SVG Flag Icons <https://nucleoapp.com/svg-flag-icons>
 
-## Spinners
-* Speedy CSS Tip! Animated Loader <https://web.dev/speedy-css-tip-animated-loader/>
-* CSS Loaders <https://css-loaders.com/>
-* LDRS <https://uiball.com/ldrs/>

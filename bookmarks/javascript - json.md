@@ -2,6 +2,7 @@
 
 ## Javascript / typescript
 
+* tsconfig.json generator <https://generator.tsconfigdemystified.com/>
 * Javascript Cheat Sheet | OverAPI.com <https://overapi.com/javascript>
 * DateTimeFormat <https://www.intl-explorer.com/DateTimeFormat?locale=it-IT>
 * managing HTML DOM with JavaScript <https://htmldom.dev/>

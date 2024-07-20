@@ -18,3 +18,8 @@
 * ARIA Patterns | APG | WAI | W3C <https://www.w3.org/WAI/ARIA/apg/patterns/>
 * a11yphant <https://a11yphant.com/>
 * Who Can Use <https://whocanuse.com/>
+
+
+# device check & list
+* mydevice.io : web devices capabilities <https://www.mydevice.io/>
+* Support Details [Get Your Browser Version, System Information & More] <https://supportdetails.net/>  

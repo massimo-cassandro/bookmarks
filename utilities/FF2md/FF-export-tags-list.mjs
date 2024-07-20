@@ -51,16 +51,15 @@ import { URL } from 'url';
 
 
 const current_dir = new URL('.', import.meta.url).pathname,
-  tags_to_include = ['immagini segnaposto'],
-  exclude_folders = ['lavori', 'blu', 'mazx / primominuto', 'giulia', 'ƒ', 'arte / design', 'accounts'];
-
-let result = [];
-
-// nome file
-const ff_file = './' + fs.readdirSync(current_dir).filter(file => file.startsWith('bookmarks-2024-') && file.endsWith(".json"))[0];
+  ff_file = './bookmarks-2024-07-15.json',
+  tags_to_include = ['html'],
+  exclude_folders = ['lavori', 'blu', 'mazx / primominuto', 'giulia', 'ƒ'];
 
 const ff_json = JSON.parse(fs.readFileSync(path.resolve(current_dir, ff_file), 'utf8'));
+
 const guid = ['menu________', 'tjrmOlmHJnOu']; // tjrmOlmHJnOu = web / `toolbar_____` o `menu________` se presente importa solo la parte con la guid indicata
+
+let result = [];
 
 function parse_bookmark_array(bookmark_array) {
 
@@ -86,26 +85,8 @@ function parse_bookmark_array(bookmark_array) {
 
       const current_tags = item.tags?.split(',').map(i => i.toLowerCase().trim()) ?? [];
 
-      if(current_tags.some(t => tags_to_include.includes(t))) {
-
-        // eliminazione query string utm
-        let url = new URL(item.uri.trim()),
-          searchParams = url.searchParams;
-
-        // necessario fare la cancellazione delle chiavi in due passaggi
-        const keysToDelete = [];
-        for (const key of searchParams.keys()) {
-          if (/^utm_/.test(key)) {
-            keysToDelete.push(key);
-          }
-        }
-        keysToDelete.forEach(k => searchParams.delete(k));
-        url.search = searchParams.toString();
-        item.uri = url.toString();
-
-        result.push(`* ${item.title} <${item.uri}>`);
+      result.push(...current_tags);
         
-      }
     }
   } // end for
 }
@@ -118,9 +99,9 @@ if(guid) {
   parse_bookmark_array(ff_json.children);
 }
 
-console.log(result.join('\n'));
 
-fs.writeFileSync(path.join(current_dir, 'result.md'), '# ' + tags_to_include.join(', ') + '\n\n' + result.join('\n'));
+
+fs.writeFileSync(path.join(current_dir, 'tags.md'), '# Tags\n\n' + result.join('\n'));
 
 
 console.log('** END **');

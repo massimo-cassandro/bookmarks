@@ -1,5 +1,0 @@
-{
-  "scripts": {
-    "ff-to-md": "node './utilities/FF2md/ff-to-md.mjs'"
-  }
-}

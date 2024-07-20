@@ -6,7 +6,11 @@
 * FLEX: A simple visual cheatsheet for flexbox <https://flexbox.malven.co/>
 * CSS Cursors! <https://csscursor.info/>
 * PurgeCSS - Remove unused CSS <https://purgecss.com/>
+* Omatsuri <https://omatsuri.app/>
+* Can I use... <http://caniuse.com/>
 
+
+***
 
 * How To Center a Div <https://www.joshwcomeau.com/css/center-a-div/>
 * Centering in CSS <https://web.dev/articles/centering-in-css>
@@ -62,13 +66,10 @@
 * AddyOsmani.com - Infinite Scroll without Layout Shifts <https://addyosmani.com/blog/infinite-scroll-without-layout-shifts/>
 * Browser Default Styles <https://browserdefaultstyles.com/>
 * Parsel: A tiny, permissive CSS selector parser <https://projects.verou.me/parsel/>
-* CSS3 Patterns Gallery <https://leaverou.github.io/css3patterns/>
 * CSS Gradient Generator <https://cssgradient.io/>
 * Box Shadows - Generate CSS Box Shadows <https://box-shadows.co/>
-* pattern.css - Background Patterns in CSS <https://bansal.io/pattern-css>
 * CSS Color Gradient Generator: bellissimi gradienti gratis <https://mybrandnewlogo.com/it/generatore-di-sfumatura-di-colore>
 * CSS Generator <http://angrytools.com/css-generator/>
-* CSS3 Patterns Gallery <https://leaverou.github.io/css3patterns/>
 * Modern CSS Reset / Global Styles <https://www.joshwcomeau.com/css/custom-css-reset/>
 
 

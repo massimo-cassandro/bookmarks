@@ -13,19 +13,16 @@
 
 
 ## Tools
-* Omatsuri <https://omatsuri.app/>
+
 * DevTools Tips <https://devtoolstips.org/>
 * Download a virtual machine <https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/>
-* tsconfig.json generator <https://generator.tsconfigdemystified.com/>
-* Favicon Generator for all platforms: iOS, Android, PC/Mac... <https://realfavicongenerator.net/>
 * Transform (conversione linguaggi, formati...) <https://transform.tools/>
-* Markdown Tables generator - TablesGenerator.com <https://www.tablesgenerator.com/markdown_tables>
 * View Source <https://neatnik.net/view-source/>
 * Serve folder for web development <https://servefolder.dev/>
 * Content Parser Website. Extract markdown, html or text from content-heavy websites <https://content-parser.com/> 
 * Collections <https://phuoc.ng/collections/>
 * Textik - ASCII diagrams editor <https://textik.com/#ab4260274eed7516> 
-* Can I use... <http://caniuse.com/>
+
   
 
 ## Remote testing & dev
@@ -38,14 +35,8 @@
 * CodePen <http://codepen.io>
 * StackBlitz <https://stackblitz.com/>
 
-# device check & list
-* mydevice.io : web devices capabilities <https://www.mydevice.io/>
-* Support Details [Get Your Browser Version, System Information & More] <https://supportdetails.net/>  
 
 
-## Cookies
-* Cookie Consent Kit Banner - Webtools documentation - EC Extranet Wiki <https://webgate.ec.europa.eu/fpfis/wikis/display/webtools/Cookie+Consent+Kit+Banner>
-* js-cookie/js-cookie at latest <https://github.com/js-cookie/js-cookie/tree/latest#readme>
 
 
 ## Social
@@ -69,11 +60,6 @@
 * Getting Started – Pug <https://pugjs.org/api/getting-started.html>
 
 
-## JSDOC
-* Jsdoc cheatsheet <https://devhints.io/jsdoc>
-* TypeScript without TypeScript -- JSDoc superpowers <https://fettblog.eu/typescript-jsdoc-superpowers/>
-
-
 ## Software / Mac / Applicazioni web / Add-ons
 * espanso - Cross-platform Text Expander written in Rust <https://espanso.org/>
 * Markwhen. Professional planning and calendar-ing tools.  <https://markwhen.com/> 
@@ -81,12 +67,3 @@
 * Spline <https://app.spline.design/files> 
 * Google Web Designer <http://www.google.com/webdesigner/>
 
-
-## Email
-* Mailchimp <https://login.mailchimp.com/>
-* Free Email Subject Line Tester - How will my subject line show? <https://www.emailtooltester.com/en/email-subject-lines-tester/>
-
-
-## PDF
-* SVG into PDF by using jsPDF <https://codepen.io/eyaylagul/pen/XoNMYE>
-* Export PDF example <https://openlayers.org/en/latest/examples/export-pdf.html>
