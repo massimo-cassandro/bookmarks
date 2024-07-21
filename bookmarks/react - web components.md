@@ -1,15 +1,14 @@
-# React - Webpack - Node - Next - Web Components
-
+# React
 
 * Patterns <https://web.dev/patterns/>
+* The Component Gallery <https://component.gallery/>
+* Create React App <https://create-react-app.dev/>
 
 
 ## React / web components / styled components / css modules
-* The Component Gallery <https://component.gallery/>
 * Making setInterval Declarative with React Hooks <https://overreacted.io/making-setinterval-declarative-with-react-hooks/>
 * Using setTimeout in React components (including hooks) <https://felixgerschau.com/react-hooks-settimeout/>
 * Create React App with Multiple Entry Points - Digital Inspiration <https://www.labnol.org/code/react-multiple-entry-points-210512>
-* Create React App <https://create-react-app.dev/>
 * Controllo Tipi con PropTypes – React <https://it.reactjs.org/docs/typechecking-with-proptypes.html>
 * Multiple entry points in create-react-app without ejecting - LogRocket Blog <https://blog.logrocket.com/multiple-entry-points-in-create-react-app-without-ejecting/>
 * JedWatson/classnames: A simple javascript utility for conditionally joining classNames together <https://github.com/JedWatson/classnames#classnames>
@@ -54,46 +53,3 @@
 * https://github.com/ananduremanan/custom-react-npm-module
 * https://itnext.io/how-to-package-your-react-component-for-distribution-via-npm-d32d4bf71b4f
 * https://blog.nonstopio.com/a-step-by-step-guide-to-publishing-your-own-react-npm-package-fa2b7f1d149
-
-
-## NodeJS
-* Introduction to Node.js <https://nodejs.dev/learn>
-* Api index <https://nodejs.org/dist/latest/docs/api/>
-* fs <https://nodejs.org/dist/latest/docs/api/fs.html>
-* Modules: Packages | Node.js Documentation <https://nodejs.org/api/packages.html#determining-package-manager> 
-
-
-## Webpack
-* Output | webpack <https://webpack.js.org/configuration/output/#template-strings>
-* webpack Tutorial: How to Set Up webpack 5 From Scratch | Tania Rascia <https://www.taniarascia.com/how-to-use-webpack/>
-* taniarascia/webpack-boilerplate: A sensible webpack 5 boilerplate. <https://github.com/taniarascia/webpack-boilerplate>
-* React boilerplate using WebPack 4 | by Abhimanyu Chauhan | DataDrivenInvestor <https://medium.datadriveninvestor.com/react-boilerplate-adc97f608251>
-* How to configure SCSS modules for Webpack <https://www.developerhandbook.com/webpack/how-to-configure-scss-modules-for-webpack/>
-* Concepts | webpack <https://webpack.js.org/concepts/>
-* Building TakeNote, a Notes App for Developers With GitHub Sync | Tania Rascia <https://www.taniarascia.com/building-takenote/>
-* Webpack Tutorial for Beginners: A Complete Step-by-Step Guide for 2021 <https://www.codeinwp.com/blog/webpack-tutorial-for-beginners/>
-* How to Share Variables Between Javascript and Sass <https://www.bluematador.com/blog/how-to-share-variables-between-js-and-sass>
-* How to configure SCSS modules for Webpack <https://www.developerhandbook.com/webpack/how-to-configure-scss-modules-for-webpack/>
-* Code Splitting | webpack <https://webpack.js.org/guides/code-splitting/>
-
-
-
-## npm
-* Azure DevOps NPM Registry <https://randulakoralage82.medium.com/azure-devops-npm-registry-68db3aeb5a66>
-* Private npm registry with Azure Artifacts and Azure DevOps <https://medium.com/weekly-webtips/enterprise-npm-registry-with-azure-artifacts-and-azure-devops-51afc91534ab>
-* How to install a private NPM module without my own registry? <https://stackoverflow.com/questions/10386310/how-to-install-a-private-npm-module-without-my-own-registry>
-* Reggie <https://github.com/mbrevoort/node-reggie>
-* Verdaccio. A lightweight Node.js private proxy registry <https://verdaccio.org/>
-* npm Unpublish Policy <https://docs.npmjs.com/policies/unpublish>
-* npm-deprecate <https://docs.npmjs.com/cli/v10/commands/npm-deprecate>
-* Publish React components as an npm package | by JB | Level Up Coding <https://levelup.gitconnected.com/publish-react-components-as-an-npm-package-7a671a2fb7f>
-* npm semantic version calculator <https://semver.npmjs.com/>
-
-
-## wp headless / next / api
-* api-platform <https://api-platform.com/>
-* Local WP <https://localwp.com/>
-* Using Headless WordPress with Next.js and Vercel <https://vercel.com/guides/wordpress-with-vercel>
-* GraphQL API for WordPress <https://www.wpgraphql.com/>
-* Prisma <https://www.prisma.io/>
-* https://www.freecodecamp.org/news/app-directory-nextjs/

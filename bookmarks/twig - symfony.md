@@ -18,3 +18,7 @@
 * Symfony + Bootstrap Form Test <https://massimo-cassandro.github.io/symfony-bootstrap-form-theme/>
 * Symfony Local Web Server <https://symfony.com/doc/current/setup/symfony_server.html>
 * How To Develop A CRUD App with Symfony 6 and React <https://www.binaryboxtuts.com/php-tutorials/how-to-develop-a-crud-app-with-symfony-6-and-react/>
+* Form Types Reference (Symfony Docs) <https://symfony.com/doc/current/reference/forms/types.html>
+* The HttpFoundation Component (Symfony Docs) <https://symfony.com/doc/current/components/http_foundation.html>
+* Managing CSS and JavaScript (Symfony Docs) <https://symfony.com/doc/current/frontend.html>
+

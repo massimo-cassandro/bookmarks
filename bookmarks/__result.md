@@ -1431,12 +1431,6 @@
 * The easiest way to get __dirname in Node with ES Modules | Zell Liew <https://zellwk.com/blog/dirname-node-esm/>
 
 
-## npm
-
-* scripts | npm Docs <https://docs.npmjs.com/cli/v6/using-npm/scripts#packagejson-vars>
-* package.json - How can I reference package version in npm script? - Stack Overflow <https://stackoverflow.com/questions/48609931/how-can-i-reference-package-version-in-npm-script/48619640>
-* How to package your React Component for distribution via NPM | by Suprada Urval | ITNEXT <https://itnext.io/how-to-package-your-react-component-for-distribution-via-npm-d32d4bf71b4f>
-* Speeding up the JavaScript ecosystem - npm scripts <https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-4/>
 
 
 ## patterns
@@ -1475,25 +1469,7 @@
 * Boost Framer Website Template <https://boost.framer.website/>
 
 
-## pug
 
-* Getting Started – Pug <https://pugjs.org/api/getting-started.html>
-* Phug (unified pug engine for Pug-php and Tale-pug) <https://www.phug-lang.com/#in-your-favorite-framework>
-
-
-## qrcode
-
-* cozmo/jsQR: A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within. <https://github.com/cozmo/jsQR>
-* How to Create a QR Code Reader for Your Mobile Website - SitePoint <https://www.sitepoint.com/create-qr-code-reader-mobile-website/>
-* dmla/jsqrcode: Javascript QRCode scanner <https://github.com/dmla/jsqrcode>
-* JsBarcode - Barcode generator written in JavaScript <https://lindell.me/JsBarcode/>
-* Generatore di codici a barre online: UPC-A <https://barcode.tec-it.com/it/UPCA?data=72527273070>
-* Dynamic URL to QR Code Generator | QR Code Generator <https://www.qr-code-generator.com/solutions/dynamic-url-qr-code/>
-* link-to-qr <https://link-to-qr.com/>
-* The Shape Detection API: a picture is worth a thousand words, faces, and barcodes <https://web.dev/shape-detection/>
-* QR codes | Dan Hollick 🇿🇦 <https://typefully.com/DanHollick/qr-codes-T7tLlNi>
-* The UX of QR codes and scanning stuff with our phones | by Dave Parry | Medium <https://medium.com/@dvprry/the-ux-of-qr-codes-and-scanning-stuff-with-our-phones-819721c3ccef>
-* Create a swink - swink <http://robko.ch/qr-designer/>
 
 
 ## react
@@ -1622,21 +1598,6 @@
 * blender.org - Home of the Blender project - Free and Open 3D Creation Software <https://www.blender.org/>
 * FreeCAD: Il tuo modellatore 3D parametrico <https://www.freecad.org/index.php?lang=it>
 
-
-## spinners
-
-* Single Element CSS Spinners <https://projects.lukehaas.me/css-loaders/>
-* Pure CSS Loader - Optimized Spinners for Web · Loading.io <https://loading.io/css/>
-* Pure CSS Counter <https://gist.github.com/jakealbaugh/470f772618159276b434>
-* Pure HTML / CSS Android Preloader Spinner <https://codepen.io/ingomc/pen/ONrMqe>
-* n3r4zzurr0/svg-spinners: A collection of 24 x 24 dp SVG spinners! <https://github.com/n3r4zzurr0/svg-spinners>
-* Loading Disco | Joe Bell <https://joebell.co.uk/sketches/loading-disco>
-* Pure CSS Loader Generator | wweb.dev <https://wweb.dev/resources/loader-generator/>
-* Pure CSS Loader Generator | wweb.dev <https://wweb.dev/resources/loader-generator>
-* Loading & progress indicators — UI Components series | by Taras Bakusevych | Jul, 2023 | UX Collective <https://uxdesign.cc/loading-progress-indicators-ui-components-series-f4b1fc35339a>
-* CSS Loaders: A collection of more than 500 loading animations <https://css-loaders.com/>
-
-
 ## svg
 
 * Free SVG generators, color tools & web design tools <https://www.fffuel.co/>
@@ -1692,23 +1653,7 @@
 * SVG Flag Icons <https://nucleoapp.com/svg-flag-icons>
 
 
-## symfony
 
-* Form Types Reference (Symfony Docs) <https://symfony.com/doc/current/reference/forms/types.html>
-* The HttpFoundation Component (Symfony Docs) <https://symfony.com/doc/current/components/http_foundation.html>
-* Managing CSS and JavaScript (Symfony Docs) <https://symfony.com/doc/current/frontend.html>
-
-
-## test
-
-* Emoji under the hood @ tonsky.me <https://tonsky.me/blog/emoji/>
-* Everything You Need To Know About Emoji 🍭 — Smashing Magazine <https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/>
-
-
-## testo
-
-* Text Cleaner: Text Formatter, Text Formatting Online <https://textcleaner.net/>
-* Divido - Accessible SplitText (Nested Tag Support) <https://codepen.io/plankton/pen/WNgYGWg>
 
 
 ## tipografia
@@ -2210,19 +2155,10 @@
 * Advancing Interaction to Next Paint <https://web.dev/inp-cwv/>
 * AddyOsmani.com - Debugging Tactics <https://addyosmani.com/blog/debugging-tactics/>
 * How Partytown Eliminates Website Bloat From Third-Party Scripts — Smashing Magazine <https://www.smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/>
-* How I built a modern website in 2021 <https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021>
-* Chrome for Testing: reliable downloads for browser automation - Chrome Developers <https://developer.chrome.com/blog/chrome-for-testing/>
 * egstad-construct/detect-scroll <https://github.com/egstad-construct/detect-scroll>
 * The virtual keyboard API - Ahmad Shadeed <https://ishadeed.com/article/virtual-keyboard-api/>
-* Modern iOS Navigation Patterns · Frank Rausch <https://frankrausch.com/ios-navigation>
 * Mobile Accessibility Target Sizes Cheatsheet – Smart Interface Design Patterns <https://smart-interface-design-patterns.com/articles/accessible-tap-target-sizes/>
-* iOS vs. Android App UI Design: The Differences Explained (2021) <https://www.learnui.design/blog/ios-vs-android-app-ui-design-complete-guide.html>
-* Local - Local WordPress development made simple <https://localwp.com/>
-* Prisma | Next-generation ORM for Node.js & TypeScript <https://www.prisma.io/>
-* Introduction - WpGraphQL Gutenberg Docs <https://wp-graphql-gutenberg.netlify.app/>
-* Crash Course: Build a Simple Headless WordPress App with Next.js & WPGraphQL - Builders <https://wpengine.com/builders/build-simple-headless-wordpress-app-next-js-wpgraphql/>
-* Button | NextUI - Beautiful, fast and modern React UI Library <https://nextui.org/docs/components/button>
-* GraphQL Order By: A Beginner's Guide <https://daily.dev/it/blog/graphql-order-by-a-beginners-guide>
+
 
 
 
