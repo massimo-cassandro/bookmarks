@@ -647,7 +647,6 @@
 * Hot buro | Digital design agency <https://www.hotburo.com/>
 * dbartolini/data-oriented-design: A curated list of data oriented design resources. <https://github.com/dbartolini/data-oriented-design>
 * DesignSystems.com <https://www.designsystems.com/>
-*  **DUP** Serve responsive images <https://web.dev/serve-responsive-images/>
 * thumbor - open-source smart on-demand image cropping, resizing and filters <https://www.thumbor.org/>
 * A Guide To Designing For Mobile | LinkedIn <https://www.linkedin.com/posts/vitalyfriedman_ux-design-mobile-activity-7094968456017551360-srK2/>
 * What’s The Right Font Size For the Web? | LinkedIn <https://www.linkedin.com/posts/vitalyfriedman_ux-design-typography-activity-7095664890727526400-ECAH/>
@@ -820,23 +819,7 @@
 * https://better-mobile-inputs.netlify.app/ <https://better-mobile-inputs.netlify.app/>
 * 11 HTML best practices for login & sign-up forms—Martian Chronicles, Evil Martians’ team blog <https://evilmartians.com/chronicles/html-best-practices-for-login-and-signup-forms>
 * Select to Proceed. A guide to designing and using… | by Linzi Berry | Tap to Dismiss | Medium <https://medium.com/tap-to-dismiss/select-to-proceed-996d19c8a7a4>
-* Select2 <https://select2.org/>
 
-
-## fotografia
-
-* LoboStudio Hamburg (@lobostudiohamburg) | Unsplash Photo Community <https://unsplash.com/@lobostudiohamburg>
-* ERIK JOHANSSON <https://www.erikjo.com/>
-* NASA Visible Earth - Home <https://visibleearth.nasa.gov/>
-* Maria Svarbova <https://www.mariasvarbova.com/>
-* Main Page - Elena Chernyshova <https://elena-chernyshova.com/>
-* Umut Reçber on Behance <https://www.behance.net/umutcanrecber>
-* Urban Geometry - Hoxton Mini Press <https://hoxtonminipress.com/collections/books/products/urban-geometry>
-* Mother (photo manipulation work) on Behance <https://www.behance.net/gallery/85293247/Mother-(photo-manipulation-work)>
-* Daniel Tjongari <http://www.danieltjongari.com/>
-* Homepage | Accidentally Wes Anderson <https://accidentallywesanderson.com/>
-* HISA <https://www.hisatoshimatsumura.com/>
-* Airpixels Photography & Film - Aerial & Commercial Photography <https://www.airpixelsmedia.com/>
 
 
 ## frameworks
@@ -997,55 +980,6 @@
 * ICU Documentation | ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications. The ICU User Guide provides documentation on how to use ICU. <https://unicode-org.github.io/icu/>
 
 
-## icone
-
-* Iconset - Free Icons Organizer & Manager for Mac and Windows <https://iconset.io/>
-* ICONSVG - Quick customizable SVG icons for your project <https://iconsvg.xyz/#>
-* Feather – Simply beautiful open source icons <https://feathericons.com/>
-* Font Kiko - Free Icon Font, SVG, AI, EPS - Download Now! - Kiko font <https://fontkiko.com/>
-* Mono Icons <https://icons.mono.company/>
-* Tabler Icons - 800+ Highly customizable free SVG icons <https://tablericons.com/>
-* Radix Icons <https://icons.modulz.app/>
-* Phosphor Icons <https://phosphoricons.com/>
-* 700+ CSS Icons, Customizable, Retina Ready & API <https://css.gg/>
-* Stop Using Icon Fonts by Michael Irigoyen <https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/>
-* Accessible icon links | Kitty Giraudel <https://kittygiraudel.com/2020/12/10/accessible-icon-links/>
-* Iconic <https://iconic.app/>
-* Iconoir | Free Icons <https://iconoir.com/>
-* Health Icons <https://healthicons.org/>
-* Icônes <https://icones.netlify.app/collection/all>
-* H2D2-Design/h2d2-shopicons: Essentials E-Commerce icon pack for free. <https://github.com/H2D2-Design/h2d2-shopicons>
-* Free Line Icons for Designers and Developers - Lineicons <https://lineicons.com/>
-* Reshot | Free icons, illustrations & photos [no attribution] <https://www.reshot.com/>
-* Bioicons - high quality science illustrations <https://bioicons.com/>
-* Weather Icons - 222 font icons inspired by Font Awesome and designed for Bootstrap <https://erikflowers.github.io/weather-icons/>
-* Flagpack <https://flagpack.xyz/>
-* phosphor-icons/phosphor-react: A flexible icon family for React <https://github.com/phosphor-icons/phosphor-react>
-* Font Awesome <https://fontawesome.com/>
-* React Icons <https://react-icons.github.io/react-icons>
-* Free customizable 3D icons | Vertex.im <https://vertex.im/>
-* Icônes <https://icones.js.org/>
-* Indie Icons | VISIWIG <https://www.visiwig.com/icons/>
-* Anicons: Icon Fonts With Color and Animation <https://typogram.github.io/Anicons/index.html>
-* Pixelarticons - Beautiful open-source pixel-art icons. <https://pixelarticons.com/>
-* Basicons - Basic icons for product design & development <https://basicons.xyz/>
-* Main - Icon Utopia <https://iconutopia.com/>
-* https://www.streamlinehq.com/elements <https://www.streamlinehq.com/elements>
-* SVG sprites: old-school, modern, unknown, and forgotten — Vadim Makeev <https://pepelsbey.dev/articles/svg-sprites/>
-* Futicons <https://futicons.com/>
-* Doodle icons by Khushmeen <https://khushmeen.com/icons.html>
-* Atlas Icons <https://atlasicons.vectopus.com/>
-* Theme Toggles <https://toggles.dev/>
-* Iconhunt - Search for open source icons, 150.000+ icons. <https://www.iconhunt.site/>
-* Freebies | Codrops <https://tympanus.net/codrops/category/freebies/>
-* Font Awesome <https://fontawesome.com/icons>
-* Iconbuddy — 180K+ open source icons <https://iconbuddy.app/>
-* Fontello - icon fonts generator <https://fontello.com/>
-* Icon Font & SVG Icon Sets ❍ IcoMoon <https://icomoon.io/>
-* Free Icons <https://nucleoapp.com/free-icons>
-* Remix Icon - Open source icon library <https://remixicon.com/>
-
-
 ## illustrator
 
 * Hot Door - CADtools <https://www.hotdoor.com/>
@@ -1073,22 +1007,6 @@
 * https://search.nal.usda.gov/discovery/collectionDiscovery?vid=01NAL_INST:MAIN&collectionId=81279629860007426 <https://search.nal.usda.gov/discovery/collectionDiscovery?vid=01NAL_INST%3AMAIN&collectionId=81279629860007426>
 
 
-## imgs
-
-* Using WebP images with React <https://www.joshwcomeau.com/performance/embracing-modern-image-formats/>
-* Responsive Images the Simple Way - Cloud Four <https://cloudfour.com/thinks/responsive-images-the-simple-way/>
-* Image Techniques On The Web <https://ishadeed.com/article/image-techniques/>
-* GIFS and prefers-reduced-motion | CSS-Tricks <https://css-tricks.com/gifs-and-prefers-reduced-motion/>
-* Barebones CSS for Fluid Images—zachleat.com <https://www.zachleat.com/web/fluid-images/>
-* Serving sharp images to high density screens - JakeArchibald.com <https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/>
-* Using Performant Next-Gen Images in CSS with image-set | CSS-Tricks <https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/>
-* Unsplash API Documentation | Free HD Photo API | Unsplash <https://unsplash.com/documentation#dynamically-resizable-images>
-* Guideline: Hotlinking Images | Unsplash Help Center <https://help.unsplash.com/en/articles/2511271-guideline-hotlinking-images>
-* Online Video Resizer <https://ezgif.com/resize-video>
-* w descriptors and sizes: Under the hood / Eric Portis | Observable <https://observablehq.com/@eeeps/w-descriptors-and-sizes-under-the-hood>
-* Unsplash without API key. Let's generate random images from… | by 🦋Allegra | Medium <https://allegra9.medium.com/unsplash-without-api-ab2dcdb503a0>
-*  **DUP** Serve responsive images <https://web.dev/serve-responsive-images/>
-
 
 ## inclusive design
 
@@ -1096,11 +1014,6 @@
 * Modify Your Design for Global Audiences: Crosscultural UX Design <https://www.nngroup.com/articles/crosscultural-design/>
 * Playbook for universal design – Universal design methods for more inclusive solutions <https://universaldesignguide.com/>
 
-
-## jquery
-
-* IonDen/ion.rangeSlider: jQuery only range slider <https://github.com/IonDen/ion.rangeSlider>
-* jQuery API Documentation <https://api.jquery.com/>
 
 
 ## js
@@ -1277,33 +1190,6 @@
 * The Ultimate Guide to JavaScript Error Handling — SitePoint <https://www.sitepoint.com/javascript-error-handling/>
 
 
-## jsdoc
-
-* okidoc <https://wix.github.io/okidoc/>
-* Release the docs! <http://sassdoc.com/>
-
-
-## json
-
-* Convert JSON to YAML <https://www.json2yaml.com/>
-* JSON Modules in JavaScript <https://dmitripavlutin.com/javascript-json-modules/>
-* lerna/lerna: A tool for managing JavaScript projects with multiple packages. <https://github.com/lerna/lerna>
-* jless - A Command-Line JSON Viewer <https://jless.io/>
-* JSON Viewer - JSON Hero <https://jsonhero.io/>
-* JSON Schema | The home of JSON Schema <https://json-schema.org/>
-* Editor | JSON Crack <https://jsoncrack.com/editor>
-* JSON Editor Online: JSON editor, JSON formatter, query JSON <https://jsoneditoronline.org/>
-
-
-## librerie
-
-* Embla Carousel – The most fluid carousel library with unmatched swipe precision <https://davidcetinkaya.github.io/embla-carousel/>
-* Flickity · Touch, responsive, flickable carousels <https://flickity.metafizzy.co/>
-* Swiper - The Most Modern Mobile Touch Slider <https://swiperjs.com/>
-* slick - the last carousel you'll ever need <https://kenwheeler.github.io/slick/>
-* Siema - Lightweight and simple carousel with no dependencies <https://pawelgrzybek.github.io/siema/>
-
-
 ## mac
 
 * KeepingYouAwake: Prevents your Mac from going to sleep <https://keepingyouawake.app/>
@@ -1395,18 +1281,6 @@
 * How To Create Maps With React And Leaflet — Smashing Magazine <https://www.smashingmagazine.com/2020/02/javascript-maps-react-leaflet/>
 
 
-
-## mysql
-
-* DBeaver Community | Free Universal Database Tool <https://dbeaver.io/>
-* CSV To SQL Converter <https://www.convertcsv.com/csv-to-sql.htm>
-
-
-## next
-
-* Improved Next.js and Gatsby page load performance with granular chunking <https://web.dev/granular-chunking-nextjs/>
-
-
 ## node
 
 * SQLite Node.js Tutorial <https://www.sqlitetutorial.net/sqlite-nodejs/>
@@ -1432,23 +1306,6 @@
 
 
 
-
-## patterns
-
-* pattern.css - Background Patterns in CSS <https://bansal.io/pattern-css>
-* CSS Background Patterns by MagicPattern <https://www.magicpattern.design/tools/css-backgrounds>
-* Websites to Generate SVG Patterns | CSS-Tricks <https://css-tricks.com/websites-generate-svg-patterns/>
-* 5k+ Tartan Patterns | Tartanify.com <https://tartanify.com/>
-* 40 CSS Background Patterns <https://freefrontend.com/css-background-patterns/>
-* Pattern Monster - SVG Pattern Generator <https://pattern.monster/>
-* Pixel Patterns <https://yuanchuan.dev/pixel-patterns>
-* Hero Patterns | Free repeatable SVG background patterns for your web projects <https://heropatterns.com/>
-* CSS Polka Dot Generator <https://screenspan.net/polka/>
-* Free Stock Photos, PNGs, Templates & Mockups | rawpixel <https://www.rawpixel.com/>
-* Basic Pattern Repository <https://patterns.helloyes.dev/>
-* DOODAD | Online Tools for Web Developers <https://doodad.dev/>
-* CSS Pattern: Fancy backgrounds with CSS gradients <https://css-pattern.com/>
-* CSS3 Patterns Gallery <https://projects.verou.me/css3patterns/>
 
 
 
@@ -2745,6 +2602,5 @@
 * Tesori d'archivio: i pattern dell'arte islamica - Frizzifrizzi <https://www.frizzifrizzi.it/2017/03/03/tesori-darchivio-pattern-dellarte-islamica/>
 * Tesori d'archivio: i pattern islamici delle piastrelle afghane in un libro di fine '800 - Frizzifrizzi <https://www.frizzifrizzi.it/2024/01/15/tesori-darchivio-i-pattern-islamici-delle-piastrelle-afghane-in-un-libro-di-fine-800/>
 * Tesori d'archivio: le decorazioni Art Nouveau di Anton Seder, ispirate alla natura - Frizzifrizzi <https://www.frizzifrizzi.it/2024/02/06/tesori-darchivio-le-decorazioni-art-nouveau-di-anton-seder-ispirate-alla-natura/>
-* Rethink Sans - Google Fonts <https://fonts.google.com/specimen/Rethink+Sans>
 * Les éléments de l'art arabe - Artvee <https://artvee.com/books/les-elements-de-lart-arabe/>
 * HEX to Pantone - Best Online Tool to Convert HEX Color to Pantone Color <https://codebeautify.org/hex-to-pantone-converter>

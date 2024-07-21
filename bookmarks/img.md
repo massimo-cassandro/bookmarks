@@ -7,6 +7,7 @@
 
 
 ## Img manipulation
+
 * Convert images for web using the Sips command line on MacOSX | by Mickaël Riga | Shell Life | Medium <https://medium.com/shell-life/convert-images-for-web-using-the-sips-command-line-on-macosx-656c502a67a6>
 * @squoosh/lib - npm <https://www.npmjs.com/package/@squoosh/lib>
 * @squoosh/cli - npm <https://www.npmjs.com/package/@squoosh/cli>
@@ -20,7 +21,6 @@
 * Cropper.js <https://fengyuanchen.github.io/cropperjs/>
 
 
-
 ## img segnaposto
 
 * BlurHash <https://blurha.sh/>
@@ -32,6 +32,7 @@
 
 
 ## cloud services
+
 * Image and Video Upload, Storage, Optimization and CDN <https://cloudinary.com/>
 * Image CDN: Resize, Compress and Accelerate • Cloudimage <https://www.cloudimage.io/en/home>
 * imgix - The End-to-End Image Solution <https://imgix.com/>
@@ -54,7 +55,6 @@
 
 ## img
 
-* Aspect ratio calculator to get aspect ratio for your images or videos <https://aspectratiocalculator.com/>
 * Table of contents | mannequin.js <https://boytchev.github.io/mannequin.js/>
 * JPG vs PNG vs GIF vs SVG. When to use which!!??!? | by Allen | UX Collective <https://uxdesign.cc/jpg-vs-png-vs-gif-vs-svg-aefeca89f61>
 * Responsive images with srcset and sizes <https://medium.com/@woutervanderzee/responsive-images-with-srcset-and-sizes-fc434845e948#.4wys1rvww>
@@ -80,12 +80,19 @@
 * Handling Text Over Images in CSS <https://ishadeed.com/article/handling-text-over-image-css/>
 * Fast load times <https://web.dev/fast/#optimize-your-images>
 * Content-aware image resizing in JavaScript | Trekhleb <https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/>
-* Processing images with sharp in Node.js - LogRocket Blog <https://blog.logrocket.com/processing-images-sharp-node-js/>
 * Serve responsive images <https://web.dev/serve-responsive-images/>
 * thumbor - open-source smart on-demand image cropping, resizing and filters <https://www.thumbor.org/>
-* Serve responsive images <https://web.dev/serve-responsive-images/>
 * Designing Accessible Text Over Images: Best Practices, Techniques, And Resources (Part 1) — Smashing Magazine <https://www.smashingmagazine.com/2023/08/designing-accessible-text-over-images-part1/>
 * Designing Accessible Text Over Images: Best Practices, Techniques And Resources (Part 2) — Smashing Magazine <https://www.smashingmagazine.com/2023/08/designing-accessible-text-over-images-part2/>
 * JPEG and EXIF Data Manipulation in Javascript | Getaround Tech <https://getaround.tech/exif-data-manipulation-javascript/>
 * The Ultimate Low-Quality Image Placeholder Technique – Harry Roberts – Web Performance Consultant <https://csswizardry.com/2023/09/the-ultimate-lqip-lcp-technique/>
 * Learn Images <https://web.dev/learn/images/>
+* Responsive Images the Simple Way - Cloud Four <https://cloudfour.com/thinks/responsive-images-the-simple-way/>
+* Serving sharp images to high density screens - JakeArchibald.com <https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/>
+* Using Performant Next-Gen Images in CSS with image-set | CSS-Tricks <https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/>
+* Unsplash API Documentation | Free HD Photo API | Unsplash <https://unsplash.com/documentation#dynamically-resizable-images>
+* Guideline: Hotlinking Images | Unsplash Help Center <https://help.unsplash.com/en/articles/2511271-guideline-hotlinking-images>
+* Online Video Resizer <https://ezgif.com/resize-video>
+* w descriptors and sizes: Under the hood / Eric Portis | Observable <https://observablehq.com/@eeeps/w-descriptors-and-sizes-under-the-hood>
+* Unsplash without API key. Let's generate random images from… | by 🦋Allegra | Medium <https://allegra9.medium.com/unsplash-without-api-ab2dcdb503a0>
+*  Serve responsive images <https://web.dev/serve-responsive-images/>

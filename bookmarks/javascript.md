@@ -33,14 +33,20 @@
 
 ***
 
+* Datatable - Options <https://datatables.net/reference/option/>
+* DataTables example - HTML5 data-* attributes - cell data <https://datatables.net/examples/advanced_init/html5-data-attributes.html>
+* Orthogonal data <https://datatables.net/manual/data/orthogonal-data>
+
 * SheetJS Community Edition <https://docs.sheetjs.com/docs/> 
 * Moment.js | Docs <https://momentjs.com/docs/>
 * jQuery API Documentation <https://api.jquery.com/>
 * fancyBox - Touch enabled, responsive and fully customizable jQuery lightbox script <http://fancyapps.com/fancybox/3/>
 * Select2 <https://select2.org/>
-* Datatable - Options <https://datatables.net/reference/option/>
-* DataTables example - HTML5 data-* attributes - cell data <https://datatables.net/examples/advanced_init/html5-data-attributes.html>
-* Orthogonal data <https://datatables.net/manual/data/orthogonal-data>
+* Embla Carousel – The most fluid carousel library with unmatched swipe precision <https://davidcetinkaya.github.io/embla-carousel/>
+* Flickity · Touch, responsive, flickable carousels <https://flickity.metafizzy.co/>
+* Swiper - The Most Modern Mobile Touch Slider <https://swiperjs.com/>
+* slick - the last carousel you'll ever need <https://kenwheeler.github.io/slick/>
+* Siema - Lightweight and simple carousel with no dependencies <https://pawelgrzybek.github.io/siema/>
 
 
 ## Remote testing & dev
@@ -50,3 +56,9 @@
 * Sandpack <https://sandpack.codesandbox.io/>
 * CodePen <http://codepen.io>
 * StackBlitz <https://stackblitz.com/>
+
+
+
+## jquery
+* IonDen/ion.rangeSlider: jQuery only range slider <https://github.com/IonDen/ion.rangeSlider>
+* jQuery API Documentation <https://api.jquery.com/>

@@ -35,3 +35,9 @@
 * Chrome DevTools  <https://developers.google.com/web/tools/chrome-devtools/>
 * Google Drive API <https://developers.google.com/drive/api/v3/about-sdk>
 * Netlify <https://app.netlify.com/teams/massimo-cassandro/overview>
+
+
+## mysql
+
+* DBeaver Community | Free Universal Database Tool <https://dbeaver.io/>
+* CSV To SQL Converter <https://www.convertcsv.com/csv-to-sql.htm>

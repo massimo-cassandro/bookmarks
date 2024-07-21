@@ -1,6 +1,9 @@
 # next
 
 
+* Improved Next.js and Gatsby page load performance with granular chunking <https://web.dev/granular-chunking-nextjs/>
+
+
 * GraphQL API for WordPress <https://www.wpgraphql.com/>
 * Prisma <https://www.prisma.io/>
 * https://www.freecodecamp.org/news/app-directory-nextjs/

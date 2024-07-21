@@ -128,8 +128,7 @@
 ## software
 * Glyphs <https://glyphsapp.com/>
 * FontLab 8 <https://www.fontlab.com/font-editor/fontlab/>
-* Fontello - icon fonts generator <https://fontello.com/>
-* Icon Font & SVG Icon Sets ❍ IcoMoon <https://icomoon.io/>
+
 
 
 
