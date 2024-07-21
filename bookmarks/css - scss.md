@@ -8,7 +8,11 @@
 * PurgeCSS - Remove unused CSS <https://purgecss.com/>
 * Can I use... <http://caniuse.com/>
 * ✿ dabblet.com <http://dabblet.com/> 
+* QQ - Quantity Queries Builder <http://quantityqueries.com/>
+* :nth Tester <https://css-tricks.com/examples/nth-child-tester/>
 
+
+* debug horiz scroll bar (https://gist.github.com/cuth/c1ddf2b1ce2fb07e512a)
 
 ***
 
@@ -29,16 +33,16 @@
 * An Interactive Guide to CSS Grid <https://www.joshwcomeau.com/css/interactive-guide-to-grid/>
 * transition.css. Drop-in CSS transitions <https://www.transition.style/>
 * conic.css. Nice, simple conic gradients <https://www.conic.style/>
-* debug horiz scroll bar (https://gist.github.com/cuth/c1ddf2b1ce2fb07e512a) <javascript:(function(d){var w=d.documentElement.offsetWidth,t=d.createTreeWalker(d.body,NodeFilter.SHOW_ELEMENT),b;while(t.nextNode()){b=t.currentNode.getBoundingClientRect();if(b.right>w||b.left<0){t.currentNode.style.setProperty('outline','1px dotted red','important');console.log(t.currentNode);}};}(document));> 
 * 2D & 3D CSS Transform functions visualizer <https://css-transform.moro.es/> 
 * UI Gradient Generator: Make Beautiful CSS Gradients [& SVG] <https://learnui.design/tools/gradient-generator.html>
 * Collection of CSS snippets <https://justmarkup.com/log/2018/03/collection-of-css-snippets/>
-* QQ - Quantity Queries Builder <http://quantityqueries.com/>
-* :nth Tester <https://css-tricks.com/examples/nth-child-tester/>
 * CSS Layout cookbook - CSS: Cascading Style Sheets | MDN <https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook>
 * CSS Section Separator Generator | wweb.dev <https://wweb.dev/resources/css-separator-generator>
 * CSS Layout ∙ Explore <https://csslayout.io/patterns/>
-
+* Learn Z-Index Using a Visualization Tool <https://thirumanikandan.com/posts/learn-z-index-using-a-visualization-tool>
+* Understanding Z-Index in CSS <https://ishadeed.com/article/understanding-z-index/>
+* Managing CSS Z-Index In Large Projects — Smashing Magazine <https://jobs.smashingmagazine.com/2021/02/css-z-index-large-projects/>
+* Remove unused CSS styles from Bootstrap using PurgeCSS  <https://medium.com/dwarves-foundation/remove-unused-css-styles-from-bootstrap-using-purgecss-88395a2c5772>
 
 
 ## CSS modules / Styled Components

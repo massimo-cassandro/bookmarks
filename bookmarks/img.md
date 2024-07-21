@@ -12,11 +12,13 @@
 * @squoosh/cli - npm <https://www.npmjs.com/package/@squoosh/cli>
 * jimp - npm <https://www.npmjs.com/package/jimp>
 * sharp - High performance Node.js image processing <https://sharp.pixelplumbing.com/>
+* Processing images with sharp in Node.js - LogRocket Blog <https://blog.logrocket.com/processing-images-sharp-node-js/>
 * Reducing image size with sips <https://support.moonpoint.com/os/os-x/sips_reduce_imgsize/>
 * How to Convert HTML to an Image Using Puppeteer in Node.js | CheatCode <https://cheatcode.co/tutorials/how-to-convert-html-to-an-image-using-puppeteer-in-node-js>
 * AVIF Converter - unlimited free conversions | avif.io ✨ <https://avif.io/>
 * Calligrapher.ai: Realistic computer-generated handwriting <https://www.calligrapher.ai/>
 * Cropper.js <https://fengyuanchen.github.io/cropperjs/>
+
 
 
 ## img segnaposto

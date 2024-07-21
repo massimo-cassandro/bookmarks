@@ -27,7 +27,7 @@
 ## device check & list
 * mydevice.io : web devices capabilities <https://www.mydevice.io/>
 * Support Details [Get Your Browser Version, System Information & More] <https://supportdetails.net/>  
-
+* What is my screen resolution <https://screenresolutiontest.com/>
 
 ## Servizi Cloud
 * reCAPTCHA <https://www.google.com/recaptcha/admin#list>

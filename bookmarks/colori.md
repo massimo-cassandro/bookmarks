@@ -24,6 +24,10 @@
 * Color Hex Color Codes <https://www.color-hex.com/>
 * davidmerfield/randomColor: A tiny script for generating attractive colors <https://github.com/davidmerfield/randomColor>
 * CSS Background Pattern Generator <https://10015.io/tools/css-background-pattern-generator> 
+* How to create a color palette for design systems | by Alex | Medium <https://medium.com/@imperavi/how-to-create-a-color-palette-for-design-systems-a803e90adc15>
+* Designing a colour system. Building multi-brand colour systems… | by Pavel Kiselev | UX Collective <https://uxdesign.cc/designing-colour-system-d9d39f245e01>
+
+
 
 
 ## Palette generators
@@ -34,6 +38,7 @@
 * Palette Generator <https://www.learnui.design/tools/data-color-picker.html#palette>
 * Ruota colore, un generatore di palette colore | Adobe Color <https://color.adobe.com/it/create/color-wheel>
 * EightShapes Contrast Grid <https://contrast-grid.eightshapes.com>
+* Randoma11y - Accessible color combinations <https://randoma11y.com/>
 
 ***
 
@@ -51,6 +56,15 @@
 * Material Design Color Palette Generator - Material Palette <https://www.materialpalette.com/>
 * Paletton.com <https://paletton.com> 
 * Accessible Brand Colors <https://abc.useallfive.com/>
+* Sorted CSS Colors <https://enes.in/sorted-colors/>
+* ColorBox by Lyft Design <https://www.colorbox.io/>
+* Palettte App <https://palettte.app/>
+* Happy Hues - Curated colors in context. <https://www.happyhues.co/>
+* Reasonable Colors <https://reasonable.work/colors/#colors>
+* pppalette: friendly color palette generator for beautiful colors | fffuel <https://fffuel.co/pppalette/>
+* Colordot - A color picker for humans <https://color.hailpixel.com/#DABB90,6840BF,42A136,EAE0F5>
+* Accessible color palette builder <https://line47.com/accessible-color-matrix/>
+
 
 
 ## Reference
@@ -72,4 +86,8 @@
 * Mixing Colours of Equal Luminance — Part 1 | by Colin Shanley | Design + Sketch | Medium <https://medium.com/sketch-app-sources/mixing-colours-of-equal-luminance-part-1-41f69518d647>
 * Mixing Colours of Equal Luminance — Part 2 | by Colin Shanley | Design + Sketch | Medium <https://medium.com/sketch-app-sources/mixing-colours-of-equal-luminance-part-2-3e10c07c947c>
 * The Contrast Triangle <https://contrast-triangle.com/>
+* Colour management, part 1 <https://bjango.com/articles/colourmanagementgamut/>
+
+
+
 
