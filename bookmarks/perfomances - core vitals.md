@@ -13,4 +13,4 @@
 * The original Website Carbon calculator <https://www.websitecarbon.com/>
 * Configure webhint in your project | webhint documentation <https://webhint.io/docs/user-guide/configuring-webhint/summary/>
 * Website Speed Test - Image Analysis Tool by Cloudinary <https://webspeedtest.cloudinary.com/>
-
+* Web Vitals <https://web.dev/vitals/>

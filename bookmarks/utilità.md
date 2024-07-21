@@ -32,11 +32,6 @@
 ## Servizi Cloud
 * reCAPTCHA <https://www.google.com/recaptcha/admin#list>
 * Google Cloud Console <https://console.cloud.google.com/>
-* Home - Bing Webmaster Tools <https://www.bing.com/webmasters>
-* Google Tag Manager <https://tagmanager.google.com/>
-* Google Tag Assistant <https://tagassistant.google.com/> 
-* Analytics <https://analytics.google.com/analytics/web/>
 * Chrome DevTools  <https://developers.google.com/web/tools/chrome-devtools/>
 * Google Drive API <https://developers.google.com/drive/api/v3/about-sdk>
-* Piwik PRO Analytics Suite | On-premises & private cloud <https://piwik.pro/>
 * Netlify <https://app.netlify.com/teams/massimo-cassandro/overview>

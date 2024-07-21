@@ -1395,26 +1395,6 @@
 * How To Create Maps With React And Leaflet — Smashing Magazine <https://www.smashingmagazine.com/2020/02/javascript-maps-react-leaflet/>
 
 
-## markdown
-
-* readme.so - Easiest Way to Create A README <https://readme.so/it>
-* MDX <https://mdxjs.com/>
-* Include diagrams in your Markdown files with Mermaid | The GitHub Blog <https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/>
-* Markdoc | Using Markdoc with React <https://markdoc.dev/docs/examples/react>
-* Editor.md - Open source online Markdown editor. <https://pandao.github.io/editor.md/en.html>
-* Online Markdown Editor - Dillinger, the Last Markdown Editor ever. <https://dillinger.io/>
-* StackEdit – In-browser Markdown editor <https://stackedit.io/>
-* HTML to Markdown Converter <https://codebeautify.org/html-to-markdown>
-
-
-## microdata
-
-* hCard 1.0 - Microformats Wiki <http://microformats.org/wiki/hcard>
-* Code & Tools - Microformats Wiki <http://microformats.org/wiki/code-tools>
-* Schemas - schema.org <https://schema.org/docs/schemas.html>
-* Local Business Schema Generator - MicroData & JSON-LD <https://microdatagenerator.org/localbusiness-microdata-generator/>
-* Do you put Schema Microdata meta tags in the html body? - Stack Overflow <https://stackoverflow.com/questions/10279277/do-you-put-schema-microdata-meta-tags-in-the-html-body>
-
 
 ## mysql
 
@@ -1475,19 +1455,6 @@
 * DOODAD | Online Tools for Web Developers <https://doodad.dev/>
 * CSS Pattern: Fancy backgrounds with CSS gradients <https://css-pattern.com/>
 * CSS3 Patterns Gallery <https://projects.verou.me/css3patterns/>
-
-
-## pdf
-
-* jsPDF - Documentation <http://raw.githack.com/MrRio/jsPDF/master/docs/>
-* FPDF <http://www.fpdf.org/>
-* Beautiful PDFs from HTML <https://pdf.math.dev/>
-* iLovePDF | Strumenti PDF online gratuiti <https://www.ilovepdf.com/it>
-* Look Scanned <https://lookscanned.io/>
-* Online Calculators & Tools - RapidTables.com <https://www.rapidtables.com/>
-* PDFObject: A JavaScript utility for embedding PDFs <https://pdfobject.com/#the-why>
-* PDF24 Tools: Free PDF solutions for all PDF problems <https://tools.pdf24.org/en/>
-* PDF Tool - HodlSoftware <https://www.pdftool.org/en>
 
 
 
@@ -1608,34 +1575,6 @@
 * A new kind of color picker - built with React & TypeScript by emilwidlund <https://polar.sh/emilwidlund/posts/a-new-kind-of-color-picker-with-react-typescript>
 
 
-## regexp
-
-* Regex Cheat Sheet - DEV Community 👩‍💻👨‍💻 <https://dev.to/emmawedekind/regex-cheat-sheet-2j2a>
-* The fastest way to start writing regular expressions | RegexGuide <https://regex.guide/playground>
-* Regular expressions <http://www.molmine.com/magma/regex.htm>
-* Regular-Expressions.info - Regex Tutorial, Examples and Reference - Regexp Patterns <https://www.regular-expressions.info/>
-* Top 15 Commonly Used Regex - Digital Fortress <https://digitalfortress.tech/tips/top-15-commonly-used-regex/>
-* ziishaned/learn-regex: Learn regex the easy way <https://github.com/ziishaned/learn-regex>
-* Regex Learn - Step by step, from zero to advanced. <https://regexlearn.com/>
-* Regex Tester - Javascript, PCRE, PHP <https://www.regexpal.com/>
-* Regular expressions - JavaScript | MDN <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions>
-
-
-## seo
-
-* umami <https://umami.is/>
-* Google Applicance - googleoff / googleon Tags | GeekZilla <http://www.geekzilla.co.uk/ViewC8614968-56ED-4729-9C12-F01677DAC412.htm>
-* Test dei risultati multimediali - Google Search Console <https://search.google.com/test/rich-results>
-* SEO Cheat Sheet by 9elements <https://9elements.com/seo-cheat-sheet/>
-* Bing - Strumenti per Webmaster <https://www.bing.com/toolbox/webmaster/>
-* The privacy-first Google Analytics alternative - Simple Analytics <https://www.simpleanalytics.com/>
-* Matomo Analytics - The Google Analytics alternative that protects your data <https://matomo.org/>
-* Plausible Analytics | Simple, privacy-friendly Google Analytics alternative <https://plausible.io/>
-* Privacy-focused website analytics without compromise - Fathom Analytics <https://usefathom.com/>
-* Counting unique visitors without using cookies, UIDs or fingerprinting. <https://notes.normally.com/cookieless-unique-visitor-counts/>
-* CSS Fingerprint <https://csstracking.dev/>
-* SEOZoom - I migliori SEO Tool per il tuo sito Web <https://www.seozoom.it/>
-
 
 ## software
 
@@ -1700,6 +1639,7 @@
 
 ## svg
 
+* Free SVG generators, color tools & web design tools <https://www.fffuel.co/>
 * Drawing Realistic Clouds with SVG and CSS | CSS-Tricks <https://css-tricks.com/drawing-realistic-clouds-with-svg-and-css/>
 * Creating comic book speech bubbles with SVG and javascript – The Humaan Blog <https://humaan.com/blog/creating-comic-book-speech-bubbles-with-svg-and-javascript/>
 * SVG Repo - Free SVG Vectors and Icons <https://www.svgrepo.com/>
@@ -1724,13 +1664,11 @@
 * SVG: Circle Arc <http://xahlee.info/js/svg_circle_arc.html>
 * A Closer Look at SVG Path Data - SitePoint <https://www.sitepoint.com/closer-look-svg-path-data/>
 * flag-icons <https://flagicons.lipis.dev/>
-* llline → Smooth SVG Line/Stroke Generator <https://fffuel.co/llline/>
 * Flip, Invert, and Reverse <https://yuanchuan.dev/flip-invert-reverse>
 * Plain Pattern <http://www.kennethcachia.com/plain-pattern/app/>
 * Wrapping text inside an SVG using CSS | Jay Freestone <https://www.jayfreestone.com/writing/wrappping-text-inside-svg-css/>
 * Building UI Components With SVG and CSS - Ahmad Shadeed <https://ishadeed.com/article/building-components-svg-css/>
 * The many methods for using SVG icons <https://chenhuijing.com/blog/the-many-methods-for-using-svg-icons/#%F0%9F%A7%97%E2%80%8D%E2%99%80%EF%B8%8F>
-* pppointed → SVG arrow maker for all kinds of decorative arrow styles <https://fffuel.co/pppointed/>
 * Thinking About The Cut-Out Effect: CSS or SVG? - Ahmad Shadeed <https://ishadeed.com/article/thinking-about-the-cut-out-effect/>
 * SVG to CSS converter | SVG Backgrounds <https://www.svgbackgrounds.com/tools/svg-to-css/>
 * Creating SVGs with Processing <https://bjango.com/articles/processingsvg/>
@@ -1747,8 +1685,6 @@
 * Haikei <https://app.haikei.app/>
 * Calligrapher.ai: Realistic computer-generated handwriting <https://www.calligrapher.ai/>
 * Copy-Paste SVG Shapes <https://shapes.framer.website/>
-*  **DUP** SSSVG: An Interactive SVG Reference | fffuel <https://fffuel.co/sssvg/>
-*  **DUP** SSSVG: An Interactive SVG Reference | fffuel <https://fffuel.co/sssvg/>
 * SVG playground <https://css-doodle.com/svg/>
 * Fun with stroke-dasharray <https://yuanchuan.dev/fun-with-stroke-dasharray>
 * Vectorpea | Online Vector Editor <https://www.vectorpea.com/>
@@ -1870,11 +1806,6 @@
 * Flutter - Build apps for any screen <https://flutter.dev/>
 
 
-## twig
-
-* Twig Extensions — Twig-extensions latest documentation <http://twig-extensions.readthedocs.io/en/latest/index.html>
-* Twig Template Form Function and Variable Reference (Symfony 3.4 Docs) <https://symfony.com/doc/3.4/reference/forms/twig_reference.html>
-* Twig <https://twig.symfony.com/doc/3.x/>
 
 
 ## typescript
@@ -1911,17 +1842,6 @@
 * Animated CSS Background Generator | wweb.dev <https://wweb.dev/resources/animated-css-background-generator>
 * UI Guideline - Component Standardization <https://www.uiguideline.com/components>
 * Let’s Make a Rubber Button With HTML, CSS and SVG – Cloud Four <https://cloudfour.com/thinks/rubber-button/>
-
-
-## unix
-
-* Relative symlinks - Thijs Feryn <https://feryn.eu/blog/relative-symlinks/>
-* rsync(1): a fast versatile | Linux Man Page <https://dashdash.io/1/rsync>
-* The Front-End Developer's Guide to the Terminal <https://www.joshwcomeau.com/javascript/terminal-for-js-devs/>
-* How To Use Rsync to Sync Local and Remote Directories | DigitalOcean <https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories>
-* explainshell.com - rsync(1) - a fast, versatile, remote (and local) file-copying tool <https://explainshell.com/explain/1/rsync>
-* The Bash Primer <http://www.compciv.org/bash-guide/>
-* General purpose command-line tools <http://www.compciv.org/unix-tools/>
 
 
 ## ux
@@ -2030,11 +1950,6 @@
 * A Netflix Web Performance Case Study | by Addy Osmani | Dev Channel | Medium <https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9>
 
 
-## vscode
-
-* Visual Studio Tips and tricks: Multi-line and multi-cursor editing - Meziantou's blog <https://www.meziantou.net/visual-studio-tips-and-tricks-multi-line-and-multi-cursor-editing.htm>
-* keyboard-shortcuts-macos.pdf <https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf>
-
 
 ## webdev
 
@@ -2087,19 +2002,13 @@
 * Layout Shift GIF Generator - Cumulative Layout Shift (CLS) Visualiser. <https://defaced.dev/tools/layout-shift-gif-generator/>
 * Structured Data Linter <http://linter.structured-data.org/>
 * Overview  |  Search for Developers  |  Google Developers <https://developers.google.com/search/reference/overview>
-* Measure <https://web.dev/measure/>
-* Web Vitals <https://web.dev/vitals/>
-* Home  |  web.dev <https://web.dev/>
-* Devhints — TL;DR for developer documentation <https://devhints.io/>
 * Performance Budget Calculator <https://www.performancebudget.io/>
 * htpasswd file generator <http://aspirine.org/htpasswd_en.html>
 * Preload, Prefetch And Priorities in Chrome | by Addy Osmani | reloading | Medium <https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf>
 * Getting Started with Eleventy - SitePoint <https://www.sitepoint.com/getting-started-with-eleventy/>
 * Collection of CSS snippets <https://justmarkup.com/log/2018/03/collection-of-css-snippets/>
 * CSS fix for 100vh in mobile WebKit - Matt Smith <https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/>
-* Lint Images <javascript:(function(){!function()%7Bvar%20e%3Ddocument.createElement(%22script%22)%3Be.id%3D%22respimagelint-script%22%2Ce.type%3D%22text%2Fjavascript%22%2Ce.src%3D%22https%3A%2F%2Fausi.github.io%2Frespimagelint%2Fcollector.js%3F%22%2BDate.now()%2Cdocument.body.appendChild(e)%7D()%3B})()>
 * Essential Image Optimization <https://images.guide/>
-* Snap.svg - Home <http://snapsvg.io/>
 * GitHub - typekit/webfontloader: Web Font Loader gives you added control when using linked fonts via @font-face. <https://github.com/typekit/webfontloader>
 * Font Face Observer — fast and simple web font loading <https://fontfaceobserver.com/>
 * Web Font Loading Patterns - Bram Stein <https://www.bramstein.com/writing/web-font-loading-patterns.html#optimise-for-caching>
@@ -2315,16 +2224,6 @@
 * Button | NextUI - Beautiful, fast and modern React UI Library <https://nextui.org/docs/components/button>
 * GraphQL Order By: A Beginner's Guide <https://daily.dev/it/blog/graphql-order-by-a-beginners-guide>
 
-
-## webGL
-
-* wwwtyro.net <https://wwwtyro.net/>
-* WebGL guide <https://xem.github.io/articles/webgl-guide.html>
-* Instanced Line Rendering <https://wwwtyro.net/2019/11/18/instanced-lines.html>
-* Getting started with WebGL - Web APIs | MDN <https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL>
-* wwwtyro.net <https://wwwtyro.net/2021/10/01/instanced-lines-part-2.html>
-* WebGL Water <http://madebyevan.com/webgl-water/>
-* Offscreen Canvas <https://offscreencanvas.com/>
 
 
 ## zzz ???
@@ -2730,8 +2629,6 @@
 * Free Grammar Checker (Online Editor) <https://www.grammarcheck.net/editor/>
 * Free Grammar Checker | QuillBot AI <https://quillbot.com/grammar-check>
 * Color and Contrast.com <https://colorandcontrast.com/#/>
-* hhhue: curated collection of beautiful color palettes | fffuel <https://fffuel.co/hhhue/>
-* Franco Grignani – the first blog about the man and the artist <https://www.francogrignani.info/>
 * index | sitographics <http://www.sitographics.it/index.htm>
 * What was that media query code again?? <https://mediaquery.style/>
 * CSS { In Real Life } | A Handy Use For Cascade Layers <https://css-irl.info/a-handy-use-for-cascade-layers/>

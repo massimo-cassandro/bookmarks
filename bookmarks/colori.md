@@ -64,6 +64,7 @@
 * pppalette: friendly color palette generator for beautiful colors | fffuel <https://fffuel.co/pppalette/>
 * Colordot - A color picker for humans <https://color.hailpixel.com/#DABB90,6840BF,42A136,EAE0F5>
 * Accessible color palette builder <https://line47.com/accessible-color-matrix/>
+* hhhue: curated collection of beautiful color palettes | fffuel <https://fffuel.co/hhhue/>
 
 
 

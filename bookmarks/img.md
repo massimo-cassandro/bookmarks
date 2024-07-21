@@ -3,7 +3,7 @@
 * Squoosh <https://squoosh.app/>
 * RespImageLint - Linter for Responsive Images <https://ausi.github.io/respimagelint/>
 * Responsive Image Breakpoints Generator <https://responsivebreakpoints.com/> 
-
+* iLoveIMG <https://www.iloveimg.com/it>
 
 
 ## Img manipulation
