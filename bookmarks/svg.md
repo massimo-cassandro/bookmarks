@@ -6,6 +6,7 @@
 * SVG Path Visualizer <https://svg-path-visualizer.netlify.app>
 * SVG Stuff <https://sean.brunnock.com/SVG/>
 * SVGOMG - SVGO's Missing GUI <https://jakearchibald.github.io/svgomg/>
+* Free SVG generators, color tools & web design tools <https://www.fffuel.co/>
 
 * Convert2Svg - A Simple Image To SVG Vector Converter <https://convert2svg.com/>
 
