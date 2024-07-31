@@ -8,3 +8,4 @@
 * lbl2cue / cue2lbl <http://grimblefritz.com/audacity/>
 * FreeCAD: Il tuo modellatore 3D parametrico <https://www.freecad.org/index.php?lang=it>
 * OpenSCAD - The Programmers Solid 3D CAD Modeller <https://openscad.org/>
+* Xnapper – The Beautiful Screenshot App for Mac <https://xnapper.com/>
