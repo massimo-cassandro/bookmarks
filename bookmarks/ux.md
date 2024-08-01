@@ -3,7 +3,8 @@
 * Laws of UX <https://lawsofux.com/>
 * Psychology for UX: Study Guide <https://www.nngroup.com/articles/psychology-study-guide/>
 * Neurodiversity Design System <https://neurodiversity.design>
-* Gestalt principles in UI design. <https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965> 
+* Gestalt principles in UI design. <https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965>
+* Infinite scrolling o paginazione? Usabilità a confronto - Luca Rosati <https://www.lucarosati.it/blog/scrolling-infinito-paginazione>
 
 
 ## architettura dell'informazione

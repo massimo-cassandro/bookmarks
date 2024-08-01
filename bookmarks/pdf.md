@@ -10,7 +10,7 @@
 * iLovePDF | Strumenti PDF online gratuiti <https://www.ilovepdf.com/it>
 * Look Scanned <https://lookscanned.io/>
 
-* PDFObject: A JavaScript utility for embedding PDFs <https://pdfobject.com/#the-why>
-* PDF24 Tools: Free PDF solutions for all PDF problems <https://tools.pdf24.org/en/>
+* PDFObject: A JavaScript utility for embedding PDFs <https://pdfobject.com/>
+* PDF24 Tools: Free PDF solutions for all PDF problems <https://tools.pdf24.org/>
 * PDF Tool - HodlSoftware <https://www.pdftool.org/en>
 
