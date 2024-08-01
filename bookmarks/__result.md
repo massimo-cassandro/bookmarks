@@ -664,16 +664,7 @@
 * Tesori d'archivio: un album di decorazioni di fine '800 - Frizzifrizzi <https://www.frizzifrizzi.it/2024/07/08/tesori-darchivio-un-album-di-decorazioni-di-fine-800/>
 
 
-## editor
 
-* TextBuddy for macOS – Faster than your IDE and easier than the command line <https://textbuddy.app/>
-* Quill - Your powerful rich text editor <https://quilljs.com/>
-* inline text editor - A simple javascript WYSIWYG editor <https://felixg.io/products/inline>
-* Stylo - Another kind of rich text editor <https://stylojs.com/>
-* ianstormtaylor/slate: A completely customizable framework for building rich text editors. (Currently in beta.) <https://github.com/ianstormtaylor/slate>
-* Plate <https://platejs.org/>
-* Introduction - Slate <https://docs.slatejs.org/>
-* Zed - Code at the speed of thought <https://zed.dev/>
 
 
 ## email

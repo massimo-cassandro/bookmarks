@@ -17,3 +17,16 @@
 * Everything You Need To Know About Emoji 🍭 — Smashing Magazine <https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/>
 
 * Divido - Accessible SplitText (Nested Tag Support) <https://codepen.io/plankton/pen/WNgYGWg>
+
+
+## editor
+(vedi markdown per altri editor md)
+
+* TextBuddy for macOS – Faster than your IDE and easier than the command line <https://textbuddy.app/>
+* Quill - Your powerful rich text editor <https://quilljs.com/>
+* inline text editor - A simple javascript WYSIWYG editor <https://felixg.io/products/inline>
+* Stylo - Another kind of rich text editor <https://stylojs.com/>
+* ianstormtaylor/slate: A completely customizable framework for building rich text editors. (Currently in beta.) <https://github.com/ianstormtaylor/slate>
+* Plate <https://platejs.org/>
+* Introduction - Slate <https://docs.slatejs.org/>
+* Zed - Code at the speed of thought <https://zed.dev/>
