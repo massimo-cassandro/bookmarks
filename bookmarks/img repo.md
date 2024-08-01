@@ -7,6 +7,7 @@
 * Freepik <https://www.freepik.com/>
 * Shutterstock <https://www.shutterstock.com/>
 * Depositphotos <https://depositphotos.com/>
+* Vecteezy <https://www.vecteezy.com/>
 
 ***
 
