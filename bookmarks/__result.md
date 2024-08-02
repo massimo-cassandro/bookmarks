@@ -2595,3 +2595,139 @@
 * Tesori d'archivio: le decorazioni Art Nouveau di Anton Seder, ispirate alla natura - Frizzifrizzi <https://www.frizzifrizzi.it/2024/02/06/tesori-darchivio-le-decorazioni-art-nouveau-di-anton-seder-ispirate-alla-natura/>
 * Les éléments de l'art arabe - Artvee <https://artvee.com/books/les-elements-de-lart-arabe/>
 * HEX to Pantone - Best Online Tool to Convert HEX Color to Pantone Color <https://codebeautify.org/hex-to-pantone-converter>
+
+
+# front-end 2024
+
+*   **Web Applications**
+    *   [React.js](https://react.dev/)/[Next.js](https://nextjs.org/),
+    *   [Svelte](https://svelte.dev/)/[SveltKit](https://kit.svelte.dev/),
+    *   [Vue.js](https://vuejs.org/)/[Nuxt](https://nuxt.com/),
+    *   [SolidJS](https://www.solidjs.com/)/[SolidStart](https://start.solidjs.com/),
+    *   [Angular](https://angular.io/),
+    *   [Astro](https://astro.build/),
+    *   [Qwik](https://qwik.builder.io/),
+    *   [Lit](https://lit.dev/).
+*   The front-end of **Native Applications from Web Technologies** e.g., [Discord](https://discord.com/download) - A native application from web technologies is a type of software application that runs natively on one or more operating systems (like Windows, macOS, Linux, iOS, and Android) from a single codebase of web technologies (including web application libraries and frameworks). Common development frameworks and patterns in this space include [Electron](https://www.electronjs.org/) for desktop apps [React Native](https://reactnative.dev/) and [Capacitor](https://capacitorjs.com/) for mobile apps and even newer solutions like [Tauri V2](https://beta.tauri.app/start/) that supports both mobile and desktop operating systems. Note that native applications built from web technologies either run web technologies at runtime (e.g., Electron, Tauri) or translate to some degree web technologies into native code and UI's at runtime (e.g., React Native, [NativeScript](https://nativescript.org/)). Additionally, [Progressive Web Apps (PWAs)](https://web.dev/articles/what-are-pwas) can also produce applications that are installable on one or more operating systems with native-like experiences from a single code base of web technologies.
+
+# Design tokens
+
+* https://bradfrost.com/blog/post/the-design-system-ecosystem/
+* https://universaldesignguide.com/universal-design/
+* https://react-spectrum.adobe.com/react-spectrum/getting-started.html
+* https://react-spectrum.adobe.com/index.html
+* https://medium.com/thinking-design/adaptive-color-in-spectrum-adobes-design-system-feeeec89a2c7
+* https://spectrum.adobe.com/
+* https://designsystem.university/templates
+* https://www.figma.com/community/file/1275210165201477676
+* https://redesigningdesign.systems
+* https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems
+* https://www.myndex.com/APCA/
+* https://accessiblepalette.com/
+* https://gka.github.io/chroma.js/
+* https://uxdesign.cc/how-to-create-a-color-ramp-used-in-design-systems-2edd5b93854c
+* https://github.com/ByteByteGoHq/system-design-101
+* https://drive.google.com/file/d/1qXMUXKHaEXnLDOu99GCzTMY2XW6NnPe_/view
+* https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742
+* https://medium.com/razorpay-design/behind-the-scenes-of-designing-a-design-system-component-7969636fabf4
+* https://m3.material.io/foundations/design-tokens/overview
+* https://github.com/salesforce-ux/theo
+* https://uxplanet.org/design-tokens-102-8ac8ede85cfe
+* https://nordhealth.design/
+
+# next / headless wp
+
+
+* https://medium.com/@prithvi128717/creating-a-form-in-react-with-react-hook-form-and-next-js-13-4-5dae780daaef
+* https://www.joshwcomeau.com/react/server-components/
+* https://vercel.com/guides/wordpress-with-vercel
+* https://www.taniarascia.com/graphql-type-system/
+* https://www.wpgraphql.com/
+* https://webdevstudios.github.io/nextjs-wordpress-starter/
+* https://medium.com/kunduzinc/using-headless-wordpress-with-nextjs-3eab760f0433
+* https://dev.to/jeffsalive/a-detailed-guide-on-how-to-build-a-website-with-nextjs-and-headless-wordpress-seo-2023-web-development-4nof
+* https://wpengine.com/builders/build-simple-headless-wordpress-app-next-js-wpgraphql/
+* https://github.com/lukasoppermann/design-tokens
+* https://github.com/salesforce-ux/theo
+* https://spectrum.adobe.com/page/design-tokens/
+* https://stackoverflow.com/questions/71223891/react-and-jsdoc-how-to-document-a-react-component-properly
+* https://www.inkoop.io/blog/a-guide-to-js-docs-for-react-js/
+* https://dev.to/darkmavis1980/how-to-define-objects-with-type-definitions-in-jsdoc-comments-23n1
+
+
+* https://web.dev/patterns?hl=en
+* https://open-props.style/
+* https://developer.chrome.com/blog/css-relative-color-syntax?hl=it
+* https://www.prisma.io/
+* https://fadamakis.com/open-props-a-css-framework-for-the-modern-web-233894019078
+
+
+
+# Your State of JavaScript 2023 Reading List
+
+* Deno Fresh https://fresh.deno.dev/
+* Storybook, The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more! https://storybook.js.org
+* Cypress. Fast, easy and reliable testing for anything that runs in a browser. https://www.cypress.io
+* Testing Library Simple and complete React DOM testing utilities that encourage good testing practices. https://testing-library.com/
+* Playwright Node.js library to automate Chromium, Firefox and WebKit with a single API https://playwright.dev
+* Expo An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. https://docs.expo.io
+* Quasar Responsive Single Page Apps, Server-side Render Apps, Progressive Web Apps, Hybrid Mobile Apps (that look native!) & Electron Apps, all using the same codebase. https://quasar.dev
+* Tauri Build smaller, faster, and more secure desktop applications with a web frontend https://tauri.studio/
+* tsc CLI A superset of JavaScript that compiles to clean JavaScript output. https://www.typescriptlang.org
+* esbuild An extremely fast JavaScript bundler and minifier https://esbuild.github.io/
+* Vite Native-ESM powered web dev build tool. It's fast. https://github.com/vitejs/vite
+* Turbopack https://turbo.build/pack
+* tsup https://tsup.egoist.dev/
+* Biome One toolchain for your web project https://biomejs.dev/
+* npm Workspaces Manage multiple packages from your local file system from within a singular top-level, root package.
+* pnpm Fast, disk space efficient package manager https://pnpm.js.org
+* error.cause The cause data property of an Error instance indicates the specific original cause of the error. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error/cause
+* Regexp Match Indices
+* HTMX https://htmx.org/
+* SolidStart https://start.solidjs.com/
+
+# Your State of React 2023 Reading List
+
+* lazy https://react.dev/reference/react/lazy
+* memo. memo lets you skip re-rendering a component when its props are unchanged. A (Mostly) Complete Guide to React Rendering Behavior blog.isquaredsoftware.com
+* Before You memo() overreacted.io
+* Profiler. <Profiler> lets you measure rendering performance of a React tree programmatically. https://react.dev/reference/react/Profiler
+* useDeferredValue. useDeferredValue is a React Hook that lets you defer updating a part of the UI. https://react.dev/reference/react/useDeferredValue
+* useMemo useMemo is a React Hook that lets you cache the result of a calculation between re-renders. https://react.dev/reference/react/useMemo
+* Understanding useMemo and useCallback (joshwcomeau.com
+* useReducer https://react.dev/reference/react/useReducer
+* useSyncExternalStore useSyncExternalStore is a React Hook that lets you subscribe to an external store. https://react.dev/reference/react/useSyncExternalStore
+* React Server Components https://nextjs.org/docs/getting-started/react-essentials#server-components
+* Making Sense of React Server Components (joshwcomeau.com
+* Server Actions https://nextjs.org/docs/app/api-reference/functions/server-actions
+* startTransition startTransition lets you update the state without blocking the UI. https://react.dev/reference/react/startTransition
+* Suspense https://react.dev/reference/react/Suspense
+* Taint API https://react.dev/reference/react/experimental_taintObjectReference
+* use() Hook https://github.com/reactjs/rfcs/pull/229
+* useFormState https://react.dev/reference/react-dom/hooks/useFormState
+* Ant Design https://ant.design/
+* Chakra UI https://chakra-ui.com/
+* React Aria A library of React Hooks that provides accessible UI primitives for your design system. https://react-spectrum.adobe.com/react-aria/
+* Jotai Primitive, flexible state management for React https://jotai.surge.sh
+* MobX Simple, scalable state management. http://mobx.js.org
+* Recoil An experimental state management library for React apps http://recoiljs.org/
+* Redux Toolkit The official, opinionated, batteries-included toolset for efficient Redux development https://redux-toolkit.js.org/
+* XState State machines and statecharts for the modern web. https://xstate.js.org/docs
+* Zustand Bear necessities for state management in React https://zustand.surge.sh
+* Apollo Client https://www.apollographql.com/docs/react/
+* Relay https://relay.dev/
+* RTK Query https://redux-toolkit.js.org/rtk-query/overview
+* SWR React Hooks library for remote data fetching https://swr.vercel.app
+* TanStack Query (React Query) https://tanstack.com/query/v4
+* tRPC https://trpc.io/
+* Fetch The Fetch API provides a JavaScript interface for accessing and manipulating parts of the protocol, such as requests and responses. It also provides a global fetch() method that provides an easy, logical way to fetch resources asynchronously across the network. https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+* Astro https://astro.build/
+* Gatsby https://www.gatsbyjs.com
+* Redwood Bringing full-stack to the Jamstack. https://redwoodjs.com
+
+# site builders
+
+* https://gohugo.io/
+* https://www.gatsbyjs.com/docs
+* https://www.11ty.dev/
+* https://github.com/craigbuckler/11ty-starter
