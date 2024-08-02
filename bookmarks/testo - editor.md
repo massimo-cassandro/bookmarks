@@ -22,6 +22,8 @@
 ## editor
 (vedi markdown per altri editor md)
 
+https://github.com/JefMari/awesome-wysiwyg-editors
+
 * TextBuddy for macOS – Faster than your IDE and easier than the command line <https://textbuddy.app/>
 * Quill - Your powerful rich text editor <https://quilljs.com/>
 * inline text editor - A simple javascript WYSIWYG editor <https://felixg.io/products/inline>
@@ -30,3 +32,5 @@
 * Plate <https://platejs.org/>
 * Introduction - Slate <https://docs.slatejs.org/>
 * Zed - Code at the speed of thought <https://zed.dev/>
+* https://richtexteditor.com/
+
