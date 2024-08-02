@@ -8,6 +8,7 @@
 * Shutterstock <https://www.shutterstock.com/>
 * Depositphotos <https://depositphotos.com/>
 * Vecteezy <https://www.vecteezy.com/>
+* 123RF <https://it.123rf.com/>
 
 ***
 
