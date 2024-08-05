@@ -75,6 +75,9 @@
 * Comic Mono | comic-mono-font <https://dtinth.github.io/comic-mono-font/>
 * Shantell Sans <https://shantellsans.com/>
 * Gorditas - Google Fonts <https://fonts.google.com/specimen/Gorditas>
+* Commercial Type » Catalog » Eugenio Serif Family <https://commercialtype.com/catalog/eugenio_serif/eugenio_serif/regular>
+* Commercial Type » Catalog » Eugenio Sans Collection <https://commercialtype.com/catalog/eugenio_sans>
+* Commercial Type » Catalog » Ionic Modern Collection <https://commercialtype.com/catalog/ionic_modern>
 
 
 ## Fonts
