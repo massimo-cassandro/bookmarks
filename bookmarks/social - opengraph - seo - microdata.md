@@ -5,10 +5,12 @@
 * Card Validator | Twitter Developers <https://cards-dev.twitter.com/validator>
 * Free Image Resizer for Social Media <https://slide.ly/promo/image-resizer/>
 * The Open Graph protocol <https://ogp.me/>
-  
+
+## seo / analytics
 * The Ultimate Guide to SEO Meta Tags - Moz <https://moz.com/blog/the-ultimate-guide-to-seo-meta-tags>
 * Meta Tags — Preview, Edit and Generate <https://metatags.io/>
 * HEY META - Website Meta Tag Check <https://www.heymeta.com/>
+* sitemaps.org - Protocollo <https://www.sitemaps.org/it/protocol.html>
 
 * Counting unique visitors without using cookies, UIDs or fingerprinting. <https://notes.normally.com/cookieless-unique-visitor-counts/>
 
