@@ -12,7 +12,9 @@
 * HEY META - Website Meta Tag Check <https://www.heymeta.com/>
 * sitemaps.org - Protocollo <https://www.sitemaps.org/it/protocol.html>
 
+---
 * Counting unique visitors without using cookies, UIDs or fingerprinting. <https://notes.normally.com/cookieless-unique-visitor-counts/>
+---
 
 * umami <https://umami.is/>
 * Google Applicance - googleoff / googleon Tags | GeekZilla <http://www.geekzilla.co.uk/ViewC8614968-56ED-4729-9C12-F01677DAC412.htm>
