@@ -17,11 +17,15 @@
 * Collections <https://phuoc.ng/collections/>
 * Textik - ASCII diagrams editor <https://textik.com/#ab4260274eed7516> 
 
+### mysql
+
+* DBeaver Community | Free Universal Database Tool <https://dbeaver.io/>
+* CSV To SQL Converter <https://www.convertcsv.com/csv-to-sql.htm>
+
 
 ## Bookmarklet
 * Bookmarklet Maker <https://caiorss.github.io/bookmarklet-maker/>
 * Make Bookmarklets | Make it easy <https://make-bookmarklets.com/>
-
 
 
 ## device check & list
@@ -35,9 +39,7 @@
 * Chrome DevTools  <https://developers.google.com/web/tools/chrome-devtools/>
 * Google Drive API <https://developers.google.com/drive/api/v3/about-sdk>
 * Netlify <https://app.netlify.com/teams/massimo-cassandro/overview>
+* Firebase Pricing <https://firebase.google.com/pricing>
+  
 
 
-## mysql
-
-* DBeaver Community | Free Universal Database Tool <https://dbeaver.io/>
-* CSV To SQL Converter <https://www.convertcsv.com/csv-to-sql.htm>
