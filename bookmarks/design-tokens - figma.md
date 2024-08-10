@@ -37,13 +37,15 @@
 * https://uxplanet.org/design-tokens-102-8ac8ede85cfe
 * https://nordhealth.design/
 
----
-* https://open-props.style/
 
----
-
+## design tokens & figma
+* Open Props tokens (https://open-props.style/) <https://unpkg.com/open-props/open-props.tokens.json> 
 * Design Tokens Manager | Figma <https://www.figma.com/community/plugin/1263743870981744253/design-tokens-manager>
 
 ---
+
+Altri token manager per fignma:
+
 * lukasoppermann/design-tokens: 🎨 Figma plugin to export design tokens to json in an amazon style dictionary compatible format. <https://github.com/lukasoppermann/design-tokens>
 * Tokens Studio for Figma – Tokens Studio for Figma <https://docs.tokens.studio/>
+* Use Design Tokens – Figma <https://www.figma.com/community/plugin/1222677706892772720/use-design-tokens>
