@@ -9,6 +9,7 @@
 ---
 
 * Design Tokens Technical Reports <https://tr.designtokens.org/>
+* Design Tokens Format Module <https://tr.designtokens.org/format/>
 
 --- 
 
