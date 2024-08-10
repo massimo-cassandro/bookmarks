@@ -96,10 +96,7 @@
 * Character Entity Reference Chart <https://dev.w3.org/html5/html-author/charref>
 * Font Face Observer — fast and simple web font loading <https://fontfaceobserver.com/>
 * GitHub - typekit/webfontloader: Web Font Loader gives you added control when using linked fonts via @font-face. <https://github.com/typekit/webfontloader>
-* Variable Fonts <https://v-fonts.com/>
 * 10 Amazing CSS & JavaScript Text Animation Snippets <https://speckyboy.com/css-javascript-text-animation-snippets/>
-* Variable Fonts Demo <https://caraya.github.io/vfonts-demo/>
-* A Variable Fonts Primer <https://variablefonts.io/>
 * Understanding diacritics | TypeTogether <https://www.type-together.com/understanding-diacritics>
 * Stop Using Icon Fonts by Michael Irigoyen <https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/>
 * Emoji under the hood @ tonsky.me <https://tonsky.me/blog/emoji/>
@@ -115,6 +112,16 @@
 * Modern Font Stacks <https://modernfontstacks.com/>
 * Glyphhanger — a tool to subset and optimize fonts | Stefan Judis Web Development <https://www.stefanjudis.com/notes/glyphhanger-a-tool-subset-and-optimize-fonts/>
 * How to Easily Create a Responsive Vertical Rhythm with CSS - Designmodo <https://designmodo.com/vertical-rhythm/>
+
+---
+
+* Variable Fonts <https://v-fonts.com/>
+* Variable Fonts Demo <https://caraya.github.io/vfonts-demo/>
+* A Variable Fonts Primer <https://variablefonts.io/>
+* Implementing Variable Fonts <https://variablefonts.io/implementing-variable-fonts/>
+* The Benefits and Uses of Variable Fonts | Interactive Microsite <https://www.variable-fonts.com/about>
+* The joy of Variable Fonts: getting started on the Frontend — Martian Chronicles, Evil Martians’ team blog <https://evilmartians.com/chronicles/the-joy-of-variable-fonts-getting-started-on-the-frontend>
+* Variable fonts in real life: how to use and love them—Martian Chronicles, Evil Martians’ team blog <https://evilmartians.com/chronicles/variable-fonts-in-real-life-how-to-use-and-love-them>
 
 
 

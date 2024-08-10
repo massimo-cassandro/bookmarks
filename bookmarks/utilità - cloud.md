@@ -4,9 +4,10 @@
 ## Tools
 
 * Omatsuri <https://omatsuri.app/>
+* Patterns  |  Component patterns  |  web.dev <https://web.dev/patterns?hl=en>
 
 ***
-
+* React Awesome Shapes <https://awesomeshapes.netlify.app/>
 * LottaTools <https://lottatools.com/>
 * DevTools Tips <https://devtoolstips.org/>
 * Download a virtual machine <https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/>
@@ -42,4 +43,15 @@
 * Firebase Pricing <https://firebase.google.com/pricing>
   
 
+## fakers
 
+* Lorem Picsum <https://picsum.photos/>
+* faker.js - generate massive amounts of fake data in node.js and the browser <https://rawgit.com/Marak/faker.js/master/examples/browser/index.html#address>
+* Faker <http://ada.test:8888/_dev/faker/fake_string_generator.html>
+* Faker | Faker <https://fakerjs.dev/>
+
+## snippets managers
+
+* Lepton - A Lean GitHub Gist Client <https://hackjutsu.com/Lepton/>
+* Gisto - Snippets Made Awesome <https://www.gistoapp.com/>
+* DownGit <https://minhaskamal.github.io/DownGit/#/home>

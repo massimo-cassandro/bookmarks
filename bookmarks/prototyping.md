@@ -1,5 +1,21 @@
 # Prototyping
 
+* Tutorials | Framer <https://www.framer.com/tutorials/>
+* Screenshot.Rocks | Create mobile or browser mockups from screenshots <https://screenshot.rocks/>
+* Vertical Rhythm in Sketch | Better Web Type <https://betterwebtype.com/articles/2019/07/02/designing-with-a-baseline-grid-and-vertical-rhythm-in-sketch/>
+* ReacType <https://reactype.io/#download-section>
+* Sketch Repo - Free Sketch App Resources <https://sketchrepo.com/>
+* Penpot - Design Freedom for Teams <https://penpot.app/>
+* Welcome to SketchAppData | SketchAppData <https://sketchappdata.com/>
+* sketch-hq/svgo-compressor: A Plugin that compresses SVG assets using SVGO, right when you export them. <https://github.com/sketch-hq/svgo-compressor>
+* LukeW | Touch Gesture Reference Guide <https://www.lukew.com/ff/entry.asp?1071=>
+* skpm/skpm: 💎📦 A utility to build and publish Sketch plugins <https://github.com/skpm/skpm>
+* Sketch Developer — CocoaScript <https://developer.sketch.com/plugins/cocoascript>
+* Learn React - Framer’s complete guide to React <https://www.framer.com/books/framer-guide-to-react/>
+* Boost Framer Website Template <https://boost.framer.website/>
+
+## Prototyping apps
+
 * Framer <https://framer.com/projects/>
 * Penpot - Design Freedom for Teams <https://design.penpot.app/#>
 * Sketch Cloud - Documents <https://sketch.cloud/documents/all-documents>

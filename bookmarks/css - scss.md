@@ -54,6 +54,7 @@
 * css-loader / modules <https://github.com/webpack-contrib/css-loader#modules>
 * How to configure SCSS modules for Webpack <https://www.developerhandbook.com/webpack/how-to-configure-scss-modules-for-webpack/>
 * What are CSS Modules and why do we need them? | CSS-Tricks - CSS-Tricks <https://css-tricks.com/css-modules-part-1-need/>
+* Demystifying styled-components <https://www.joshwcomeau.com/react/demystifying-styled-components/>
 
 
 ## scss
@@ -82,4 +83,4 @@
 * Extract critical CSS <https://web.dev/extract-critical-css/>
 * GoogleChromeLabs/critters: 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest. <https://github.com/GoogleChromeLabs/critters>
 * Critical CSS? Not So Fast! – CSS Wizardry – Web Performance Optimisation <https://csswizardry.com/2022/09/critical-css-not-so-fast/>
-
+* GoogleChromeLabs/critters: 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest. <https://github.com/GoogleChromeLabs/critters>

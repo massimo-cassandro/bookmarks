@@ -13,5 +13,36 @@
 
 --- 
 
+
+* https://bradfrost.com/blog/post/the-design-system-ecosystem/
+* https://universaldesignguide.com/universal-design/
+* https://react-spectrum.adobe.com/react-spectrum/getting-started.html
+* https://react-spectrum.adobe.com/index.html
+* https://medium.com/thinking-design/adaptive-color-in-spectrum-adobes-design-system-feeeec89a2c7
+* https://spectrum.adobe.com/
+* https://designsystem.university/templates
+* https://www.figma.com/community/file/1275210165201477676
+* https://redesigningdesign.systems
+* https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems
+* https://www.myndex.com/APCA/
+* https://accessiblepalette.com/
+* https://gka.github.io/chroma.js/
+* https://uxdesign.cc/how-to-create-a-color-ramp-used-in-design-systems-2edd5b93854c
+* https://github.com/ByteByteGoHq/system-design-101
+* https://drive.google.com/file/d/1qXMUXKHaEXnLDOu99GCzTMY2XW6NnPe_/view
+* https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742
+* https://medium.com/razorpay-design/behind-the-scenes-of-designing-a-design-system-component-7969636fabf4
+* https://m3.material.io/foundations/design-tokens/overview
+* https://github.com/salesforce-ux/theo
+* https://uxplanet.org/design-tokens-102-8ac8ede85cfe
+* https://nordhealth.design/
+
+---
+
 * lukasoppermann/design-tokens: 🎨 Figma plugin to export design tokens to json in an amazon style dictionary compatible format. <https://github.com/lukasoppermann/design-tokens#push-to-server>
 * Tokens Studio for Figma – Tokens Studio for Figma <https://docs.tokens.studio/>
+
+
+---
+
+* https://open-props.style/

@@ -10,3 +10,9 @@
 * Practical accessibility, part 1: Markup semantics & ARIA | Filament Group, Inc. <https://www.filamentgroup.com/lab/practical-accessibility-1-semantics/>
 * Boolean attributes in HTML and ARIA: what's the difference? <https://hiddedevries.nl/en/blog/2022-01-12-boolean-attributes-in-html-and-aria-whats-the-difference>
 * Making Sense Of WAI-ARIA: A Comprehensive Guide — Smashing Magazine <https://www.smashingmagazine.com/2022/09/wai-aria-guide/>
+
+## inclusive design
+* What is inclusive design? <http://www.inclusivedesigntoolkit.com/whatis/whatis.html>
+* Modify Your Design for Global Audiences: Crosscultural UX Design <https://www.nngroup.com/articles/crosscultural-design/>
+* Playbook for universal design – Universal design methods for more inclusive solutions <https://universaldesignguide.com/>
+

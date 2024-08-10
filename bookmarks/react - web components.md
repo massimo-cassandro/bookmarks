@@ -27,6 +27,17 @@
 * How to use JSON file as a server for fake API in React JS <https://medium.com/how-to-react/how-to-use-json-file-as-a-server-for-fake-api-in-react-js-6b72606023b7>
 * react-beautiful-dnd <https://github.com/atlassian/react-beautiful-dnd>
 * React: How to implement an infinite scroll <https://medium.com/suyeonme/react-how-to-implement-an-infinite-scroll-749003e9896a>
+* How to Cleanup Async Effects in React <https://dmitripavlutin.com/react-cleanup-async-effects/>
+* How to Memoize with React.useMemo() <https://dmitripavlutin.com/react-usememo-hook/>
+* Using OAuth with PKCE Authorization Flow (Proof Key for Code Exchange) | Tania Rascia <https://www.taniarascia.com/oauth-pkce-authorization/>
+* How to update parent state from child component in React | Our Code World <https://ourcodeworld.com/articles/read/409/how-to-update-parent-state-from-child-component-in-react>
+* JedWatson/classnames: A simple javascript utility for conditionally joining classNames together <https://github.com/JedWatson/classnames>
+* React Children And Iteration Methods — Smashing Magazine <https://www.smashingmagazine.com/2021/08/react-children-iteration-methods/>
+* A Guide to React Context and useContext() Hook <https://dmitripavlutin.com/react-context-and-usecontext/>
+* React Tutorial: An Overview and Walkthrough | Tania Rascia <https://www.taniarascia.com/getting-started-with-react/>
+* Redux Tutorial: An Overview and Walkthrough | Tania Rascia <https://www.taniarascia.com/redux-react-guide/>
+* Session Storage and Local Storage in React - RWieruch <https://www.robinwieruch.de/local-storage-react>
+* Why React Re-Renders <https://www.joshwcomeau.com/react/why-react-re-renders/>
 
 ## React frameworks / Librerie
 * React Bootstrap. The most popular front-end framework, rebuilt for React <https://react-bootstrap.github.io/>
