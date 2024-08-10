@@ -38,11 +38,12 @@
 * https://nordhealth.design/
 
 ---
-
-* lukasoppermann/design-tokens: 🎨 Figma plugin to export design tokens to json in an amazon style dictionary compatible format. <https://github.com/lukasoppermann/design-tokens#push-to-server>
-* Tokens Studio for Figma – Tokens Studio for Figma <https://docs.tokens.studio/>
-
+* https://open-props.style/
 
 ---
 
-* https://open-props.style/
+* Design Tokens Manager | Figma <https://www.figma.com/community/plugin/1263743870981744253/design-tokens-manager>
+
+---
+* lukasoppermann/design-tokens: 🎨 Figma plugin to export design tokens to json in an amazon style dictionary compatible format. <https://github.com/lukasoppermann/design-tokens>
+* Tokens Studio for Figma – Tokens Studio for Figma <https://docs.tokens.studio/>
