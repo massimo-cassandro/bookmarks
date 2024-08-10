@@ -6,6 +6,11 @@
   * Style Dictionary: An Open Source Tool for Building Customer Trust Through Design Consistency | AWS Open Source Blog <https://aws.amazon.com/it/blogs/opensource/style-dictionary-trust-design-consistency/>
   * Style Dictionary Playground <https://www.style-dictionary-play.dev/>
 
+---
+
+* Design Tokens Technical Reports <https://tr.designtokens.org/>
+
+--- 
 
 * lukasoppermann/design-tokens: 🎨 Figma plugin to export design tokens to json in an amazon style dictionary compatible format. <https://github.com/lukasoppermann/design-tokens#push-to-server>
 * Tokens Studio for Figma – Tokens Studio for Figma <https://docs.tokens.studio/>
