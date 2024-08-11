@@ -1,7 +1,8 @@
 # Markdown
 
 * Markdown Tables generator - TablesGenerator.com <https://www.tablesgenerator.com/markdown_tables>
-
+---
+* Markdown Guide <https://www.markdownguide.org/>
 * readme.so - Easiest Way to Create A README <https://readme.so/it>
 * MDX <https://mdxjs.com/>
 * Include diagrams in your Markdown files with Mermaid | The GitHub Blog <https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/>
