@@ -29,6 +29,7 @@
 * Atkinson Hyperlegible - Google Fonts <https://fonts.google.com/specimen/Atkinson+Hyperlegible>
 * Avería <http://iotic.com/averia/>
 * Barlow <https://tribby.com/fonts/barlow/>
+   * Barlow - Google Fonts <https://fonts.google.com/?query=barlow>
 * basement grotesque <https://github.com/basementstudio/basement-grotesque>
 * Braun <https://www.iconwerk.com/braun-font.html>
 * Criteria <https://connary.com/criteria.html>
