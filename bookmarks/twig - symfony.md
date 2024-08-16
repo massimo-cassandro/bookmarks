@@ -21,4 +21,5 @@
 * Form Types Reference (Symfony Docs) <https://symfony.com/doc/current/reference/forms/types.html>
 * The HttpFoundation Component (Symfony Docs) <https://symfony.com/doc/current/components/http_foundation.html>
 * Managing CSS and JavaScript (Symfony Docs) <https://symfony.com/doc/current/frontend.html>
+* API Platform: REST and GraphQL framework on top of Symfony and React <https://api-platform.com/>
 

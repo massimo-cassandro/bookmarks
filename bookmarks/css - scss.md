@@ -11,10 +11,11 @@
 * QQ - Quantity Queries Builder <http://quantityqueries.com/>
 * :nth Tester <https://css-tricks.com/examples/nth-child-tester/>
 
+---
 
 * debug horiz scroll bar (https://gist.github.com/cuth/c1ddf2b1ce2fb07e512a)
 
-***
+---
 
 * How To Center a Div <https://www.joshwcomeau.com/css/center-a-div/>
 * Centering in CSS <https://web.dev/articles/centering-in-css>
@@ -84,3 +85,4 @@
 * GoogleChromeLabs/critters: 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest. <https://github.com/GoogleChromeLabs/critters>
 * Critical CSS? Not So Fast! – CSS Wizardry – Web Performance Optimisation <https://csswizardry.com/2022/09/critical-css-not-so-fast/>
 * GoogleChromeLabs/critters: 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest. <https://github.com/GoogleChromeLabs/critters>
+

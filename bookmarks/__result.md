@@ -1,31 +1,3 @@
-## api
-
-* Rogue Amoeba | Quality Audio Software for MacOS <https://rogueamoeba.com/>
-* BlackHole: Route Audio Between Apps <https://existential.audio/blackhole/>
-* MediaHuman Audio Converter - convertitore audio freeware per macOS e Windows <https://www.mediahuman.com/it/audio-converter/>
-* Audacity ® | Free, open source, cross-platform audio software for multi-track recording and editing. <https://www.audacityteam.org/>
-* Rogue Amoeba | Airfoil: Wireless audio around your house <https://rogueamoeba.com/airfoil/mac/>
-* Public APIs — A Directory of Free Public & Open Rest APIs <https://public-apis.io/>
-* Elenco completo delle applicazioni di MediaHuman <https://www.mediahuman.com/it/products.html>
-* CodePen - Sheets API Specials Menu <https://codepen.io/quinlo/full/eQrRMM>
-* API List: A public list of free APIs for programmers <https://apilist.fun/>
-* AudioMass - Audio Editor <https://audiomass.co/>
-* LottaTools <https://lottatools.com/>
-* How to Connect to an API with JavaScript | Tania Rascia <https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/>
-* API Platform: REST and GraphQL framework on top of Symfony and React <https://api-platform.com/>
-* How to Create Actions for Selected Text With the Selection API | CSS-Tricks <https://css-tricks.com/how-to-create-actions-for-selected-text-with-the-selection-api/>
-* SoundJS | A JavaScript library that lets you easily work with HTML5 audio. <https://www.createjs.com/soundjs>
-* Chuck Norris Jokes Api <https://api.chucknorris.io/>
-* Home page | Open-Meteo.com <https://open-meteo.com/en>
-* Сurrent weather and forecast - OpenWeatherMap <https://openweathermap.org/>
-* Puppeteer <https://pptr.dev/>
-* HTML attribute: capture - HTML: HyperText Markup Language | MDN <https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/capture>
-* Endpoint Space <https://www.endpoint.space/>
-* cue2lbl <http://grimblefritz.com/audacity/cue2lbl.php>
-* Sound – Bartosz Ciechanowski <https://ciechanow.ski/sound/>
-* Google Maps Platform Documentation  |  Places API  |  Google Developers <https://developers.google.com/maps/documentation/places/web-service>
-* lbl2cue / cue2lbl <http://grimblefritz.com/audacity/>
-
 
 ## app
 
@@ -39,46 +11,6 @@
 * A Guide to Electron <https://felixrieseberg.com/introducing-electron/>
 
 
-## cloud
-
-* Image and Video Upload, Storage, Optimization and CDN <https://cloudinary.com/>
-* Global Image CDN with Real-time Image Optimization | ImageKit.io <https://imagekit.io/>
-* Image CDN: Resize, Compress and Accelerate • Cloudimage <https://www.cloudimage.io/en/home>
-* imgix - The End-to-End Image Solution <https://imgix.com/>
-* Compact image placeholders <https://blur-hash.com/#/>
-
-
-## cms
-
-* For fast and secure sites | Jamstack <https://jamstack.org/>
-* Moving to a Headless CMS? First Change Your Mindset! | Hacker Noon <https://hackernoon.com/headless-cms-first-change-your-mindset-e9f6d8b6a41e>
-* Going Headless: Use Cases And What It’s Good For — Smashing Magazine <https://www.smashingmagazine.com/2021/03/going-headless-use-cases/>
-* Headless CMS explained in 5 minutes - Storyblok <https://www.storyblok.com/tp/headless-cms-explained>
-* Coupled, Decoupled and Headless Content Management Systems - Storyblok <https://www.storyblok.com/tp/coupled-decoupled-and-headless-content-management-systems>
-*  **DUP** Headless UI – Unstyled, fully accessible UI components <https://headlessui.dev/>
-* Harold - Static sites generator <https://www.haroldjs.com/>
-* Build real-time editing into your React site | Tina <https://tina.io/>
-* Headless CMS: Organize your content for the world - Storyblok <https://www.storyblok.com/>
-* The Jamstack CMS, backed by Git | CloudCannon <https://cloudcannon.com/>
-* Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs <https://jekyllrb.com/>
-* Netlify: Develop & deploy the best web experiences in record time <https://www.netlify.com/>
-* The world’s fastest framework for building websites | Hugo <https://gohugo.io/>
-* ProcessWire: An open source CMS with a powerful API <https://processwire.com/>
-*  **DUP** Headless UI – Unstyled, fully accessible UI components <https://headlessui.dev/>
-* Outstatic - A Static Site CMS for Next.js <https://outstatic.com/>
-* Headless UI - Unstyled, fully accessible UI components <https://headlessui.com/>
-* Primitives – Radix UI <https://www.radix-ui.com/>
-* Reach UI <https://reach.tech/>
-
-
-
-## cookies
-
-* SameSite cookies explained <https://web.dev/samesite-cookies-explained/>
-* State Of GDPR In 2021: Cookie Consent For Designers And Developers — Smashing Magazine <https://www.smashingmagazine.com/2021/03/state-gdpr-2021-cookie-consent-designers-developers/>
-* Understanding browser cookies 🍪 <https://chenhuijing.com/blog/understanding-browser-cookies/#%F0%9F%96%8A>
-* Cookie Consent Kit Banner - Webtools documentation - EC Extranet Wiki <https://webgate.ec.europa.eu/fpfis/wikis/display/webtools/Cookie+Consent+Kit+Banner>
-* js-cookie/js-cookie at latest <https://github.com/js-cookie/js-cookie/tree/latest#readme>
 
 
 ## css
@@ -663,48 +595,6 @@
 * Building a motion design system for a product company | by DUSHYANT DUBEY | Bootcamp <https://bootcamp.uxdesign.cc/building-a-motion-design-system-for-a-product-company-307b34d051e4>
 * Tesori d'archivio: un album di decorazioni di fine '800 - Frizzifrizzi <https://www.frizzifrizzi.it/2024/07/08/tesori-darchivio-un-album-di-decorazioni-di-fine-800/>
 
-
-
-
-## forms
-
-* Selection controls — UI component series | by Taras Bakusevych | UX Collective <https://uxdesign.cc/selection-controls-ui-component-series-3badc0bdb546>
-* http://html5pattern.com/ <http://html5pattern.com/>
-* Styling The Good Ol' Button Element <https://ishadeed.com/article/styling-the-good-old-button/>
-* Geri Reid - Forms best practice <https://gerireid.com/forms.html>
-* Custom Select Styles with Pure CSS - DEV <https://dev.to/5t3ph/custom-select-styles-with-pure-css-4f58>
-* Custom Styling Form Inputs With Modern CSS Features | CSS-Tricks <https://css-tricks.com/custom-styling-form-inputs-with-modern-css-features/>
-* Listboxes vs. Dropdown Lists <https://www.nngroup.com/articles/listbox-dropdown/>
-* Supercharging | Kilian Valkhof <https://kilianvalkhof.com/2020/javascript/supercharging-input-type-number/>
-* Custom, accessible radio/checkbox buttons with perfect alignment | CodyHouse <https://codyhouse.co/blog/post/custom-accessible-radio-checkbox-buttons-vertical-alignment>
-* Inline validation in forms — designing the experience | by Mihael Konjević | WDstack | Medium <https://medium.com/wdstack/inline-validation-in-forms-designing-the-experience-123fb34088ce>
-* HTML Forms: How (and Why) to Prevent Double Form Submissions – Bram.us <https://www.bram.us/2020/11/04/preventing-double-form-submissions/>
-* An accessible toggle | Kitty Giraudel <https://kittygiraudel.com/2021/04/05/an-accessible-toggle/>
-* How to Build HTML Forms Right: Semantics <https://austingil.com/how-to-build-html-forms-right-semantics/>
-* Form Validation: You want :not(:focus):invalid, not :invalid – Bram.us <https://www.bram.us/2021/01/28/form-validation-you-want-notfocusinvalid-not-invalid/>
-* Pure CSS Custom Checkbox Style | Modern CSS Solutions <https://moderncss.dev/pure-css-custom-checkbox-style/>
-* CSS-Only Accessible Dropdown Navigation Menu | Modern CSS Solutions <https://moderncss.dev/css-only-accessible-dropdown-navigation-menu/>
-* Building a Magical 3D button with HTML and CSS <https://www.joshwcomeau.com/animation/3d-button/>
-* Having a Little Fun With Custom Focus Styles | CSS-Tricks <https://css-tricks.com/having-a-little-fun-with-custom-focus-styles/>
-* Usabilità dei form: linee guida - Luca Rosati | Architettura dell'informazione <https://www.lucarosati.it/blog/usabilita-form>
-* Accessible Text Labels For All <https://www.sarasoueidan.com/blog/accessible-text-labels/>
-* A Very Wobbly Liquid SVG Button ✨ <https://codepen.io/georgedoescode/pen/yLgExbV>
-* Formik: Build forms in React, without the tears <https://formik.org/>
-* React Select <https://react-select.com/home>
-* Javascript Input Mask | imaskjs <https://imask.js.org/>
-* Improve Form Slider UX With These 5 Requirements for Slider Interfaces – Articles – Baymard Institute <https://baymard.com/blog/slider-interfaces>
-* Designing The Perfect Slider — Smashing Magazine <https://www.smashingmagazine.com/2017/07/designing-perfect-slider/>
-* Complex Forms Made Simple | SEEK blog | SEEK blog <https://medium.com/seek-blog/complex-forms-made-simple-50754a68a6e2>
-* Learn Forms <https://web.dev/learn/forms/>
-* Final Form <https://final-form.org/>
-* A better segmented control. How we embraced a growth mindset and… | by Runi Goswami | Tap to Dismiss | Medium <https://medium.com/tap-to-dismiss/a-better-segmented-control-9e662de2ef57>
-* The Cleanest Trick for Autogrowing Textareas | CSS-Tricks - CSS-Tricks <https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/>
-* Elastic UI Framework <https://eui.elastic.co/pr_3350/#/>
-* Cleave.js - Format input text content when you are typing <https://nosir.github.io/cleave.js/>
-* One last time: custom styling radio buttons and checkboxes | scottohara.me <https://www.scottohara.me/blog/2021/09/24/custom-radio-checkbox-again.html>
-* https://better-mobile-inputs.netlify.app/ <https://better-mobile-inputs.netlify.app/>
-* 11 HTML best practices for login & sign-up forms—Martian Chronicles, Evil Martians’ team blog <https://evilmartians.com/chronicles/html-best-practices-for-login-and-signup-forms>
-* Select to Proceed. A guide to designing and using… | by Linzi Berry | Tap to Dismiss | Medium <https://medium.com/tap-to-dismiss/select-to-proceed-996d19c8a7a4>
 
 
 
@@ -1485,7 +1375,6 @@
 * GraphQL | A query language for your API <https://graphql.org/>
 * The most popular database for modern apps | MongoDB <https://www.mongodb.com/1>
 * styled-components <https://styled-components.com/>
-* Accordion — Reach UI <https://reach.tech/accordion>
 * Cumulative Layout Shift: Measure and Avoid Visual Instability | Calibre <https://calibreapp.com/blog/cumulative-layout-shift>
 * 5 steps to faster web fonts /// Iain Bean <https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/>
 * lightGallery - Full featured javascript gallery for web and mobile. <https://www.lightgalleryjs.com/>
@@ -1992,7 +1881,6 @@
 * Styling type on the web with variable fonts – Fonts Knowledge - Google Fonts <https://fonts.google.com/knowledge/using_type/styling_type_on_the_web_with_variable_fonts>
 * The package-lock.json file <https://nodejs.dev/learn/the-package-lock-json-file>
 * Here’s what I didn’t know about :where() - Manuel Matuzović <https://www.matuzo.at/blog/2022/heres-what-i-didnt-know-about-where/>
-* BlurHash <https://blurha.sh/>
 * CSS Pseudo Commas: Exploring comma rules in nouns and verbs <https://codepen.io/ShadowShahriar/pen/LYyvVjo>
 *  **DUP** Heroicons <https://heroicons.com/>
 * Use Cases For CSS fit-content - Ahmad Shadeed <https://ishadeed.com/snippet/fit-content/>

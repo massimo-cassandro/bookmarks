@@ -1,35 +1,6 @@
 # Colori
 
 
-## Colori
-* color-mix() <https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color-mix>
-* CSS relative color syntax <https://developer.chrome.com/blog/css-relative-color-syntax/>
-* Simplify Your Color Palette With CSS Color-Mix() <https://www.smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/>
-* Creazione di una combinazione di colori <https://web.dev/articles/building/a-color-scheme?hl=it>
-* Easing Gradients <https://larsenwork.com/easing-gradients/#editor>
-* CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp> 
-* CSS Shadow Palette Generator <https://www.joshwcomeau.com/shadow-palette/>
-* CSS Gradient Generator <https://www.joshwcomeau.com/gradient-generator/>
-* CSS Shadow Gradients — Generator [Fast & Easy] <https://alvarotrigo.com/shadow-gradients/#how-to-use>
-* CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp>
-* Color picker tool - CSS: Cascading Style Sheets | MDN <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool>
-* Sass Color Generator <http://scg.ar-ch.org/>
-* cccreate → carefully curated collection of tools for web creators <https://cccreate.co/>
-* Name that Color - Chirag Mehta : chir.ag <https://chir.ag/projects/name-that-color/#9A0B9A>
-* PleaseJS <https://github.com/Fooidge/PleaseJS>
-* APCA Contrast Calculator <https://www.myndex.com/APCA/>
-* OKLCH Color Picker & Converter <https://oklch.com>
-* Color Review <https://color.review/>
-* HD gradients <https://gradient.style/>
-* Color Hex Color Codes <https://www.color-hex.com/>
-* davidmerfield/randomColor: A tiny script for generating attractive colors <https://github.com/davidmerfield/randomColor>
-* CSS Background Pattern Generator <https://10015.io/tools/css-background-pattern-generator> 
-* How to create a color palette for design systems | by Alex | Medium <https://medium.com/@imperavi/how-to-create-a-color-palette-for-design-systems-a803e90adc15>
-* Designing a colour system. Building multi-brand colour systems… | by Pavel Kiselev | UX Collective <https://uxdesign.cc/designing-colour-system-d9d39f245e01>
-
-
-
-
 ## Palette generators
 * cccolor → clean & simple color picker for web designers <https://fffuel.co/cccolor/>
 * Scale — color scale generator <https://hihayk.github.io/scale/>
@@ -40,7 +11,7 @@
 * EightShapes Contrast Grid <https://contrast-grid.eightshapes.com>
 * Randoma11y - Accessible color combinations <https://randoma11y.com/>
 
-***
+---
 
 * colorate | Strumenti di schema di colori per designer e sviluppatori. <https://colorate.azurewebsites.net/it>
 * Generate - Coolors.co <https://coolors.co/58355e-c216e0-ed89ff-f3afff-b458c4>
@@ -66,6 +37,39 @@
 * Accessible color palette builder <https://line47.com/accessible-color-matrix/>
 * hhhue: curated collection of beautiful color palettes | fffuel <https://fffuel.co/hhhue/>
 * https://developer.chrome.com/blog/css-relative-color-syntax?hl=it
+
+
+## apps
+
+* Contraste <https://contrasteapp.com/>
+* Colour Contrast Analyser (CCA) | TPG – The Accessibility Experts <https://developer.paciellogroup.com/resources/contrastanalyser/>
+
+
+## Colori
+* color-mix() <https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color-mix>
+* CSS relative color syntax <https://developer.chrome.com/blog/css-relative-color-syntax/>
+* Simplify Your Color Palette With CSS Color-Mix() <https://www.smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/>
+* Creazione di una combinazione di colori <https://web.dev/articles/building/a-color-scheme?hl=it>
+* Easing Gradients <https://larsenwork.com/easing-gradients/#editor>
+* CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp> 
+* CSS Shadow Palette Generator <https://www.joshwcomeau.com/shadow-palette/>
+* CSS Gradient Generator <https://www.joshwcomeau.com/gradient-generator/>
+* CSS Shadow Gradients — Generator [Fast & Easy] <https://alvarotrigo.com/shadow-gradients/#how-to-use>
+* CSS filter generator to convert from black to target hex color <https://codepen.io/sosuke/pen/Pjoqqp>
+* Color picker tool - CSS: Cascading Style Sheets | MDN <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool>
+* Sass Color Generator <http://scg.ar-ch.org/>
+* cccreate → carefully curated collection of tools for web creators <https://cccreate.co/>
+* Name that Color - Chirag Mehta : chir.ag <https://chir.ag/projects/name-that-color/#9A0B9A>
+* PleaseJS <https://github.com/Fooidge/PleaseJS>
+* APCA Contrast Calculator <https://www.myndex.com/APCA/>
+* OKLCH Color Picker & Converter <https://oklch.com>
+* Color Review <https://color.review/>
+* HD gradients <https://gradient.style/>
+* Color Hex Color Codes <https://www.color-hex.com/>
+* davidmerfield/randomColor: A tiny script for generating attractive colors <https://github.com/davidmerfield/randomColor>
+* CSS Background Pattern Generator <https://10015.io/tools/css-background-pattern-generator> 
+* How to create a color palette for design systems | by Alex | Medium <https://medium.com/@imperavi/how-to-create-a-color-palette-for-design-systems-a803e90adc15>
+* Designing a colour system. Building multi-brand colour systems… | by Pavel Kiselev | UX Collective <https://uxdesign.cc/designing-colour-system-d9d39f245e01>
 
 
 ## Reference

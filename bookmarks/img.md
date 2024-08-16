@@ -21,6 +21,7 @@
 * Cropper.js <https://fengyuanchen.github.io/cropperjs/>
 
 
+
 ## img segnaposto
 
 * BlurHash <https://blurha.sh/>
@@ -29,6 +30,7 @@
 * Lorem Picsum <https://picsum.photos/>
 * Lorem.space - placeholder image generator <https://lorem.space/>
 * Dynamic Dummy Image Generator - DummyImage.com <https://dummyimage.com/>
+* BlurHash <https://blurha.sh/>
 
 
 ## cloud services
@@ -36,6 +38,7 @@
 * Image and Video Upload, Storage, Optimization and CDN <https://cloudinary.com/>
 * Image CDN: Resize, Compress and Accelerate • Cloudimage <https://www.cloudimage.io/en/home>
 * imgix - The End-to-End Image Solution <https://imgix.com/>
+* Global Image CDN with Real-time Image Optimization | ImageKit.io <https://imagekit.io/>
 
 
 ## software / web apps
@@ -51,7 +54,6 @@
 * Photo Editor | BeFunky: Free Online Photo Editing <https://www.befunky.com/create/photo-editor/>
 * Let's Enhance – free online image upscale and enhancement <https://letsenhance.io/>
 * antonreshetov/image-optimizer: A free and open source tool for optimizing images and vector graphics. <https://github.com/antonreshetov/image-optimizer>
-
 
 ## img
 

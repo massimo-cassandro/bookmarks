@@ -4,6 +4,11 @@
 * fs <https://nodejs.org/dist/latest/docs/api/fs.html>
 * Modules: Packages | Node.js Documentation <https://nodejs.org/api/packages.html#determining-package-manager> 
 
+---
+* Puppeteer <https://pptr.dev/>
+
+---
+
 * SQLite Node.js Tutorial <https://www.sqlitetutorial.net/sqlite-nodejs/>
 * How to Convert HTML to an Image Using Puppeteer in Node.js | CheatCode <https://cheatcode.co/tutorials/how-to-convert-html-to-an-image-using-puppeteer-in-node-js>
 * Develop. Preview. Ship. For the best frontend teams – Vercel <https://vercel.com/>

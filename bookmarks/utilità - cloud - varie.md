@@ -6,7 +6,9 @@
 * Omatsuri <https://omatsuri.app/>
 * Patterns  |  Component patterns  |  web.dev <https://web.dev/patterns?hl=en>
 
-***
+---
+
+* LottaTools <https://lottatools.com/>
 * React Awesome Shapes <https://awesomeshapes.netlify.app/>
 * LottaTools <https://lottatools.com/>
 * DevTools Tips <https://devtoolstips.org/>
@@ -55,3 +57,19 @@
 * Lepton - A Lean GitHub Gist Client <https://hackjutsu.com/Lepton/>
 * Gisto - Snippets Made Awesome <https://www.gistoapp.com/>
 * DownGit <https://minhaskamal.github.io/DownGit/#/home>
+
+## Audio
+* SoundJS | A JavaScript library that lets you easily work with HTML5 audio. <https://www.createjs.com/soundjs>
+* AudioMass - Audio Editor <https://audiomass.co/>
+* Rogue Amoeba | Quality Audio Software for MacOS <https://rogueamoeba.com/>
+* Rogue Amoeba | Airfoil: Wireless audio around your house <https://rogueamoeba.com/airfoil/mac/>
+* BlackHole: Route Audio Between Apps <https://existential.audio/blackhole/>
+* MediaHuman Audio Converter - convertitore audio freeware per macOS e Windows <https://www.mediahuman.com/it/audio-converter/>
+* Audacity ® | Free, open source, cross-platform audio software for multi-track recording and editing. <https://www.audacityteam.org/>
+* Sound – Bartosz Ciechanowski <https://ciechanow.ski/sound/>
+* lbl2cue / cue2lbl <http://grimblefritz.com/audacity/>
+
+
+## Meteo
+* Home page | Open-Meteo.com <https://open-meteo.com/en>
+* Сurrent weather and forecast - OpenWeatherMap <https://openweathermap.org/>

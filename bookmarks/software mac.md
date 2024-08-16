@@ -24,20 +24,14 @@
 * Go2Shell - ZipZapMac <https://zipzapmac.com/Go2Shell>
 * newmarcel/KeepingYouAwake: Prevents your Mac from going to sleep. <https://github.com/newmarcel/KeepingYouAwake>
 * Introduction · macOS Setup Guide <https://sourabhbajaj.com/mac-setup/>
-* GIF Brewery by Gfycat <https://gfycat.com/gifbrewery>
-* Colour Contrast Analyser (CCA) | TPG – The Accessibility Experts <https://developer.paciellogroup.com/resources/contrastanalyser/>
-* ImageAlpha — image minifier (like JPEG with transparency!) <https://pngmini.com/>
-* ImageOptim (Italiano) <https://imageoptim.com/it.html>
 * Getting Started - espanso - Cross-platform Text Expander written in Rust <https://espanso.org/docs/get-started/>
 * node-gyp/macOS_Catalina.md at master · nodejs/node-gyp <https://github.com/nodejs/node-gyp/blob/master/macOS_Catalina.md>
 * CodeKit - THE Mac App for Web Developers <https://codekitapp.com/>
-* ImageOptim — better Save for Web <https://imageoptim.com/mac>
 * qarmin/czkawka: Multi functional app to find duplicates, empty folders, similar images etc. <https://github.com/qarmin/czkawka>
 * Advanced Topic: Setting Custom Exclusions via XML – Backblaze Help <https://help.backblaze.com/hc/en-us/articles/220973007-Advanced-Topic-Setting-Custom-Exclusions-via-XML>
 * Aerial - A free and open-source Mac Screen Saver <https://aerialscreensaver.github.io/>
 * Spline - Design tool for 3D web experiences <https://spline.design/>
 * ff-works (ex iFFmpeg) <https://www.ffworks.net/>
 * IndigoStack - the Mac local dev environment you will love <https://indigostack.app/>
-* Contraste <https://contrasteapp.com/>
 
 

@@ -10,6 +10,7 @@
 * Frappe Charts: Simple and Modern SVG Charts <https://frappe.io/charts>
 * Semiotic is a data visualization framework for React. <https://semiotic.nteract.io/>
 
+---
 
 * Excalidraw <https://excalidraw.com/>
 * Online Diagram Software & Visual Solution | Lucidchart <https://www.lucidchart.com/pages/>

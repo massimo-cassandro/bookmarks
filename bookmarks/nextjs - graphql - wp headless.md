@@ -36,3 +36,11 @@
 * Local - Local WordPress development made simple <https://localwp.com/>
 * Introduction - WpGraphQL Gutenberg Docs <https://wp-graphql-gutenberg.netlify.app/>
 *  <https://www.wpgraphql.com/>
+  
+---
+
+* For fast and secure sites | Jamstack <https://jamstack.org/>
+* Moving to a Headless CMS? First Change Your Mindset! | Hacker Noon <https://hackernoon.com/headless-cms-first-change-your-mindset-e9f6d8b6a41e>
+* Going Headless: Use Cases And What It’s Good For — Smashing Magazine <https://www.smashingmagazine.com/2021/03/going-headless-use-cases/>
+* Headless CMS explained in 5 minutes - Storyblok <https://www.storyblok.com/tp/headless-cms-explained>
+* Coupled, Decoupled and Headless Content Management Systems - Storyblok <https://www.storyblok.com/tp/coupled-decoupled-and-headless-content-management-systems>
