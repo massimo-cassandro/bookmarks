@@ -8,10 +8,11 @@
 * SVGOMG - SVGO's Missing GUI <https://jakearchibald.github.io/svgomg/>
 * Free SVG generators, color tools & web design tools <https://www.fffuel.co/>
 
+---
 * Convert2Svg - A Simple Image To SVG Vector Converter <https://convert2svg.com/>
+* SVGR - Transforms SVG into React Components. - SVGR <https://react-svgr.com/>
 
-
-****
+---
 
 * vivus.js - svg animation <https://maxwellito.github.io/vivus/>
 * Snap.svg - Home <http://snapsvg.io/>
