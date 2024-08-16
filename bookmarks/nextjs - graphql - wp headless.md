@@ -23,9 +23,14 @@
 * https://www.freecodecamp.org/news/app-directory-nextjs/
 * api-platform <https://api-platform.com/>
 * Understanding the GraphQL Type System | Tania Rascia's Personal Website <https://www.taniarascia.com/graphql-type-system/>
-
+---
 * Button | NextUI - Beautiful, fast and modern React UI Library <https://nextui.org/docs/components/button>
 * GraphQL Order By: A Beginner's Guide <https://daily.dev/it/blog/graphql-order-by-a-beginners-guide>
+
+
+## Image Optimization
+* Nextjs image optimization with examples | Refine <https://refine.dev/blog/using-next-image/>
+* Components: <Image> | Next.js <https://nextjs.org/docs/pages/api-reference/components/image>
 
 
 

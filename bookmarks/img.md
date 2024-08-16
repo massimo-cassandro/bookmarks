@@ -33,12 +33,12 @@
 * BlurHash <https://blurha.sh/>
 
 
-## cloud services
+## cloud services / media delivery
 
 * Image and Video Upload, Storage, Optimization and CDN <https://cloudinary.com/>
 * Image CDN: Resize, Compress and Accelerate • Cloudimage <https://www.cloudimage.io/en/home>
 * imgix - The End-to-End Image Solution <https://imgix.com/>
-* Global Image CDN with Real-time Image Optimization | ImageKit.io <https://imagekit.io/>
+* Media delivery and management for high-growth teams | ImageKit.io <https://imagekit.io/>
 
 
 ## software / web apps
