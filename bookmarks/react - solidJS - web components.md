@@ -68,7 +68,9 @@
 # SolidJS
 * SolidJS · Libreria Javascript reattiva <https://www.solidjs.com/>
 
----
+
+
+# framework-agnostic UI component
 
 * Kobalte <https://kobalte.dev>
 * Zag - Rapidly build UI components without sweating over the logic. - Zag <https://zagjs.com/>
