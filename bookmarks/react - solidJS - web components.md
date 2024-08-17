@@ -59,8 +59,17 @@
 
 
 
-
 ## react npm packages
 * https://github.com/ananduremanan/custom-react-npm-module
 * https://itnext.io/how-to-package-your-react-component-for-distribution-via-npm-d32d4bf71b4f
 * https://blog.nonstopio.com/a-step-by-step-guide-to-publishing-your-own-react-npm-package-fa2b7f1d149
+
+
+# SolidJS
+* SolidJS · Libreria Javascript reattiva <https://www.solidjs.com/>
+
+---
+
+* Kobalte <https://kobalte.dev>
+* Zag - Rapidly build UI components without sweating over the logic. - Zag <https://zagjs.com/>
+* SUID <https://suid.io/>
