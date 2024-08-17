@@ -23,3 +23,5 @@
 * Managing CSS and JavaScript (Symfony Docs) <https://symfony.com/doc/current/frontend.html>
 * API Platform: REST and GraphQL framework on top of Symfony and React <https://api-platform.com/>
 
+## php
+* vlucas/phpdotenv: Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. <https://github.com/vlucas/phpdotenv>
