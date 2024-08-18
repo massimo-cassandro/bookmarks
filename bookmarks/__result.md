@@ -1530,7 +1530,6 @@
 * Inspiration for Article Intro Effects <http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/>
 * 10 Inspiring Typography-Based Designs - SitePoint <https://www.sitepoint.com/10-inspiring-typography-based-designs/>
 * Listen to Smooth Jazz and Rain Sounds - JazzAndRain.com <http://www.jazzandrain.com/>
-* GeoNames <http://www.geonames.org/>
 * Cluetrain manifesto - Wikipedia <https://it.wikipedia.org/wiki/Cluetrain_manifesto>
 * Table of contents | mannequin.js <https://boytchev.github.io/mannequin.js/>
 * The Elements of Content Strategy — A Book Apart <http://elements-of-content-strategy.abookapart.com/>

@@ -1,14 +1,32 @@
 
-# Maps / Charts
+# Maps / Charts / Meteo
+
+
+## Charts
 
 * Chart.js | Open source HTML5 Charts for your website <https://www.chartjs.org/>
 * Recharts <https://recharts.org/en-US/>
-* Google Maps API <https://developers.google.com/maps/>
 * Google Charts — Google Developers <https://developers.google.com/chart/>
 * Plus Codes <https://maps.google.com/pluscodes/>
 * Chartist - Simple responsive charts <https://gionkunz.github.io/chartist-js/>
 * Frappe Charts: Simple and Modern SVG Charts <https://frappe.io/charts>
 * Semiotic is a data visualization framework for React. <https://semiotic.nteract.io/>
+
+## Maps
+
+* GeoNames <https://www.geonames.org/>
+* Google Maps API <https://developers.google.com/maps/>
+* Mapbox <https://www.mapbox.com/>
+* Leaflet - a JavaScript library for interactive maps <https://leafletjs.com/>
+* Switch from Google Maps to Mapbox | Help | Mapbox <https://docs.mapbox.com/help/tutorials/google-to-mapbox/>
+* How To Create Maps With React And Leaflet — Smashing Magazine <https://www.smashingmagazine.com/2020/02/javascript-maps-react-leaflet/>
+
+
+## Meteo
+* Open-Meteo.com <https://open-meteo.com/en>
+* Сurrent weather and forecast - OpenWeatherMap <https://openweathermap.org/>
+* weatherstack - Real-Time World Weather REST API <https://weatherstack.com/>
+
 
 ---
 
@@ -29,9 +47,6 @@
 * GitHub - jwilber/roughViz: Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser. <https://github.com/jwilber/roughViz>
 * Latitude and Longitude Finder on Map Get Coordinates <https://www.latlong.net/>
 * Textures.js <https://riccardoscalco.it/textures/>
-* Mapbox <https://www.mapbox.com/>
-* Leaflet - a JavaScript library for interactive maps <https://leafletjs.com/>
-* Switch from Google Maps to Mapbox | Help | Mapbox <https://docs.mapbox.com/help/tutorials/google-to-mapbox/>
 * SVG Charting Libraries | CSS-Tricks <https://css-tricks.com/svg-charting-libraries/>
 * How to Make Charts with SVG | CSS-Tricks <https://css-tricks.com/how-to-make-charts-with-svg/>
 * 04 - Marker SVG element | viewBox Newsletter <https://viewbox.club/tips/04.SVG_Marker_Element.html>
@@ -59,5 +74,6 @@
 * C3.js | D3-based reusable chart library <https://c3js.org/>
 * Learn to build unique charts with React <https://www.react-graph-gallery.com/>
 * chart-doctor/visual-vocabulary at main · Financial-Times/chart-doctor <https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary>
-* How To Create Maps With React And Leaflet — Smashing Magazine <https://www.smashingmagazine.com/2020/02/javascript-maps-react-leaflet/>
+
+
 

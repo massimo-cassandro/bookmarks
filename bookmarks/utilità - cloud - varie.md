@@ -70,6 +70,3 @@
 * lbl2cue / cue2lbl <http://grimblefritz.com/audacity/>
 
 
-## Meteo
-* Home page | Open-Meteo.com <https://open-meteo.com/en>
-* Сurrent weather and forecast - OpenWeatherMap <https://openweathermap.org/>
