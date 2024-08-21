@@ -1,6 +1,6 @@
 # icone 
 
-* The World’s Best Icons – Uniquely Crafted <https://www.streamlinehq.com/>
+* The World’s Best Icons – Uniquely Crafted <https://www.streamlinehq.com/?tab=free>
 * Simple Icons <https://simpleicons.org/>
 * Free Icons | icons.download <https://icons.download/>
 * JAM icons <https://jam-icons.com/>
