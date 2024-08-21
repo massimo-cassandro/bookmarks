@@ -1,5 +1,6 @@
 # icone 
 
+* The World’s Best Icons – Uniquely Crafted <https://www.streamlinehq.com/>
 * Simple Icons <https://simpleicons.org/>
 * Free Icons | icons.download <https://icons.download/>
 * JAM icons <https://jam-icons.com/>
@@ -9,17 +10,24 @@
 * Heroicons <https://heroicons.com/>
 * Font Awesome <https://fontawesome.com/>
 
+---
 
 * SVG Flag Icons <https://nucleoapp.com/svg-flag-icons>
 * flag-icons <https://flagicons.lipis.dev/>
 * Flagpack <https://flagpack.xyz/>
 * Weather Icons - 222 font icons inspired by Font Awesome and designed for Bootstrap <https://erikflowers.github.io/weather-icons/>
 
+---
+
 * Iconset - Free Icons Organizer & Manager for Mac and Windows <https://iconset.io/>
 * Fontello - icon fonts generator <https://fontello.com/>
 * IcoMoon <https://icomoon.io/>
 
+---
+
 * Stop Using Icon Fonts by Michael Irigoyen <https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/>
+
+---
 
 * ICONSVG - Quick customizable SVG icons for your project <https://iconsvg.xyz/#>
 * Feather – Simply beautiful open source icons <https://feathericons.com/>
