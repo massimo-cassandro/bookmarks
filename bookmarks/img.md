@@ -57,6 +57,7 @@
 
 ## img
 
+* Image audit on Google Chrome - Oxyplug <https://www.oxyplug.com/optimization/image-audit-on-google-chrome/>
 * Table of contents | mannequin.js <https://boytchev.github.io/mannequin.js/>
 * JPG vs PNG vs GIF vs SVG. When to use which!!??!? | by Allen | UX Collective <https://uxdesign.cc/jpg-vs-png-vs-gif-vs-svg-aefeca89f61>
 * Responsive images with srcset and sizes <https://medium.com/@woutervanderzee/responsive-images-with-srcset-and-sizes-fc434845e948#.4wys1rvww>
