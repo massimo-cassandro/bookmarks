@@ -57,13 +57,17 @@
 
 ## img
 
-* Image audit on Google Chrome - Oxyplug <https://www.oxyplug.com/optimization/image-audit-on-google-chrome/>
-* Table of contents | mannequin.js <https://boytchev.github.io/mannequin.js/>
+* Responsive Images: Improving performance by letting the browser do the work <https://commerce.nearform.com/blog/2019/responsive-images>
 * JPG vs PNG vs GIF vs SVG. When to use which!!??!? | by Allen | UX Collective <https://uxdesign.cc/jpg-vs-png-vs-gif-vs-svg-aefeca89f61>
 * Responsive images with srcset and sizes <https://medium.com/@woutervanderzee/responsive-images-with-srcset-and-sizes-fc434845e948#.4wys1rvww>
 * Srcset and sizes — ericportis.com <https://ericportis.com/posts/2014/srcset-sizes/>
 * A Guide to the Responsive Images <https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/>
 * Resp imgs w srcset and sizes vs picture <https://learnedia.com/responsive-images-srcset-attribute-picture-element/>
+
+--- 
+
+* Image audit on Google Chrome - Oxyplug <https://www.oxyplug.com/optimization/image-audit-on-google-chrome/>
+* Table of contents | mannequin.js <https://boytchev.github.io/mannequin.js/>
 * AddyOsmani.com - Native image lazy-loading for the web! <https://addyosmani.com/blog/lazy-loading/>
 * Picturefill <http://scottjehl.github.io/picturefill/>
 * Flickity · Touch, responsive, flickable carousels <https://flickity.metafizzy.co/>
