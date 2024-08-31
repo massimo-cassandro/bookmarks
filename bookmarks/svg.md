@@ -25,5 +25,6 @@
 * SVGator <https://www.svgator.com/>
 * Vectorpea <https://www.vectorpea.com/> 
 * SVG: Scalable Vector Graphics | MDN <https://developer.mozilla.org/en-US/docs/Web/SVG>
+* SVG Waves - Instantly generate waves <https://www.svgwaves.io/>
 
 

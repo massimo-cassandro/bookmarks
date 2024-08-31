@@ -13,6 +13,7 @@
 * CSS { In Real Life } | Fun with CSS Motion Path <https://css-irl.info/fun-with-css-motion-path/>
 * cubic-bezier(.17,.67,.83,.67) ✿ cubic-bezier.com <https://cubic-bezier.com/#.17,.67,.83,.67>
 * Animate.css | A cross-browser library of CSS animations. <https://animate.style/#contributors>
-
+* GreenSock <https://greensock.com/>
+* anime.js • JavaScript animation engine <https://animejs.com/>
 
 

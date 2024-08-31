@@ -71,9 +71,8 @@
 * AddyOsmani.com - Infinite Scroll without Layout Shifts <https://addyosmani.com/blog/infinite-scroll-without-layout-shifts/>
 * Browser Default Styles <https://browserdefaultstyles.com/>
 * Parsel: A tiny, permissive CSS selector parser <https://projects.verou.me/parsel/>
-* CSS Gradient Generator <https://cssgradient.io/>
+
 * Box Shadows - Generate CSS Box Shadows <https://box-shadows.co/>
-* CSS Color Gradient Generator: bellissimi gradienti gratis <https://mybrandnewlogo.com/it/generatore-di-sfumatura-di-colore>
 * CSS Generator <http://angrytools.com/css-generator/>
 * Modern CSS Reset / Global Styles <https://www.joshwcomeau.com/css/custom-css-reset/>
 
@@ -85,4 +84,23 @@
 * GoogleChromeLabs/critters: 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest. <https://github.com/GoogleChromeLabs/critters>
 * Critical CSS? Not So Fast! – CSS Wizardry – Web Performance Optimisation <https://csswizardry.com/2022/09/critical-css-not-so-fast/>
 * GoogleChromeLabs/critters: 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest. <https://github.com/GoogleChromeLabs/critters>
+
+## tipografia
+* How to Easily Create a Responsive Vertical Rhythm with CSS - Designmodo <https://designmodo.com/vertical-rhythm/>
+* Fluid Grid Calculator | Utopia <https://utopia.fyi/grid/calculator/>
+
+
+## varie
+* Neumorphism/Soft UI CSS shadow generator <https://neumorphism.io/#55b9f3>
+* Glassmorphism in 2021 | Hype4Academy <https://hype4.academy/articles/design/glassmorphism-in-2021>
+* Glassmorphism CSS Effect Generator - Glass CSS <https://css.glass/>
+* Glassmorphism CSS Generator | Hype4 Academy <https://hype4.academy/tools/glassmorphism-generator>
+* Glassmorphism CSS Generator - Glass UI <https://ui.glass/generator/>
+* Glassmorphism CSS Generator <https://glassmorphism.com/>
+* Claymorphism: Will It Stick Around? — Smashing Magazine <https://www.smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/>
+* Claymorphism in User Interfaces | Hype4Academy <https://hype4.academy/articles/design/claymorphism-in-user-interfaces>
+* Neubrutalism is taking over the web | by Michal Malewicz | Mar, 2022 | UX Collective <https://uxdesign.cc/neubrutalism-is-taking-over-the-web-e9d09e0fe441>
+* Tridimensionality: skeuomorphism, flat design, and neumorphism | by Rodrigo Osornio | May, 2021 | UX Collective <https://uxdesign.cc/tridimensionality-of-skeuomorphism-flat-design-and-neumorphism-bc9d705a5cc7>
+* Neumorphism in user interfaces. How UI trends reach for inspiration… | by Michal Malewicz | UX Collective <https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6>
+* How To Create Claymorphism Using CSS | Hype4Academy <https://hype4.academy/articles/coding/how-to-create-claymorphism-using-css>
 

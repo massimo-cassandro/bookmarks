@@ -1,4 +1,4 @@
-# Utilità - Servizi cloud
+# Utilità - Varie
 
 
 ## Tools
@@ -11,7 +11,6 @@
 * LottaTools <https://lottatools.com/>
 * React Awesome Shapes <https://awesomeshapes.netlify.app/>
 * LottaTools <https://lottatools.com/>
-* DevTools Tips <https://devtoolstips.org/>
 * Download a virtual machine <https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/>
 * Transform (conversione linguaggi, formati...) <https://transform.tools/>
 * View Source <https://neatnik.net/view-source/>
@@ -19,6 +18,8 @@
 * Content Parser Website. Extract markdown, html or text from content-heavy websites <https://content-parser.com/> 
 * Collections <https://phuoc.ng/collections/>
 * Textik - ASCII diagrams editor <https://textik.com/#ab4260274eed7516> 
+* Make a Flippin’ 3D Countdown with CSS & JavaScript | Viget <https://www.viget.com/articles/make-a-flippin-3d-countdown-with-css-and-javascript/>
+
 
 ### mysql
 
@@ -31,19 +32,6 @@
 * Make Bookmarklets | Make it easy <https://make-bookmarklets.com/>
 
 
-## device check & list
-* mydevice.io : web devices capabilities <https://www.mydevice.io/>
-* Support Details [Get Your Browser Version, System Information & More] <https://supportdetails.net/>  
-* What is my screen resolution <https://screenresolutiontest.com/>
-
-## Servizi Cloud
-* reCAPTCHA <https://www.google.com/recaptcha/admin#list>
-* Google Cloud Console <https://console.cloud.google.com/>
-* Chrome DevTools  <https://developers.google.com/web/tools/chrome-devtools/>
-* Google Drive API <https://developers.google.com/drive/api/v3/about-sdk>
-* Netlify <https://app.netlify.com/teams/massimo-cassandro/overview>
-* Firebase Pricing <https://firebase.google.com/pricing>
-  
 
 ## fakers
 

@@ -70,6 +70,11 @@
 * CSS Background Pattern Generator <https://10015.io/tools/css-background-pattern-generator> 
 * How to create a color palette for design systems | by Alex | Medium <https://medium.com/@imperavi/how-to-create-a-color-palette-for-design-systems-a803e90adc15>
 * Designing a colour system. Building multi-brand colour systems… | by Pavel Kiselev | UX Collective <https://uxdesign.cc/designing-colour-system-d9d39f245e01>
+* CSS Gradient Generator <https://cssgradient.io/>
+* UI Gradient Generator: Make Beautiful CSS Gradients [& SVG] <https://learnui.design/tools/gradient-generator.html>
+
+
+
 
 
 ## Reference

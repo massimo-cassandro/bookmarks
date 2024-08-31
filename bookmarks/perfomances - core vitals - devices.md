@@ -1,4 +1,4 @@
-# Accessibilità - Core vitals - Perfomances
+# Accessibilità - Core vitals - Perfomances - devices
 
 
 * search console <https://search.google.com/search-console>
@@ -14,3 +14,11 @@
 * Configure webhint in your project | webhint documentation <https://webhint.io/docs/user-guide/configuring-webhint/summary/>
 * Website Speed Test - Image Analysis Tool by Cloudinary <https://webspeedtest.cloudinary.com/>
 * Web Vitals <https://web.dev/vitals/>
+
+
+## device check & list
+* mydevice.io : web devices capabilities <https://www.mydevice.io/>
+* Support Details [Get Your Browser Version, System Information & More] <https://supportdetails.net/>  
+* What is my screen resolution <https://screenresolutiontest.com/>
+* Screen Sizes | Viewport Sizes and Pixel Densities for Popular Devices <https://screensiz.es/>
+* Screen Size Map <https://www.screensizemap.com/>

@@ -1,290 +1,4 @@
 
-## app
-
-* Eleventy is a simpler static site generator. <https://www.11ty.dev/>
-* Random Data Generator <http://www.randat.com/>
-* Building a Database Driven Eleventy Site <https://www.raymondcamden.com/2021/04/15/building-a-database-driven-eleventy-site>
-* A Guide to Building a Blog in Eleventy <https://www.raymondcamden.com/2022/01/19/a-guide-to-building-a-blog-in-eleventy>
-* Screen Sizes | Viewport Sizes and Pixel Densities for Popular Devices <https://screensiz.es/>
-* Ava Maker | Make your own avatar online <https://avamake.com/>
-* JSON Generator – Tool for generating random data <https://json-generator.com/#generate>
-* A Guide to Electron <https://felixrieseberg.com/introducing-electron/>
-
-
-
-
-## css
-
-* How to Easily Create a Responsive Vertical Rhythm with CSS - Designmodo <https://designmodo.com/vertical-rhythm/>
-* Make a Flippin’ 3D Countdown with CSS & JavaScript | Viget <https://www.viget.com/articles/make-a-flippin-3d-countdown-with-css-and-javascript/>
-* creativetimofficial/tailwind-starter-kit: Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source <https://github.com/creativetimofficial/tailwind-starter-kit>
-* Text warping - Animated <https://codepen.io/lokesh/full/vYXvwGQ>
-* How to Re-Create a Nifty Netflix Animation in CSS | CSS-Tricks <https://css-tricks.com/how-to-re-create-a-nifty-netflix-animation-in-css/>
-* 10 Advanced Image Hover Effects with CSS & JavaScript <https://speckyboy.com/advanced-image-hover-effects/>
-* CSS Card Hover Effects <https://codepen.io/Jhonierpc/pen/MWgBJpy>
-* Animated CSS Blob <https://aworkinprogress.dev/animated-css-blob/>
-* Production-Ready Animation Library for React | Framer Motion <https://www.framer.com/motion/>
-* Venti scene che hanno fatto la storia dell'animazione - Il Post <https://www.ilpost.it/2020/10/10/animazione-scene-vulture/>
-* Exploring the Web Animations API — JavaScript January <https://www.javascriptjanuary.com/blog/exploring-web-animations-api>
-* SVG Waves - Instantly generate waves <https://www.svgwaves.io/>
-* AnimXYZ <https://animxyz.com/>
-* The Making of an Animated Favicon | CSS-Tricks <https://css-tricks.com/the-making-of-an-animated-favicon/>
-* Conic.css - nice, simple conic gradients <https://conic.style/>
-* Smooth Shadow <https://shadows.brumm.af/>
-* Fancy Border Radius Generator <https://9elements.github.io/fancy-border-radius/#35.30.30.30--.>
-* Easing Gradients <https://larsenwork.com/easing-gradients/#editor>
-* The complete guide to CSS media queries | Polypane, The Browser For Building. <https://polypane.app/blog/the-complete-guide-to-css-media-queries/>
-* Learn Z-Index Using a Visualization Tool <https://thirumanikandan.com/posts/learn-z-index-using-a-visualization-tool>
-* The Typekit Blog | Flexible typography with CSS locks <https://blog.typekit.com/2016/08/17/flexible-typography-with-css-locks/>
-* Tim Brown: Molten leading (or, fluid line-height) <https://tbrown.org/notes/2012/02/03/molten-leading-or-fluid-line-height/>
-* Digging Into the Flex Property <https://ishadeed.com/article/css-flex-property/>
-* CSS Grid Template Areas In Action <https://ishadeed.com/article/grid-area/>
-* Understanding CSS Grid: Creating A Grid Container — Smashing Magazine <https://www.smashingmagazine.com/2020/01/understanding-css-grid-container/>
-* Understanding CSS Grid: Grid Lines — Smashing Magazine <https://www.smashingmagazine.com/2020/01/understanding-css-grid-lines/>
-* Understanding CSS Grid: Grid Template Areas — Smashing Magazine <https://www.smashingmagazine.com/understanding-css-grid-template-areas/>
-* GreenSock <https://greensock.com/>
-* anime.js • JavaScript animation engine <https://animejs.com/>
-* UI Gradient Generator: Make Beautiful CSS Gradients [& SVG] <https://learnui.design/tools/gradient-generator.html>
-* Popmotion Pure | A functional, flexible JavaScript animation library <https://popmotion.io/pure/>
-* QQ - Quantity Queries Builder <http://quantityqueries.com/>
-* CSS Gradient Generator <https://cssgradient.io/>
-*  **DUP** Gradient Magic - Fantastic and Unique CSS Gradients <https://www.gradientmagic.com/>
-* Box Shadows - Generate CSS Box Shadows <https://box-shadows.co/>
-* CSS Color Gradient Generator: bellissimi gradienti gratis <https://mybrandnewlogo.com/it/generatore-di-sfumatura-di-colore>
-* CSSFX - Beautifully simple click-to-copy CSS effects <https://cssfx.dev/>
-* matrix3d | transform | CSS3 Generator <http://ds-overdesign.com/transform/matrix3d.html>
-* CSS Transform Generator | MakingCSS <https://makingcss.com/transform.html>
-* Hello, animation! — Animations — HTML Academy <https://css-animations.io/>
-* CSS Animation Libraries | CSS-Tricks <https://css-tricks.com/css-animation-libraries/>
-* CSS { In Real Life } | Fun with CSS Motion Path <https://css-irl.info/fun-with-css-motion-path/>
-* Filmstrip <https://filmstrip.berryscript.com/>
-* GRID: A simple visual cheatsheet for CSS Grid Layout <http://grid.malven.co/>
-* A Complete Guide to Grid | CSS-Tricks <https://css-tricks.com/snippets/css/complete-guide-grid/>
-* Grid by Example - Usage examples of CSS Grid Layout <https://gridbyexample.com/examples/>
-* A Complete Guide to CSS Grid | Codrops CSS Reference <https://tympanus.net/codrops/css_reference/grid/>
-* Compound grid generator <https://codepen.io/michellebarker/full/zYOMYWv>
-* Grid Cheatsheet <https://yoksel.github.io/grid-cheatsheet/>
-* flex (W3C) <https://www.w3.org/TR/css-align-3/#overview>
-* philipwalton/flexbugs: A community-curated list of flexbox issues and cross-browser workarounds for them. <https://github.com/philipwalton/flexbugs>
-* A Complete Guide to Flexbox | CSS-Tricks <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>
-* FLEX: A simple visual cheatsheet for flexbox <http://flexbox.malven.co/>
-* flex | CSS-Tricks <https://css-tricks.com/almanac/properties/f/flex/>
-* Flexbox Cheatsheet <https://yoksel.github.io/flex-cheatsheet/#flex-grow>
-* The Complete Illustrated Flexbox Tutorial – freeCodeCamp.org <https://medium.freecodecamp.org/the-complete-illustrated-flexbox-tutorial-d35c085dbf35>
-* Flexulator <https://www.flexulator.com/>
-* Balancing on a Pivot with Flexbox | CSS-Tricks <https://css-tricks.com/balancing-on-a-pivot-with-flexbox/>
-* BEM Naming Cheat Sheet by 9elements <https://9elements.com/bem-cheat-sheet/>
-* Crossfading Images | CSS transitions, CSS transforms and CSS animation <http://css3.bradshawenterprises.com/cfimg/>
-* A Complete Guide to CSS Media Queries | CSS-Tricks <https://css-tricks.com/a-complete-guide-to-css-media-queries/>
-* A Complete Guide to CSS Gradients | CSS-Tricks <https://css-tricks.com/a-complete-guide-to-css-gradients/>
-* cubic-bezier(.17,.67,.83,.67) ✿ cubic-bezier.com <https://cubic-bezier.com/#.17,.67,.83,.67>
-* Keyframes <https://keyframes.app/>
-* vivus.js - svg animation <https://maxwellito.github.io/vivus/>
-* SVG Animation Creator - No Coding Skills Required | SVGator <https://www.svgator.com/>
-* SVG.js  <https://svgjs.dev/docs/3.1/>
-* Modularscale <https://www.modularscale.com/>
-* 10 Amazing CSS & JavaScript Text Animation Snippets <https://speckyboy.com/css-javascript-text-animation-snippets/>
-* A Modern Typographic Scale ◆ 24 ways <https://24ways.org/2019/a-modern-typographic-scale>
-* The good line-height <https://www.thegoodlineheight.com/>
-* Sass Colour Function Calculator <https://razorltd.github.io/sasscolourfunctioncalculator/>
-* RGB Color Gradient Maker <http://www.perbang.dk/rgbgradient/>
-* SVG Gradient Map Filter <https://yoksel.github.io/svg-gradient-map/#/>
-*  **DUP** Gradient Magic <https://www.gradientmagic.com/>
-* bootlint <javascript:(function(){var%20s=document.createElement(%22script%22);s.onload=function(){bootlint.showLintReportForCurrentDocument([]);};s.src=%22https://maxcdn.bootstrapcdn.com/bootlint/latest/bootlint.min.js%22;document.body.appendChild(s)})();>
-* FileFormat.Info · The Digital Rosetta Stone <http://www.fileformat.info/index.htm>
-* Animockup — Free Animated Mockup Maker <https://animockup.com/>
-* How to Tame Line Height in CSS | CSS-Tricks <https://css-tricks.com/how-to-tame-line-height-in-css/>
-* Creating Morphing Animations with CSS clip-path | by Mikael Ainalem | Bits and Pieces <https://blog.bitsrc.io/creating-morphing-animations-with-css-clip-path-3c3bf5e4335f>
-* How To Create A Particle Trail Animation In JavaScript — Smashing Magazine <https://www.smashingmagazine.com/2020/04/particle-trail-animation-javascript/>
-* Quantity Ordering With CSS — Smashing Magazine <https://www.smashingmagazine.com/2015/07/quantity-ordering-with-css/>
-* Enhancing User Experience With CSS Animations by Stéphanie Walter - UX designer & Mobile Expert. <https://stephaniewalter.design/blog/enhancing-user-experience-with-css-animations/>
-* The Thing With Leading in CSS · Matthias Ott – User Experience Designer <https://matthiasott.com/notes/the-thing-with-leading-in-css>
-* Designing With Reduced Motion For Motion Sensitivities — Smashing Magazine <https://www.smashingmagazine.com/2020/09/design-reduced-motion-sensitivities/>
-* Interaction Media Features and Their Potential (for Incorrect Assumptions) | CSS-Tricks <https://css-tricks.com/interaction-media-features-and-their-potential-for-incorrect-assumptions/>
-* Spring Physics animation in JavaScript <https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/>
-* MaintainableCSS - an approach to writing modular, scalable and maintainable CSS | By Adam Silver <https://maintainablecss.com/>
-* Thinking Outside the Box with CSS Grid - Frontend Horse <https://frontend.horse/articles/thinking-outside-the-box-with-css-grid/>
-* How to make CSS Animations <https://www.imaginarycloud.com/blog/how-to-make-css-animations/>
-* The Raven Technique: One Step Closer to Container Queries | CSS-Tricks <https://css-tricks.com/the-raven-technique-one-step-closer-to-container-queries/>
-* Grid, content re-ordering, and accessibility <https://noti.st/rachelandrew/Mny9Vg/grid-content-re-ordering-and-accessibility>
-* Introducing Sass Modules | CSS-Tricks <https://css-tricks.com/introducing-sass-modules/>
-* Tailwind versus BEM <https://thoughtbot.com/blog/tailwind-versus-bem>
-* A Deep Dive Into CSS Grid minmax() <https://ishadeed.com/article/css-grid-minmax/>
-* Global and Component Style Settings with CSS Variables <https://www.sarasoueidan.com/blog/style-settings-with-css-variables/>
-* Simulating Drop Shadows with the CSS Paint API | CSS-Tricks <https://css-tricks.com/simulating-drop-shadows-with-the-css-paint-api/>
-* JavaScript SlideToggle: jQuery-like SlideToggle in Pure Vanilla JS <https://w3bits.com/javascript-slidetoggle/>
-* Color Theming with CSS Custom Properties and Tailwind | CSS-Tricks <https://css-tricks.com/color-theming-with-css-custom-properties-and-tailwind/>
-* React hover animation effect with React Spring <https://www.joshwcomeau.com/react/boop/>
-* A Practical Overview Of CSS Houdini — Smashing Magazine <https://www.smashingmagazine.com/2020/03/practical-overview-css-houdini/>
-* CSS Houdini Experiments - @iamvdo <https://css-houdini.rocks/>
-* An introduction to the Web Animations API — making a Pie Timer – Ben Frain <https://benfrain.com/an-introduction-to-the-web-animations-api-making-a-pie-timer/>
-* Why Tailwind Isn't for Me - DEV Community <https://dev.to/jaredcwhite/why-tailwind-isn-t-for-me-5c90>
-* Grids Part 1: To grid or not to grid | Sarah Higley <https://sarahmhigley.com/writing/grids-part1/>
-* Grids Part 2: Semantics | Sarah Higley <https://sarahmhigley.com/writing/grids-part2/>
-* How to trigger a CSS animation on scroll <https://coolcssanimation.com/how-to-trigger-a-css-animation-on-scroll/>
-* The Minimum Content Size In CSS Grid <https://ishadeed.com/article/min-content-size-css-grid/>
-* Faking container queries with CSS Grid | Polypane, The Browser For Building. <https://polypane.app/blog/faking-container-queries-with-css-grid/>
-* CSS transitions and hover animations, an interactive guide <https://www.joshwcomeau.com/animation/css-transitions/>
-* CSS Grid Cheat Sheet Illustrated in 2021🎖️ - DEV Community <https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3>
-* The "Gray Dead Zone" of Gradients | CSS-Tricks <https://css-tricks.com/the-gray-dead-zone-of-gradients/>
-* The Ultimate CSS Grid Tutorial for Beginners (With Interactive Examples) <https://www.codeinwp.com/blog/css-grid-tutorial-layout/>
-* CSS Container Queries - CSS: Cascading Style Sheets | MDN <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries>
-* ⚡️ Flash Grid: learn CSS Grid by building a grid system - DEV Community <https://dev.to/codyhouse/flash-grid-learn-css-grid-by-building-a-grid-system-2c4f>
-* Create Responsive Image Effects With CSS Gradients And aspect-ratio — Smashing Magazine <https://www.smashingmagazine.com/2021/02/responsive-image-effects-css-gradients-aspect-ratio/>
-* The Surprising Things That CSS Can Animate / Coder's Block <https://codersblock.com/blog/the-surprising-things-that-css-can-animate/>
-* The Future of CSS: Scroll-Linked Animations with @scroll-timeline (Part 1) – Bram.us <https://www.bram.us/2021/02/23/the-future-of-css-scroll-linked-animations-part-1/>
-* Getting Deep into Shadows | CSS-Tricks <https://css-tricks.com/getting-deep-into-shadows/>
-* Programmatically Generate Images with CSS Painting API | by Viduni Wickramarachchi | Bits and Pieces <https://blog.bitsrc.io/programmatically-generate-images-with-css-painting-api-3b1a860dae3b>
-* Understanding Z-Index in CSS <https://ishadeed.com/article/understanding-z-index/>
-* Managing CSS Z-Index In Large Projects — Smashing Magazine <https://jobs.smashingmagazine.com/2021/02/css-z-index-large-projects/>
-* Exploring @property and its Animating Powers | CSS-Tricks <https://css-tricks.com/exploring-property-and-its-animating-powers/>
-* CSS { In Real Life } | Animating Underlines <https://css-irl.info/animating-underlines/>
-* Monsieur Bézier and his elegant curves | by Eva Schicker | Apr, 2021 | UX Collective <https://uxdesign.cc/monsieur-b%C3%A9zier-and-his-elegant-curves-52769cca1490>
-* Say Hello To CSS Container Queries <https://ishadeed.com/article/say-hello-to-css-container-queries/>
-* fit-content and fit-content() - QuirksBlog <https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html>
-* Component-level art direction with CSS Container Queries <https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/>
-* Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal | CSS-Tricks <https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/>
-* Linearly Scale font-size with CSS clamp() Based on the Viewport | CSS-Tricks <https://css-tricks.com/linearly-scale-font-size-with-css-clamp-based-on-the-viewport/>
-* TweenJS | A JavaScript library for tweening and animating HTML5 and JavaScript properties. <https://www.createjs.com/tweenjs>
-* Advanced CSS Animation Using cubic-bezier() | CSS-Tricks <https://css-tricks.com/advanced-css-animation-using-cubic-bezier/>
-* How to easily add CSS animations to your projects | Go Make Things <https://gomakethings.com/how-to-easily-add-css-animations-to-your-projects/>
-* CSS Container Queries: Use-Cases And Migration Strategies — Smashing Magazine <https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/>
-* CSS Container Queries For Designers - Ahmad Shadeed <https://ishadeed.com/article/container-queries-for-designers/>
-* CSS Layout Generator <https://layout.bradwoods.io/>
-* React-Bootstrap · React-Bootstrap Documentation <https://react-bootstrap.github.io/>
-* twbs/rfs: ✩ Automates responsive resizing ✩ <https://github.com/twbs/rfs>
-* GradientArt | Advanced CSS Gradient Editor <https://gra.dient.art/>
-* Build Complex CSS Transitions using Custom Properties and cubic-bezier() | CSS-Tricks <https://css-tricks.com/build-complex-css-transitions-using-custom-properties-and-cubic-bezier/>
-* Sass Color Generator <http://scg.ar-ch.org/>
-* Glitter text <https://wh0.github.io/2021/04/25/glitter.html>
-* Avatar generator playground - Boring Avatars <https://boringavatars.com/>
-* 100 Beautiful Mesh Gradients - Free Download <https://www.meshgradients.design/>
-* Wicked Backgrounds <https://wickedbackgrounds.com/backgrounds.html>
-* Interactive CSS Grid Generator | Layoutit Grid <https://grid.layoutit.com/>
-* doppler <https://hihayk.github.io/doppler/>
-* Less Absolute Positioning With Modern CSS - Ahmad Shadeed <https://ishadeed.com/article/less-absolute-positioning-modern-css/>
-* Designing Beautiful Shadows in CSS <https://www.joshwcomeau.com/css/designing-shadows/>
-* Grainy Gradients | CSS-Tricks <https://css-tricks.com/grainy-gradients/>
-* Theatre.js - JavaScript Motion Design Library <https://www.theatrejs.com/>
-* Motion One: The Web Animations API for everyone <https://motion.dev/>
-* Atropos - Stunning touch-friendly 3D parallax hover effects <https://atroposjs.com/>
-* CSS Gradient Editor <https://www.cssgradienteditor.com/>
-* Flowrift - Beautifully designed Tailwind CSS UI blocks <https://flowrift.com/w/>
-* Tailwind CSS Cheat Sheet <https://nerdcave.com/tailwind-cheat-sheet>
-* Scroll-Linked Animations With the Web Animations API (WAAPI) and ScrollTimeline | CSS-Tricks <https://css-tricks.com/scroll-linked-animations-with-the-web-animations-api-waapi-and-scrolltimeline/>
-* Free Practical Guide to Web Animation <https://tilda.education/en/web-animation-course>
-* CSS Shadow Palette Generator <https://www.joshwcomeau.com/shadow-palette/>
-* A Handy Little System for Animated Entrances in CSS | CSS-Tricks <https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/>
-* Animate.css | A cross-browser library of CSS animations. <https://animate.style/#contributors>
-* Parallax Powered by CSS Custom Properties - CSS-Tricks <https://css-tricks.com/parallax-powered-by-css-custom-properties/>
-* Smoothly Reverting CSS Animations | Pragmatic Pineapple 🍍 <https://pragmaticpineapple.com/smoothly-reverting-css-animations/>
-* CSS Gradient Generator <https://www.joshwcomeau.com/gradient-generator/>
-* A Primer on Bézier Curves <https://pomax.github.io/bezierinfo/>
-* Auto-Sizing Columns in CSS Grid: `auto-fill` vs `auto-fit` | CSS-Tricks - CSS-Tricks <https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/>
-* @tailwindcss/forms examples <https://tailwindcss-forms.vercel.app/>
-* Tailwind UI - Official Tailwind CSS Components <https://tailwindui.com/>
-* Make Beautiful Gradients in CSS, with linear-gradient, radial-gradient, or conic-gradient. <https://www.joshwcomeau.com/css/make-beautiful-gradients/>
-* CSS Quick Tip: Animating in a newly added element | Stephanie Eckles <https://thinkdobecreate.com/articles/css-animating-newly-added-element/>
-* Flexbox Dynamic Line Separator - Ahmad Shadeed <https://ishadeed.com/article/flexbox-separator/>
-* An Auto-Filling CSS Grid With Max Columns of a Minimum Size | CSS-Tricks - CSS-Tricks <https://css-tricks.com/an-auto-filling-css-grid-with-max-columns/>
-* Gooey Warping SVG Numbers - Frontend Horse <https://frontend.horse/articles/gooey-countdown-svg/>
-* Web Animation Performance Fundamentals – How to Make Your Pages Look Smooth <https://www.freecodecamp.org/news/web-animation-performance-fundamentals/>
-* The Illusion of Motion - Paul Bakaus' blog <https://paulbakaus.com/tutorials/performance/the-illusion-of-motion/>
-* Jank Free: Let's Make the Web Silky Smooth! <http://jankfree.org/>
-* OpenToonz <https://opentoonz.github.io/e/>
-* Executing UX Animations: Duration and Motion Characteristics <https://www.nngroup.com/articles/animation-duration/>
-* A Typing Text Effect with React Hooks | Let's Build UI <https://letsbuildui.dev/articles/a-typing-text-effect-with-react-hooks>
-* Free Open Source Tailwind CSS Components | HyperUI <https://www.hyperui.dev/>
-* Tailwind: The Base, the Components and the Utilities | by Italo Baeza Cabrera | Medium <https://darkghosthunter.medium.com/tailwind-the-base-the-components-and-the-utilities-a81137c52534>
-* Grid Tile Patterns <https://offscreencanvas.com/issues/005/>
-* Building a combined CSS-aspect-ratio-grid <https://9elements.com/blog/combined-aspect-ratio-grid/>
-* Remove unused CSS styles from Bootstrap using PurgeCSS | by Nghia Pham | Dwarves Foundation | Medium <https://medium.com/dwarves-foundation/remove-unused-css-styles-from-bootstrap-using-purgecss-88395a2c5772>
-* AutoAnimate - Add motion to your apps with a single line of code <https://auto-animate.formkit.com/>
-* Star Wars Scene Transition Effects in CSS / Coder's Block <https://codersblock.com/blog/star-wars-scene-transition-effects-in-css/>
-* CSS Shadow Gradients — Generator [Fast & Easy] <https://alvarotrigo.com/shadow-gradients/#how-to-use>
-* UI Buttons <https://ui-buttons.web.app/>
-* CSS border animations <https://web.dev/css-border-animations/>
-* michalzalobny/react-just-parallax: React library for scroll and mousemove parallax effect ✨ Open source, production-ready <https://github.com/michalzalobny/react-just-parallax>
-* https://nilsb.org/2019-02-12-sass-mixins-in-styled-components/ <https://nilsb.org/2019-02-12-sass-mixins-in-styled-components/>
-* react-spring <https://react-spring.dev/>
-* SweetAlert2 - a beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes <https://sweetalert2.github.io/>
-* CSS { In Real Life } | CSS Halftone Patterns <https://css-irl.info/css-halftone-patterns/>
-* CSS { In Real Life } | Is it Time to Ditch the Design Grid? <https://css-irl.info/is-it-time-to-ditch-the-design-grid/>
-* Layout Breakouts with CSS Grid | Ryan Mulligan <https://ryanmulligan.dev/blog/layout-breakouts/>
-* Choreographer-js <https://christinecha.github.io/choreographer-js/>
-* AOS - Animate on scroll library <https://michalsnik.github.io/aos/>
-* Container Queries: Style Queries – Bram.us <https://www.bram.us/2022/10/14/container-queries-style-queries/>
-* CSS { In Real Life } | Masonry? In CSS?! <https://css-irl.info/masonry-in-css/>
-* CSS Grid and Custom Shapes, Part 2 | CSS-Tricks - CSS-Tricks <https://css-tricks.com/css-grid-and-custom-shapes-part-2/>
-* CSS Grid and Custom Shapes, Part 1 | CSS-Tricks - CSS-Tricks <https://css-tricks.com/css-grid-and-custom-shapes-part-1/>
-* Expandable Sections Within a CSS Grid | CSS-Tricks - CSS-Tricks <https://css-tricks.com/expandable-sections-within-a-css-grid/>
-* Use the Right Container Query Syntax | OddBird <https://www.oddbird.net/2022/08/18/cq-syntax/>
-* Patrick / articles / Do you really understand CSS radial-gradients? <https://patrickbrosset.com/articles/2022-10-24-do-you-really-understand-CSS-radial-gradients/>
-* CSS Animated Grid Layouts <https://web.dev/css-animated-grid-layouts/>
-* Accidental Dismissal of Overlays: A Common Mobile Usability Problem <https://www.nngroup.com/articles/accidental-overlay-dismissal/>
-* Fluid Type Scale - Generate responsive font-size variables <https://www.fluid-type-scale.com/calculate?minFontSize=16&minWidth=400&minRatio=1.25&maxFontSize=19&maxWidth=1280&maxRatio=1.333&steps=sm%2Cbase%2Cmd%2Clg%2Cxl%2Cxxl%2Cxxxl&baseStep=base&prefix=font-size&decimals=2&useRems=on&remValue=16&previewFont=Inter>
-* Fluid-responsive font-size calculator <https://websemantics.uk/tools/responsive-font-calculator/>
-* Clamp() Function Calculator | Marc Bacon <https://www.marcbacon.com/tools/clamp-calculator/>
-* Modern Fluid Typography with clamp() | chriskirknielsen <https://chriskirknielsen.com/blog/modern-fluid-typography-with-clamp/>
-* Fluid Typography Calculator <https://royalfig.github.io/fluid-typography-calculator/>
-* Modern Fluid Typography Using CSS Clamp — Smashing Magazine <https://www.smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/>
-* Bootstrap Italia · Bootstrap Italia è un tema Bootstrap 5 per la creazione di applicazioni web nel pieno rispetto delle linee guida di design per i siti internet e i servizi digitali della PA <https://italia.github.io/bootstrap-italia/>
-* Speedy CSS Tip! Animated Gradient Text <https://web.dev/speedy-css-tip-animated-gradient-text/>
-* Learn CSS Subgrid - Ahmad Shadeed <https://ishadeed.com/article/learn-css-subgrid/>
-* CSS Grid and Custom Shapes, Part 3 | CSS-Tricks - CSS-Tricks <https://css-tricks.com/css-grid-and-custom-shapes-part-3/>
-* GRID: A simple visual cheatsheet for CSS Grid Layout <https://grid.malven.co/>
-* FLEX: A simple visual cheatsheet for flexbox <https://flexbox.malven.co/>
-* a11y-color-tokens - npm <https://www.npmjs.com/package/a11y-color-tokens>
-* An Interactive Guide to Flexbox in CSS <https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/>
-* Easing Gradients <https://larsenwork.com/easing-gradients/>
-* CSS mesh gradients generator: Mesher Tool by CSS Hero <https://csshero.org/mesher/>
-* Sailboat UI - Modern UI component library for Tailwind CSS <https://sailboatui.com/>
-* InfiniteGrid - CodeSandbox <https://codesandbox.io/s/infinitegrid-rtuh7b>
-* Gradient Colors Collection Palette - CoolHue 2.0 <https://webkul.github.io/coolhue/>
-* Conic.css - nice, simple conic gradients <https://www.conic.style/>
-* Vanta.js - Animated 3D Backgrounds For Your Website <https://www.vantajs.com/?effect=birds>
-* Unicorn icons | Animated icons for your next project <https://unicornicons.com/>
-* postcss/postcss-cli: CLI for postcss <https://github.com/postcss/postcss-cli>
-* CSS Subgrid | 12 Days of Web <https://12daysofweb.dev/2022/css-subgrid>
-* How to Use PostCSS as a Configurable Alternative to Sass — SitePoint <https://www.sitepoint.com/postcss-sass-configurable-alternative/>
-* clamp() Calculator · Chris Burnell <https://chrisburnell.com/clamp-calculator/>
-* The Gooey Effects With Shader | mofu <https://mofu-dev.com/en/blog/gooey-shader/>
-* The Gooey Effect | CSS-Tricks - CSS-Tricks <https://css-tricks.com/gooey-effect/>
-* Building an animated SVG logo with animejs | Pixelhop <https://www.pixelhop.io/writing/building-an-animated-svg-logo-with-animejs/>
-* Matrix rain effect | Blog | Maarten Hus <https://www.maartenhus.nl/blog/matrix-rain-effect/>
-* An Interactive Guide to CSS Keyframe Animations with @keyframes <https://www.joshwcomeau.com/animation/keyframe-animations/>
-* How to update SVG bezier curves on scroll <https://www.joshwcomeau.com/animation/dynamic-bezier-curves/>
-* Recreating the title effect from creativesouth.com <https://rachsmith.com/recreating-creative-south-title/>
-* Linear easing generator <https://linear-easing-generator.netlify.app/>
-* Using linear() for better animation <https://fullystacked.net/posts/linear/>
-* Tailwind Elements - 500+ free Tailwind CSS components <https://tailwind-elements.com/>
-* Everything You Want To Know About Media Queries and Responsive Design | Kablamo Engineering Blog <https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/>
-* The ultimate guide to proper use of animation in UX | by Taras Skytskyi | UX Collective <https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9>
-* Understanding easing and cubic-bezier curves in CSS - Josh Collinsworth blog <https://joshcollinsworth.com/blog/easing-curves>
-* Ten tips for better CSS transitions and animations - Josh Collinsworth blog <https://joshcollinsworth.com/blog/great-transitions>
-* Last baseline alignment <https://web.dev/last-baseline/>
-* Building a combined CSS-aspect-ratio-grid - 9elements <https://9elements.com/blog/building-a-combined-css-aspect-ratio-grid/>
-* Conditional Border Radius In CSS - Ahmad Shadeed <https://ishadeed.com/article/conditional-border-radius/>
-* Keyframes easings editor | Make non-cubic-bezier easings in CSS <https://easyeasings.com/>
-* 5 steps for systematizing motion design <https://www.designsystems.com/5-steps-for-including-motion-design-in-your-system/>
-* Fit-to-Width Text <https://kizu.dev/fit-to-width-text/>
-* GradientGenerator <https://ggradient.com/>
-* Twelve basic principles of animation - Wikipedia <https://en.m.wikipedia.org/wiki/Twelve_basic_principles_of_animation>
-* Creating Usability with Motion: The UX in Motion Manifesto | by Issara Willenskomer | UX in Motion | Medium <https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc>
-* Optical Toys <https://optical.toys/>
-* Randomness in CSS using trigonometry <https://hypersphere.blog/blog/randomness-in-css-using-trigonometry/>
-* Easing Functions Cheat Sheet <https://easings.net/>
-* Bézier Curves - and the logic behind them | Richard Ekwonye <https://blog.richardekwonye.com/bezier-curves>
-* highlight compliment to a text-shadow effect <https://codepen.io/argyleink/pen/QWzGmXK>
-* How to Control Class Names in Styled Components | by Jennifer Fu | Better Programming <https://betterprogramming.pub/how-to-control-class-names-in-styled-components-72ed4b165cb9>
-* Bootstrap docs <https://getbootstrap.com/docs>
-* Sass: Documentation <https://sass-lang.com/documentation/>
-* Transitions – Material Design 3 <https://m3.material.io/styles/motion/transitions/applying-transitions>
-* Transition animations: a practical guide | by Dongkyu Lee | Oct, 2023 | UX Collective <https://uxdesign.cc/transition-animations-a-practical-guide-5dba4d42f659>
-* Fluid Grid Calculator | Utopia <https://utopia.fyi/grid/calculator/>
-* An Interactive Guide to CSS Grid <https://www.joshwcomeau.com/css/interactive-guide-to-grid/>
-* Tailwind UI Component Library, Kit and Templates | TailGrids <https://tailgrids.com/>
-
 
 ## date
 
@@ -330,7 +44,7 @@
 * Design - Apple Developer <https://developer.apple.com/design/>
 * A comprehensive guide to design systems | Inside Design Blog <https://www.invisionapp.com/inside-design/guide-to-design-systems/>
 * Home | Open UI <https://open-ui.org/>
-* Neumorphism in user interfaces. How UI trends reach for inspiration… | by Michal Malewicz | UX Collective <https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6>
+
 * It's not you. Bad doors are everywhere. - YouTube <https://www.youtube.com/watch?app=desktop&v=yY96hTb8WgI>
 * Rhythm in Web Typography | Better Web Type <https://betterwebtype.com/articles/2018/10/15/rhythm-in-web-typography/>
 * Flexible Captioned Slanted Images ◆ 24 ways <https://24ways.org/2019/flexible-captioned-slanted-images>
@@ -346,8 +60,7 @@
 * Cedar Design System | REI Co-op <https://rei.github.io/rei-cedar-docs/>
 * A Web Developer's Browser | Responsively App <https://responsively.app/>
 * Responsive images with srcset and sizes | by Wouter van der Zee | Medium <https://medium.com/@woutervanderzee/responsive-images-with-srcset-and-sizes-fc434845e948#.4wys1rvww>
-* Glassmorphism CSS Generator <https://glassmorphism.com/>
-* Tools | Service Design Tools <https://servicedesigntools.org/tools>
+
 * Home | The Component Gallery <https://component.gallery/>
 * Design Systems Repo | A Collection of Design System Resources <https://designsystemsrepo.com/>
 * Sticky Headers: 5 Ways to Make Them Better <https://www.nngroup.com/articles/sticky-headers/>
@@ -380,9 +93,6 @@
 * Material Design Color Palette Generator - Material Palette <https://www.materialpalette.com/>
 * Color Tool - Material Design <https://material.io/tools/color/#!/?view.left=0&view.right=0&primary.color=6002ee>
 * hero-generator <https://hero-generator.netlify.app/>
-* Screen Size Map <https://www.screensizemap.com/>
-* Screen Sizes | Viewport Sizes and Pixel Densities for Popular Devices <http://screensiz.es/>
-* Neumorphism/Soft UI CSS shadow generator <https://neumorphism.io/#55b9f3>
 * Awwwards - Website Awards - Best Web Design Trends <https://www.awwwards.com/>
 * 4 CSS layouts without using media queries | Polypane, The Browser For Building. <https://polypane.app/blog/4-css-layouts-without-using-media-queries/>
 * Web Typography News #38: Outlines and overprints <https://mailchi.mp/5c7f089c2fbf/web-typography-news-38-outlines-and-overprints?e=f35587074d>
@@ -421,7 +131,6 @@
 * Free Google Font pairs for your next creative project - fontpair <https://www.fontpair.co/>
 * Typographic Scale Calculator - Pick the right font sizes <https://www.layoutgridcalculator.com/typographic-scale/>
 * Collabora e crea progetti grafici incredibili gratuitamente <https://www.canva.com/it_it/>
-* Tridimensionality: skeuomorphism, flat design, and neumorphism | by Rodrigo Osornio | May, 2021 | UX Collective <https://uxdesign.cc/tridimensionality-of-skeuomorphism-flat-design-and-neumorphism-bc9d705a5cc7>
 * The new responsive: Web design in a component-driven world <https://web.dev/new-responsive/>
 * Killing Eve • - Matt Willey <https://mattwilley.co.uk/Killing-Eve>
 * Primer Design System <https://primer.style/>
@@ -431,7 +140,7 @@
 * Cognitive Bias and the Design Process | Jon Yablonski <https://jonyablonski.com/articles/2021/cognitive-bias-and-the-design-process/>
 * How to design delightful dark themes <https://blog.superhuman.com/how-to-design-delightful-dark-themes/>
 * Pairing fonts – 3 ways to find great typeface combinations – Zeichenschatz <https://www.zeichenschatz.net/typography/pairing-fonts>
-* Glassmorphism CSS Generator - Glass UI <https://ui.glass/generator/>
+
 * Principle of Closure in Visual Design <https://www.nngroup.com/articles/principle-closure/>
 * Meta Theme Color and Trickery | CSS-Tricks <https://css-tricks.com/meta-theme-color-and-trickery/>
 * Building a breadcrumbs component <https://web.dev/building-a-breadcrumbs-component/>
@@ -450,12 +159,10 @@
 * LogoArchive Shop <https://www.logoarchive.shop/>
 * Open Source Color System <https://www.opensourcecolorsystem.design/>
 * Archive - LogoArchive’s Logo Histories <https://www.logohistories.com/archive>
-* Claymorphism: Will It Stick Around? — Smashing Magazine <https://www.smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/>
-* Claymorphism in User Interfaces | Hype4Academy <https://hype4.academy/articles/design/claymorphism-in-user-interfaces>
-* How To Create Claymorphism Using CSS | Hype4Academy <https://hype4.academy/articles/coding/how-to-create-claymorphism-using-css>
+
 * Tools | Hype4Academy <https://hype4.academy/tools>
-* Glassmorphism in 2021 | Hype4Academy <https://hype4.academy/articles/design/glassmorphism-in-2021>
-* Neubrutalism is taking over the web | by Michal Malewicz | Mar, 2022 | UX Collective <https://uxdesign.cc/neubrutalism-is-taking-over-the-web-e9d09e0fe441>
+
+
 * Designing The Perfect Accordion — Smashing Magazine <https://www.smashingmagazine.com/2017/06/designing-perfect-accordion-checklist/>
 * Accordion Icons: Which Signifiers Work Best? <https://www.nngroup.com/articles/accordion-icons/>
 * Designing Better Breadcrumbs — Smashing Magazine <https://www.smashingmagazine.com/2022/04/designing-better-breadcrumbs/>
@@ -539,7 +246,6 @@
 * Riccardo Falcinelli: giudicare dalla copertina - Frizzifrizzi <https://www.frizzifrizzi.it/2023/03/23/riccardo-falcinelli-giudicare-dalla-copertina/>
 * https://mirrorful.com/ <https://mirrorful.com/>
 * Fluid Type Scale - Generate responsive font-size variables <https://www.fluid-type-scale.com/>
-* Proportio.app <https://proportio.app/>
 * Fictional Brands Archive <https://fictionalbrandsarchive.com/>
 * Home - Goldman Sachs Design <https://design.gs.com/home>
 * Dell Design System <https://www.delldesignsystem.com/>
@@ -603,7 +309,6 @@
 * SkyFonts | Fonts.com <https://www.fonts.com/browse/font-tools/skyfonts>
 * Google Drive for Developers  |  Google Developers <https://developers.google.com/drive?authuser=0>
 * How to Use the Google Drive API with JavaScript | by Bret Cameron | Medium <https://medium.com/@bretcameron/how-to-use-the-google-drive-api-with-javascript-57a6cc9e5262>
-* PageSpeed Insights <https://developers.google.com/speed/pagespeed/insights/>
 * Overview  |  Maps JavaScript API  |  Google Developers <https://developers.google.com/maps/documentation/javascript/tutorial>
 * Developer Guide  |  Maps URLs  |  Google Developers <https://developers.google.com/maps/documentation/urls/guide>
 * FontPair - Helps you pair Google Fonts together <https://fontpair.co/>
@@ -1082,8 +787,7 @@
 * Login | AirDroid Web <https://web.airdroid.com/>
 * ffmpeg buddy <https://evanhahn.github.io/ffmpeg-buddy/>
 * Hemingway Editor <https://hemingwayapp.com/>
-* Glassmorphism CSS Effect Generator - Glass CSS <https://css.glass/>
-* Glassmorphism CSS Generator | Hype4 Academy <https://hype4.academy/tools/glassmorphism-generator>
+
 * CSS Transform Functions Visualizer <https://css-transform.moro.es/>
 * Introducing OG Image Generation: Fast, dynamic social card images at the Edge – Vercel <https://vercel.com/blog/introducing-vercel-og-image-generation-fast-dynamic-social-card-images>
 * Fallback Font Generator <https://screenspan.net/fallback>

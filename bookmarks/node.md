@@ -30,3 +30,4 @@
 * SQLite on Node.js with async/await <https://www.scriptol.com/sql/sqlite-async-await.php>
 * The easiest way to get __dirname in Node with ES Modules | Zell Liew <https://zellwk.com/blog/dirname-node-esm/>
 
+* A Guide to Electron <https://felixrieseberg.com/introducing-electron/>
