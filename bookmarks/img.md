@@ -42,7 +42,7 @@
 
 
 ## software / web apps
-
+* gifski — highest-quality GIF converter <https://gif.ski/>
 * GIF Brewery by Gfycat <https://gfycat.com/gifbrewery>
 * ImageAlpha — image minifier (like JPEG with transparency!) <https://pngmini.com/>
 * ImageOptim (Italiano) <https://imageoptim.com/it.html>
