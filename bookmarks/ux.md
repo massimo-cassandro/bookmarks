@@ -5,6 +5,7 @@
 * Neurodiversity Design System <https://neurodiversity.design>
 * Gestalt principles in UI design. <https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965>
 * Infinite scrolling o paginazione? Usabilità a confronto - Luca Rosati <https://www.lucarosati.it/blog/scrolling-infinito-paginazione>
+* It's not you. Bad doors are everywhere. - YouTube <https://www.youtube.com/watch?v=yY96hTb8WgI>
 
 
 ## architettura dell'informazione

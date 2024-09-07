@@ -18,10 +18,15 @@
 * Emoji under the hood @ tonsky.me <https://tonsky.me/blog/emoji/>
 * Everything You Need To Know About Emoji 🍭 — Smashing Magazine <https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/>
 
----
+
+## tools
 
 * Divido - Accessible SplitText (Nested Tag Support) <https://codepen.io/plankton/pen/WNgYGWg>
 * Fit-to-Width Text <https://kizu.dev/fit-to-width-text/>
+
+## tipografia
+* Rhythm in Web Typography | Better Web Type <https://betterwebtype.com/articles/2018/10/15/rhythm-in-web-typography/>
+
 
 ## editor
 (vedi markdown per altri editor md)
