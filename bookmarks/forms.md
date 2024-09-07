@@ -38,4 +38,4 @@
 * https://better-mobile-inputs.netlify.app/ <https://better-mobile-inputs.netlify.app/>
 * 11 HTML best practices for login & sign-up forms—Martian Chronicles, Evil Martians’ team blog <https://evilmartians.com/chronicles/html-best-practices-for-login-and-signup-forms>
 * Select to Proceed. A guide to designing and using… | by Linzi Berry | Tap to Dismiss | Medium <https://medium.com/tap-to-dismiss/select-to-proceed-996d19c8a7a4>
-
+* Tom Select <https://tom-select.js.org/>

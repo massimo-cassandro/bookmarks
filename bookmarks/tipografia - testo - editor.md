@@ -13,11 +13,15 @@
 * Make text fit its parent size using JavaScript <https://dev.to/jankapunkt/make-text-fit-it-s-parent-size-using-javascript-m40>
 * How to create a color ramp used in design systems <https://uxdesign.cc/how-to-create-a-color-ramp-used-in-design-systems-2edd5b93854c>
 
+---
+
 * Emoji under the hood @ tonsky.me <https://tonsky.me/blog/emoji/>
 * Everything You Need To Know About Emoji 🍭 — Smashing Magazine <https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/>
 
-* Divido - Accessible SplitText (Nested Tag Support) <https://codepen.io/plankton/pen/WNgYGWg>
+---
 
+* Divido - Accessible SplitText (Nested Tag Support) <https://codepen.io/plankton/pen/WNgYGWg>
+* Fit-to-Width Text <https://kizu.dev/fit-to-width-text/>
 
 ## editor
 (vedi markdown per altri editor md)

@@ -44,7 +44,8 @@
 * Understanding Z-Index in CSS <https://ishadeed.com/article/understanding-z-index/>
 * Managing CSS Z-Index In Large Projects — Smashing Magazine <https://jobs.smashingmagazine.com/2021/02/css-z-index-large-projects/>
 * Remove unused CSS styles from Bootstrap using PurgeCSS  <https://medium.com/dwarves-foundation/remove-unused-css-styles-from-bootstrap-using-purgecss-88395a2c5772>
-
+* How to Fix Issues With CSS Position Sticky Not Working? - Designcise <https://www.designcise.com/web/tutorial/how-to-fix-issues-with-css-position-sticky-not-working>
+  
 
 ## CSS modules / Styled Components
 * 💅 Styled Components Mixins | ⚡maddev <https://maddev.netlify.app/development/styled_components_mixins/>
@@ -72,6 +73,9 @@
 * AddyOsmani.com - Infinite Scroll without Layout Shifts <https://addyosmani.com/blog/infinite-scroll-without-layout-shifts/>
 * Browser Default Styles <https://browserdefaultstyles.com/>
 * Parsel: A tiny, permissive CSS selector parser <https://projects.verou.me/parsel/>
+* Find the elements that are causing a horizontal scroll. Based on http://css-tricks.com/findingfixing-unintended-body-overflow/ <https://gist.github.com/massimo-cassandro/4dec6ca6c03482a26e9c9c1dde416c0a>
+
+---
 
 * Box Shadows - Generate CSS Box Shadows <https://box-shadows.co/>
 * CSS Generator <http://angrytools.com/css-generator/>
@@ -91,7 +95,7 @@
 * Fluid Grid Calculator | Utopia <https://utopia.fyi/grid/calculator/>
 
 
-## varie
+## -isms
 * Neumorphism/Soft UI CSS shadow generator <https://neumorphism.io/#55b9f3>
 * Glassmorphism in 2021 | Hype4Academy <https://hype4.academy/articles/design/glassmorphism-in-2021>
 * Glassmorphism CSS Effect Generator - Glass CSS <https://css.glass/>

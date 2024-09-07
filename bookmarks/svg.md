@@ -26,5 +26,4 @@
 * Vectorpea <https://www.vectorpea.com/> 
 * SVG: Scalable Vector Graphics | MDN <https://developer.mozilla.org/en-US/docs/Web/SVG>
 * SVG Waves - Instantly generate waves <https://www.svgwaves.io/>
-
-
+* SSSVG: An Interactive SVG Reference | fffuel <https://www.fffuel.co/sssvg/>

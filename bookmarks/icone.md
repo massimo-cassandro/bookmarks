@@ -61,3 +61,4 @@
 * Iconbuddy — 180K+ open source icons <https://iconbuddy.app/>
 * Icon Font & SVG Icon Sets ❍ IcoMoon <https://icomoon.io/>
 * Free Icons <https://nucleoapp.com/free-icons>
+* Free Icons | icons.download <https://icons.download/>

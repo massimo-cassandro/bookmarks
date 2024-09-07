@@ -806,7 +806,6 @@
 * Fancy Border Radius Generator <https://9elements.github.io/fancy-border-radius/>
 * cron-job.org Console <https://console.cron-job.org/dashboard>
 * Glyphhanger — a tool to subset and optimize fonts | Stefan Judis Web Development <https://www.stefanjudis.com/notes/glyphhanger-a-tool-subset-and-optimize-fonts/>
-* rviscomi/capo.js: Get your <head> in order <https://github.com/rviscomi/capo.js>
 * prettier/prettier-vscode: Visual Studio Code extension for Prettier <https://github.com/prettier/prettier-vscode>
 * Font size calculator <https://www.leserlich.info/werkzeuge/schriftgroessenrechner/index-en.php>
 * WhoCanUse <https://www.whocanuse.com/?trk=feed-detail_main-feed-card-text>
@@ -844,7 +843,6 @@
 * How to Implement and Style the Dialog Element - Codrops <https://tympanus.net/codrops/2021/10/06/how-to-implement-and-style-the-dialog-element/>
 * Custom Right-Click (Context) Menu <https://codepen.io/knyttneve/pen/YzxEBew>
 * Accessible hamburger buttons without JavaScript - Pausly blog <https://www.pausly.app/blog/accessible-hamburger-buttons-without-javascript>
-* Tom Select <https://tom-select.js.org/>
 * Blur Background CSS Generator | wweb.dev <https://wweb.dev/resources/blur-background-css-generator>
 * Animated CSS Background Generator | wweb.dev <https://wweb.dev/resources/animated-css-background-generator>
 * UI Guideline - Component Standardization <https://www.uiguideline.com/components>
@@ -1536,7 +1534,6 @@
 * CSS { In Real Life } | Toggling CSS Custom Properties with Radio Buttons <https://css-irl.info/toggling-css-custom-properties-with-radio-buttons/>
 * Is Vendor Prefixing Dead? | CSS-Tricks <https://css-tricks.com/is-vendor-prefixing-dead/>
 * Fontsource <https://fontsource.org/>
-* How to Fix Issues With CSS Position Sticky Not Working? - Designcise <https://www.designcise.com/web/tutorial/how-to-fix-issues-with-css-position-sticky-not-working>
 * How I Structure My CSS (for Now) · Matthias Ott – User Experience Designer <https://matthiasott.com/notes/how-i-structure-my-css>
 * Learn CSS <https://web.dev/learn/css/>
 * How to Create Neon Text With CSS | CSS-Tricks <https://css-tricks.com/how-to-create-neon-text-with-css/>
