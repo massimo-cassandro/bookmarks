@@ -65,6 +65,7 @@
 ## Varie
 * Clippy — CSS clip-path maker <https://bennettfeely.com/clippy/>
 * CSS scroll Shadows <https://css-scroll-shadows.now.sh/?bgColor=d8673a&shadowColor=222222&pxSize=5>
+* Scroll Shadows With JavaScript | CSS-Tricks <https://css-tricks.com/scroll-shadows-with-javascript/>
 * Glassmorphism CSS Generator <https://glassmorphism.com/>
 * How to Get and Set CSS Variable Values with JavaScript <https://davidwalsh.name/css-variables-javascript>
 * A mighty, modern style linter · stylelint <https://stylelint.io/>
