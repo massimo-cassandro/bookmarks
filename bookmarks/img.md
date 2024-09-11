@@ -63,6 +63,8 @@
 * Srcset and sizes — ericportis.com <https://ericportis.com/posts/2014/srcset-sizes/>
 * A Guide to the Responsive Images <https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/>
 * Resp imgs w srcset and sizes vs picture <https://learnedia.com/responsive-images-srcset-attribute-picture-element/>
+* Preload responsive images  |  Articles  |  web.dev <https://web.dev/articles/preload-responsive-images>
+
 
 --- 
 
