@@ -26,5 +26,4 @@
 * Atomizer | An unopinionated CSS utility library for modern websites. <https://acss.io/>
 * TACHYONS - Css Toolkit <https://tachyons.io/>
 * </> htmx - high power tools for html <https://htmx.org/>
-* What is SolidStart? <https://start.solidjs.com/getting-started/what-is-solidstart>
 * Vanilla documentation <https://vanillaframework.io/>
