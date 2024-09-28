@@ -24,6 +24,7 @@
 
 
 ## fonts interessanti
+* Connary Fagen:Cartograph <https://connary.com/cartograph.html>
 * AdapterPE <https://rosettatype.com/AdapterPE>
 * Archivo <https://www.omnibus-type.com/fonts/archivo/>
 * Atkinson Hyperlegible - Google Fonts <https://fonts.google.com/specimen/Atkinson+Hyperlegible>
