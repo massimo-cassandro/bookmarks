@@ -5,6 +5,7 @@
 
 * Omatsuri <https://omatsuri.app/>
 * Patterns  |  Component patterns  |  web.dev <https://web.dev/patterns?hl=en>
+* agneym/playground: A simple playground for HTML, CSS and JavaScript supporting module imports. <https://github.com/agneym/playground>
 
 ---
 
