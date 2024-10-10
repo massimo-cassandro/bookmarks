@@ -1,4 +1,9 @@
 # Software / Mac / Applicazioni web / Add-ons
+
+* IndigoStack | IndigoStack <https://indigostack.app/>
+
+***
+  
 * espanso - Cross-platform Text Expander written in Rust <https://espanso.org/>
 * Markwhen. Professional planning and calendar-ing tools.  <https://markwhen.com/> 
 * Lighthouse Liner Illustrator Brushes | Unique Illustrator Add-Ons ~ Creative Market <https://creativemarket.com/pixel-buddha/4646802-Lighthouse-Liner-Illustrator-Brushes>
@@ -10,6 +15,7 @@
 * OpenSCAD - The Programmers Solid 3D CAD Modeller <https://openscad.org/>
 * Xnapper – The Beautiful Screenshot App for Mac <https://xnapper.com/>
 
+***
 
 * KeepingYouAwake: Prevents your Mac from going to sleep <https://keepingyouawake.app/>
 * IntelliScape Solutions <https://intelliscapesolutions.com/apps/caffeine>
