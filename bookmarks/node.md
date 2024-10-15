@@ -1,4 +1,9 @@
 # NodeJS
+
+* Output | webpack <https://webpack.js.org/configuration/output/#template-strings>
+
+---
+
 * Introduction to Node.js <https://nodejs.dev/learn>
 * Api index <https://nodejs.org/dist/latest/docs/api/>
 * fs <https://nodejs.org/dist/latest/docs/api/fs.html>
@@ -29,5 +34,7 @@
 * API · TryGhost/node-sqlite3 Wiki <https://github.com/TryGhost/node-sqlite3/wiki/API>
 * SQLite on Node.js with async/await <https://www.scriptol.com/sql/sqlite-async-await.php>
 * The easiest way to get __dirname in Node with ES Modules | Zell Liew <https://zellwk.com/blog/dirname-node-esm/>
+
+---
 
 * A Guide to Electron <https://felixrieseberg.com/introducing-electron/>
