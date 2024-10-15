@@ -1,6 +1,6 @@
 # NodeJS
 
-* Output | webpack <https://webpack.js.org/configuration/output/#template-strings>
+* Output: placeholders | webpack <https://webpack.js.org/configuration/output/#template-strings>
 
 ---
 
