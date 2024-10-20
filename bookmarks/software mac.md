@@ -39,5 +39,6 @@
 * Spline - Design tool for 3D web experiences <https://spline.design/>
 * ff-works (ex iFFmpeg) <https://www.ffworks.net/>
 * IndigoStack - the Mac local dev environment you will love <https://indigostack.app/>
+* noDRM/DeDRM_tools: DeDRM tools for ebooks <https://github.com/noDRM/DeDRM_tools>
 
 
