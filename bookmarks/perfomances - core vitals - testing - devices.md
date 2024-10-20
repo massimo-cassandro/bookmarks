@@ -27,3 +27,4 @@
 ***
 
 * MobileMoxie - Mobile & Digital Marketing Tools - SEO/ASO Experts <https://mobilemoxie.com/>
+* Smartphone simulator on computer - test your mobile site <https://www.webmobilefirst.com/en/>
