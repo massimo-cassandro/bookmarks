@@ -19,6 +19,7 @@
 * AVIF Converter - unlimited free conversions | avif.io ✨ <https://avif.io/>
 * Calligrapher.ai: Realistic computer-generated handwriting <https://www.calligrapher.ai/>
 * Cropper.js <https://fengyuanchen.github.io/cropperjs/>
+* squoosh/libsquoosh at dev · GoogleChromeLabs/squoosh <https://github.com/GoogleChromeLabs/squoosh/tree/dev/libsquoosh>
 
 
 
