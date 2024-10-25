@@ -41,7 +41,7 @@
 
 * Lorem Picsum <https://picsum.photos/>
 * faker.js - generate massive amounts of fake data in node.js and the browser <https://rawgit.com/Marak/faker.js/master/examples/browser/index.html#address>
-* Faker <http://ada.test:8888/_dev/faker/fake_string_generator.html>
+* Faker <https://massimo-cassandro.github.io/area-test/2019-01-faker/index.html>
 * Faker | Faker <https://fakerjs.dev/>
 
 ## snippets managers
