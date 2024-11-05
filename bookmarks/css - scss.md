@@ -10,9 +10,10 @@
 * ✿ dabblet.com <http://dabblet.com/> 
 * QQ - Quantity Queries Builder <http://quantityqueries.com/>
 * :nth Tester <https://css-tricks.com/examples/nth-child-tester/>
-
+  
 ---
 
+* How to Fix Issues With CSS Position Sticky Not Working? - Designcise <https://www.designcise.com/web/tutorial/how-to-fix-issues-with-css-position-sticky-not-working>
 * debug horiz scroll bar (https://gist.github.com/cuth/c1ddf2b1ce2fb07e512a)
 
 ---
@@ -44,7 +45,6 @@
 * Understanding Z-Index in CSS <https://ishadeed.com/article/understanding-z-index/>
 * Managing CSS Z-Index In Large Projects — Smashing Magazine <https://jobs.smashingmagazine.com/2021/02/css-z-index-large-projects/>
 * Remove unused CSS styles from Bootstrap using PurgeCSS  <https://medium.com/dwarves-foundation/remove-unused-css-styles-from-bootstrap-using-purgecss-88395a2c5772>
-* How to Fix Issues With CSS Position Sticky Not Working? - Designcise <https://www.designcise.com/web/tutorial/how-to-fix-issues-with-css-position-sticky-not-working>
 
 
 ## CSS modules / Styled Components
