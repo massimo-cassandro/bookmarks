@@ -26,12 +26,11 @@
 ## img segnaposto
 
 * BlurHash <https://blurha.sh/>
-* Placeholder.com <https://placeholder.com/>
+* Placehold | A simple, fast and free image placeholder service <https://placehold.co/>
 * Holder.js <http://holderjs.com/>
 * Lorem Picsum <https://picsum.photos/>
 * Lorem.space - placeholder image generator <https://lorem.space/>
 * Dynamic Dummy Image Generator - DummyImage.com <https://dummyimage.com/>
-* BlurHash <https://blurha.sh/>
 
 
 ## cloud services / media delivery
