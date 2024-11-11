@@ -24,6 +24,7 @@
 
 
 ## fonts interessanti
+* Agrandir - Free to Try Font with 74 Styles – Pangram Pangram Foundry <https://pangrampangram.com/products/agrandir>
 * Connary Fagen:Cartograph <https://connary.com/cartograph.html>
 * AdapterPE <https://rosettatype.com/AdapterPE>
 * Archivo <https://www.omnibus-type.com/fonts/archivo/>
