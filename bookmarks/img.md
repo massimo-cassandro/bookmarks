@@ -22,7 +22,6 @@
 * squoosh/libsquoosh at dev · GoogleChromeLabs/squoosh <https://github.com/GoogleChromeLabs/squoosh/tree/dev/libsquoosh>
 
 
-
 ## img segnaposto
 
 * BlurHash <https://blurha.sh/>
@@ -32,6 +31,8 @@
 * Lorem.space - placeholder image generator <https://lorem.space/>
 * Dynamic Dummy Image Generator - DummyImage.com <https://dummyimage.com/>
 
+## Effetti
+* Creating a halftone effect with CSS · leanrada.com <https://leanrada.com/notes/pure-css-halftone/>
 
 ## cloud services / media delivery
 
