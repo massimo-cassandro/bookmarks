@@ -56,6 +56,7 @@
 * Tailwind UI <https://tailwindui.com/>
 * shadcn/ui <https://ui.shadcn.com/>
 * Naive UI <https://www.naiveui.com/en-US/os-theme>
+* Windy | A React UI Kit Powered by Tailwind <https://windy-docs.vercel.app/>
 
 
 

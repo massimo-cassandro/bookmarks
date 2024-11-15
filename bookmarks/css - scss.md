@@ -10,7 +10,8 @@
 * ✿ dabblet.com <http://dabblet.com/> 
 * QQ - Quantity Queries Builder <http://quantityqueries.com/>
 * :nth Tester <https://css-tricks.com/examples/nth-child-tester/>
-  
+* Open Props: sub-atomic styles <https://open-props.style/>
+
 ---
 
 * How to Fix Issues With CSS Position Sticky Not Working? - Designcise <https://www.designcise.com/web/tutorial/how-to-fix-issues-with-css-position-sticky-not-working>
@@ -109,3 +110,19 @@
 * Neumorphism in user interfaces. How UI trends reach for inspiration… | by Michal Malewicz | UX Collective <https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6>
 * How To Create Claymorphism Using CSS | Hype4Academy <https://hype4.academy/articles/coding/how-to-create-claymorphism-using-css>
 
+
+## Framework css
+
+* Tailwind CSS - Rapidly build modern websites without ever leaving your HTML. <https://tailwindcss.com/>
+* tailblocks — Ready-to-use Tailwind CSS blocks <https://mertjf.github.io/tailblocks/>
+
+***
+
+* Bootstrap docs <https://getbootstrap.com/docs>
+* itcss, from CSS Wizardry <https://itcss.io/>
+* bedrocss - by Austin Gil <https://bedrocss.austingil.com/>
+* Style Check by Austin Gil <https://style-check.stegosource.com/>
+* TACHYONS - Css Toolkit <https://tachyons.io/>
+* DoodleCSS <https://chr15m.github.io/DoodleCSS/>
+* Atomizer | An unopinionated CSS utility library for modern websites. <https://acss.io/>
+* Simple.css <https://simplecss.org/>

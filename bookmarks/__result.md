@@ -55,7 +55,6 @@
 * CSS Layout cookbook - CSS: Cascading Style Sheets | MDN <https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook>
 * CSS Section Separator Generator | wweb.dev <https://wweb.dev/resources/css-separator-generator>
 * CSS Layout ∙ Explore <https://csslayout.io/patterns/>
-* tailblocks — Ready-to-use Tailwind CSS blocks <https://mertjf.github.io/tailblocks/>
 * CSS Layout - Popular Layouts & patterns made with CSS <https://csslayout.io/>
 * Responsive Image Breakpoints Generator by Cloudinary <https://responsivebreakpoints.com/>
 * A Guide to the Responsive Images <https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/>
@@ -1071,7 +1070,6 @@
 * Introduction | Vuetensils <https://vuetensils.stegosource.com/Introduction.html>
 * Simple CSS Hack to Reduce Page Load Time | by Mayank Gupta | Jun, 2021 | JavaScript in Plain English <https://javascript.plainenglish.io/simple-css-hack-to-reduce-page-load-time-366f7aaaa3be>
 * Viewport and media query based preloading | by Francis John | Medium <https://medium.com/@francis.john/viewport-and-media-query-based-preloading-87db30ff6d5f>
-* Windy | A React UI Kit Powered by Tailwind <https://windy-docs.vercel.app/>
 * How To Style React Components | DigitalOcean <https://www.digitalocean.com/community/tutorials/how-to-style-react-components>
 * Let's Enhance – free online image upscale and enhancement. Try neural networks to increase resolution and quality now! | Let's Enhance <https://letsenhance.io/>
 * Password-protected pages on Netlify – Thomas Vantuycom <https://www.thomasvantuycom.com/password-protected-pages-on-netlify/>
@@ -1094,7 +1092,6 @@
 * Learn <https://web.dev/learn/>
 * The developer's guide to Core Web Vitals <https://raygun.com/learn/the-developers-guide-to-core-web-vitals>
 * open-source-labs/obsidian: GraphQL, built for Deno - a native GraphQL caching client and server module <https://github.com/open-source-labs/obsidian>
-* Open Props: sub-atomic styles <https://open-props.style/>
 * Beginner’s guide to Svelte - From basics to state management and animation <https://www.twilio.com/blog/all-you-need-to-know-svelte>
 * Overview <https://shoelace.style/>
 * OpenReplay | Open-Source Session Replay <https://openreplay.com/index.html>
