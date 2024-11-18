@@ -1,5 +1,9 @@
 # Webpack
 
+* createapp - webpack/Parcel/Snowpack boilerplate generator <https://createapp.dev/webpack>
+
+***
+
 * Output | webpack <https://webpack.js.org/configuration/output/#template-strings>
 * webpack Tutorial: How to Set Up webpack 5 From Scratch | Tania Rascia <https://www.taniarascia.com/how-to-use-webpack/>
 * taniarascia/webpack-boilerplate: A sensible webpack 5 boilerplate. <https://github.com/taniarascia/webpack-boilerplate>
