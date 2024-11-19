@@ -12,6 +12,8 @@
 * :nth Tester <https://css-tricks.com/examples/nth-child-tester/>
 * Open Props: sub-atomic styles <https://open-props.style/>
 * Fancy Border Radius Generator <https://9elements.github.io/fancy-border-radius/>
+* CSS Border Radius Generator Online | 10015 Tools <https://10015.io/tools/css-border-radius-generator>
+* CSS Border-radius Generator <https://www.htmlcssbuttongenerator.com/border-radius-generator.php>
 
 ---
 
