@@ -14,6 +14,7 @@
 * Moment.js | Docs <https://momentjs.com/docs/>
 
 ## Datepickers
+* React Multi Date Picker - Home <https://shahabyazdi.github.io/react-multi-date-picker/>
 * Vanilla Calendar Pro - Lightweight and feature-rich calendar in pure JavaScript <https://vanilla-calendar.pro/>
 * duetds/date-picker: Duet Date Picker is an open source version of Duet Design System’s accessible date picker. Try live example at https://duetds.github.io/date-picker/ <https://github.com/duetds/date-picker>
 * dateDropper Javascript - A javascript date picker UI component <https://felixg.io/products/datedropper-javascript>
