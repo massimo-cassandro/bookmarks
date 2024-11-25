@@ -40,6 +40,7 @@
 * Why React Re-Renders <https://www.joshwcomeau.com/react/why-react-re-renders/>
 
 ## React frameworks / Librerie
+* React Element Popper - Home <https://shahabyazdi.github.io/react-element-popper/>
 * React Bootstrap. The most popular front-end framework, rebuilt for React <https://react-bootstrap.github.io/>
 * React Router | Docs v6 <https://reactrouter.com/docs/en/v6>
 * React Router 6 Deferred Fetch <https://www.infoxicator.com/react-router-6-deferred-fetch>
