@@ -4,6 +4,8 @@
 
 ***
 
+* jaketrent/html-webpack-template: a better default template for html-webpack-plugin <https://github.com/jaketrent/html-webpack-template>
+* html-webpack-template/index.html at 86f285d5c790a6c15263f5cc50fd666d51f974fd · jaketrent/html-webpack-template <https://github.com/jaketrent/html-webpack-template/blob/86f285d5c790a6c15263f5cc50fd666d51f974fd/index.html>
 * Understanding the html-webpack-plugin | by YashPatel | Medium <https://medium.com/@laners.org/understanding-the-html-webpack-plugin-64627c71bb4f>
 * Output | webpack <https://webpack.js.org/configuration/output/#template-strings>
 * webpack Tutorial: How to Set Up webpack 5 From Scratch | Tania Rascia <https://www.taniarascia.com/how-to-use-webpack/>
