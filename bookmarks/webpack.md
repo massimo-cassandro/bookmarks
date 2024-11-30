@@ -8,6 +8,9 @@
 * html-webpack-template/index.html at 86f285d5c790a6c15263f5cc50fd666d51f974fd · jaketrent/html-webpack-template <https://github.com/jaketrent/html-webpack-template/blob/86f285d5c790a6c15263f5cc50fd666d51f974fd/index.html>
 * Understanding the html-webpack-plugin | by YashPatel | Medium <https://medium.com/@laners.org/understanding-the-html-webpack-plugin-64627c71bb4f>
 * html-webpack-plugin - npm <https://www.npmjs.com/package/html-webpack-plugin>
+* Vishal0203/file-include-webpack-plugin: A webpack plugin to include files using @@ include syntax in html files, like gulp-file-include <https://github.com/Vishal0203/file-include-webpack-plugin>
+
+
 ***
 
 * Output | webpack <https://webpack.js.org/configuration/output/#template-strings>
