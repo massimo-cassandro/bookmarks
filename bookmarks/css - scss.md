@@ -22,6 +22,7 @@
 
 ---
 
+* Next-level frosted glass with backdrop-filter • Josh W. Comeau <https://www.joshwcomeau.com/css/backdrop-filter/>
 * How To Center a Div <https://www.joshwcomeau.com/css/center-a-div/>
 * Centering in CSS <https://web.dev/articles/centering-in-css>
 * Min-Max-Value Interpolation <https://min-max-calculator.9elements.com/>
