@@ -42,3 +42,28 @@ https://github.com/JefMari/awesome-wysiwyg-editors
 * Zed - Code at the speed of thought <https://zed.dev/>
 * https://richtexteditor.com/
 
+
+
+-----
+
+* Typeface anatomy - Wikipedia <https://en.m.wikipedia.org/wiki/Typeface_anatomy>
+* Deep dive CSS: font metrics, line-height and vertical-align - Vincent De Oliveira <https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align>
+* Font style matcher <https://meowni.ca/font-style-matcher/>
+* Gutenberg — A Meaningful Web Typography Starter Kit <http://matejlatin.github.io/Gutenberg/>
+* Font Match <https://font-match.netlify.app/>
+* What Is Typography? A Deep Dive Into All Terms And Rules <https://www.shillingtoneducation.com/blog/what-is-typography/>
+* Understanding diacritics | TypeTogether <https://www.type-together.com/understanding-diacritics>
+* Best Practices Of Combining Typefaces — Smashing Magazine <https://www.smashingmagazine.com/2010/11/best-practices-of-combining-typefaces/>
+* Fluid Typography <https://fluid-typography.netlify.app/>
+* Modern fluid typography editor <https://modern-fluid-typography.vercel.app/>
+* Line length revisited: following the research <https://designregression.com/article/line-length-revisited-following-the-research>
+* A Reference Guide For Typography In Mobile Web Design — Smashing Magazine <https://www.smashingmagazine.com/2018/06/reference-guide-typography-mobile-web-design/>
+* What’s Trending in Type · Typewolf <https://www.typewolf.com/>
+* Elements of multi-script typography: codes, keys, and word shapes <https://designregression.com/essay/elements-of-multi-script-typography-chapter-2>
+* Elements of multi-script typography: paragraphs and pixels <https://designregression.com/essay/elements-of-multi-script-typography-chapter-3>
+* Type Scale - A Visual Calculator <https://type-scale.com/>
+* Shady Characters – The secret life of punctuation <https://shadycharacters.co.uk/>
+* Connary Fagen:Font Pairing Guide <https://connary.com/pairing.html>
+* Pairing Fonts: The Step-by-Step (& Illustrated) Guide <https://www.learnui.design/blog/guide-pairing-fonts.html>
+* Understanding typography: Giambattista Bodoni and the invention of modern type | by Jon Robinson | UX Collective <https://uxdesign.cc/understanding-typography-giambattista-bodoni-and-the-invention-of-modern-type-76b1fe6c82df>
+* Butterick’s Practical Typography <https://practicaltypography.com/>

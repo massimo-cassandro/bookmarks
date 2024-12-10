@@ -96,8 +96,11 @@
 * Mixing Colours of Equal Luminance — Part 1 | by Colin Shanley | Design + Sketch | Medium <https://medium.com/sketch-app-sources/mixing-colours-of-equal-luminance-part-1-41f69518d647>
 * Mixing Colours of Equal Luminance — Part 2 | by Colin Shanley | Design + Sketch | Medium <https://medium.com/sketch-app-sources/mixing-colours-of-equal-luminance-part-2-3e10c07c947c>
 * The Contrast Triangle <https://contrast-triangle.com/>
+* Upgrading colors to HD on the web – Bram.us <https://www.bram.us/2022/10/13/upgrading-colors-to-hd-on-the-web/>
+* Mixing and combining red and blue in data visualization | by Theresa-Marie Rhyne | UX Collective <https://uxdesign.cc/mixing-and-combining-red-and-blue-in-data-visualization-cd2c8cfd9c8>
 * Colour management, part 1 <https://bjango.com/articles/colourmanagementgamut/>
-
+* Colour management, part 2 <https://bjango.com/articles/colourmanagementgamma/>
+* Colour management, part 3 <https://bjango.com/articles/colourmanagementsettings/>
 
 
 
