@@ -5,16 +5,23 @@
 
 * Omatsuri <https://omatsuri.app/>
 * Patterns  |  Component patterns  |  web.dev <https://web.dev/patterns?hl=en>
-* agneym/playground: A simple playground for HTML, CSS and JavaScript supporting module imports. <https://github.com/agneym/playground>
+
+---
+
 * Shiki - Syntax highlighter <https://shiki.style/>
 * Prism <https://prismjs.com/>
+
+---
+
+* agneym/playground: A simple playground for HTML, CSS and JavaScript supporting module imports. <https://github.com/agneym/playground>
 * CodeMirror <https://codemirror.net/>
+* Component toolkit for creating live-running code editing experiences | Sandpack <https://sandpack.codesandbox.io/>
+* Building a Next-Level Code Playground / Sandbox / REPL with Sandpack <https://www.joshwcomeau.com/react/next-level-playground/>
 
 ---
 
 * LottaTools <https://lottatools.com/>
 * React Awesome Shapes <https://awesomeshapes.netlify.app/>
-* LottaTools <https://lottatools.com/>
 * Download a virtual machine <https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/>
 * Transform (conversione linguaggi, formati...) <https://transform.tools/>
 * View Source <https://neatnik.net/view-source/>

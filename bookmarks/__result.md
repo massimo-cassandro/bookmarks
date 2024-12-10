@@ -1274,7 +1274,6 @@
 * Massimo Cassandro on CodePen <https://codepen.io/massimo-cassandro/>
 * JSFiddle - Code Playground <https://jsfiddle.net/>
 * The first commented line is your dabblet’s title ✿ dabblet.com <https://dabblet.com/>
-* Building a Next-Level Code Playground / Sandbox / REPL with Sandpack <https://www.joshwcomeau.com/react/next-level-playground/>
 * NetNewsWire: Free and Open Source RSS Reader for Mac and iOS <https://netnewswire.com/>
 * Chrome Developers <https://developer.chrome.com/>
 * Cheat Sheet <https://docs.emmet.io/cheat-sheet/>
@@ -1604,7 +1603,6 @@
 * Braun font <https://www.iconwerk.com/braun-font.html>
 * Frutiger: from a dot to the Paris airport | by Neel Dozome | Sep, 2022 | UX Collective <https://uxdesign.cc/frutiger-from-a-dot-to-the-paris-airport-4a94ddff58d9>
 * Inter - Google Fonts <https://fonts.google.com/specimen/Inter?query=inter>
-* Component toolkit for creating live-running code editing experiences | Sandpack <https://sandpack.codesandbox.io/>
 * :where() :is() :has()? New CSS selectors that make your life easier | Polypane, The browser for ambitious developers <https://polypane.app/blog/where-is-has-new-css-selectors-that-make-your-life-easier/>
 * Understanding min-content, max-content, and fit-content in CSS - LogRocket Blog <https://blog.logrocket.com/understanding-min-content-max-content-fit-content-css/>
 * Not All Zeros are Equal | OddBird <https://www.oddbird.net/2022/08/04/zero-units/>

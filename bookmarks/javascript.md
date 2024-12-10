@@ -53,7 +53,6 @@
 * JSitor - JavaScript, HTML, CSS, online editor <https://jsitor.com/>
 * MDN Playground <https://developer.mozilla.org/en-US/play>
 * CodeSandbox <https://codesandbox.io/s/test-rvbu9g>
-* Sandpack <https://sandpack.codesandbox.io/>
 * CodePen <http://codepen.io>
 * StackBlitz <https://stackblitz.com/>
 
