@@ -8,7 +8,7 @@
 * agneym/playground: A simple playground for HTML, CSS and JavaScript supporting module imports. <https://github.com/agneym/playground>
 * Shiki - Syntax highlighter <https://shiki.style/>
 * Prism <https://prismjs.com/>
-
+* CodeMirror <https://codemirror.net/>
 
 ---
 
