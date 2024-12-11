@@ -16,11 +16,7 @@
 * Web Vitals <https://web.dev/vitals/>
 * GitHub - rviscomi/capo.js: Get your <head> in order <https://github.com/rviscomi/capo.js>
 
-
-## device check & list
-* mydevice.io : web devices capabilities <https://www.mydevice.io/>
-* Support Details [Get Your Browser Version, System Information & More] <https://supportdetails.net/>  
-* What is my screen resolution <https://screenresolutiontest.com/>
+## device list
 * Screen Sizes | Viewport Sizes and Pixel Densities for Popular Devices <https://screensiz.es/>
 * Screen Size Map <https://www.screensizemap.com/>
 
