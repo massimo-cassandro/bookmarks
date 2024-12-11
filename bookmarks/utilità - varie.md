@@ -37,7 +37,7 @@
 * What is my screen resolution <https://screenresolutiontest.com/>
 
   
-### mysql
+## mysql
 
 * DBeaver Community | Free Universal Database Tool <https://dbeaver.io/>
 * CSV To SQL Converter <https://www.convertcsv.com/csv-to-sql.htm>
