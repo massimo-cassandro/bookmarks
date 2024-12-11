@@ -32,6 +32,11 @@
 * Make a Flippin’ 3D Countdown with CSS & JavaScript | Viget <https://www.viget.com/articles/make-a-flippin-3d-countdown-with-css-and-javascript/>
 
 
+## device check
+* mydevice.io : web devices capabilities <https://www.mydevice.io/>
+* What is my screen resolution <https://screenresolutiontest.com/>
+
+  
 ### mysql
 
 * DBeaver Community | Free Universal Database Tool <https://dbeaver.io/>
