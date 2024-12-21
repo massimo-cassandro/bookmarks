@@ -39,12 +39,3 @@
 * Spline - Design tool for 3D web experiences <https://spline.design/>
 * ff-works (ex iFFmpeg) <https://www.ffworks.net/>
 * noDRM/DeDRM_tools: DeDRM tools for ebooks <https://github.com/noDRM/DeDRM_tools>
-
-
-## sqlite
-* SQLite Home Page <https://www.sqlite.org/>
-* DB Browser for SQLite <https://sqlitebrowser.org/>
-* SQLiteFlow | SQLite Editor for Mac & iOS <https://www.sqliteflow.com/>
-* SQLiteStudio <https://sqlitestudio.pl/>
-
-
