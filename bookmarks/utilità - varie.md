@@ -36,12 +36,6 @@
 * mydevice.io : web devices capabilities <https://www.mydevice.io/>
 * What is my screen resolution <https://screenresolutiontest.com/>
 
-  
-## mysql
-
-* DBeaver Community | Free Universal Database Tool <https://dbeaver.io/>
-* CSV To SQL Converter <https://www.convertcsv.com/csv-to-sql.htm>
-
 
 ## Bookmarklet
 * Bookmarklet Maker <https://caiorss.github.io/bookmarklet-maker/>
