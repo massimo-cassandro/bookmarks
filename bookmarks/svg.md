@@ -9,6 +9,7 @@
 * Free SVG generators, color tools & web design tools <https://www.fffuel.co/>
 * Calligrapher.ai: Realistic computer-generated handwriting <https://www.calligrapher.ai/>
 * Copy-Paste SVG Shapes <https://shapes.framer.website/>
+* Dynamowaves - SVG wave templates <https://dynamowaves.markzebley.com/>
 
 ---
 * Convert2Svg - A Simple Image To SVG Vector Converter <https://convert2svg.com/>

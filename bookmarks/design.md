@@ -211,7 +211,6 @@
 * Design Patterns — Smashing Magazine <https://www.smashingmagazine.com/category/design-patterns/>
 * Material Design 3 <https://m3.material.io/>
 * Human Interface Guidelines - Human Interface Guidelines - Design - Apple Developer <https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/>
-* mzebley/dynamowaves: SVG wave HTML templates that shuffle themselves on render. <https://github.com/mzebley/dynamowaves>
 * Golden Ratio Typography Pro Calculator <https://grtcalculator.com/pro/>
 * Logo Design Love - on logos, symbols, icons, and marks <https://www.logodesignlove.com/>
 * HICKS : Graphic design, branding, illustration & iconography <https://hicks.design/>
