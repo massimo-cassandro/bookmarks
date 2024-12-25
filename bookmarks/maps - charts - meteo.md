@@ -4,6 +4,7 @@
 
 ## Charts
 
+* Mermaid | Diagramming and charting tool <https://mermaid.js.org/>
 * Chart.js | Open source HTML5 Charts for your website <https://www.chartjs.org/>
 * Recharts <https://recharts.org/en-US/>
 * Google Charts — Google Developers <https://developers.google.com/chart/>

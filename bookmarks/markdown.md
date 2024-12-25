@@ -13,3 +13,4 @@
 * Online Markdown Editor - Dillinger, the Last Markdown Editor ever. <https://dillinger.io/>
 * StackEdit – In-browser Markdown editor <https://stackedit.io/>
 * HTML to Markdown Converter <https://codebeautify.org/html-to-markdown>
+* Mermaid | Diagramming and charting tool <https://mermaid.js.org/>
