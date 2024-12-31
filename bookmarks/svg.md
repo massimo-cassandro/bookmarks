@@ -10,6 +10,7 @@
 * Calligrapher.ai: Realistic computer-generated handwriting <https://www.calligrapher.ai/>
 * Copy-Paste SVG Shapes <https://shapes.framer.website/>
 * Dynamowaves - SVG wave templates <https://dynamowaves.markzebley.com/>
+* Online Mockup Generator [9641 Templates] - Mediamodifier <https://mediamodifier.com/>
 
 ---
 * Convert2Svg - A Simple Image To SVG Vector Converter <https://convert2svg.com/>
